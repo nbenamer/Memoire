@@ -1,0 +1,8 @@
+Projet : generateur de fiches d'arret a partir de decisions de la Cour de cassation (Judilibre).
+Langue : code et commentaires en francais.
+Stack : Python 3.11, HuggingFace (CamemBERT/JuriBERT, BARThez), FAISS, sentence-transformers.
+Architecture : pipeline modulaire (acquisition -> segmentation -> resume -> retrieval -> evaluation).
+Contraintes :
+- Ne jamais logguer ni commiter de donnees de decisions (RGPD, pseudonymisation).
+- Privilegier des fonctions courtes, testees, documentees.
+- Toujours expliquer les choix techniques en une phrase.
