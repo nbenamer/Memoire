@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38c593c619cd1f95c799",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.036",
+  "numeros": [
+    "26-11.036"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60846",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : G 26-11.036\n \n \n Demandeur(s)\n : Mme [O] et autre\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : Mme [F] et autres\n \n \n Avocat(s)\n : la SARL Cabinet François Pinet,\n la SARL Meier-Bourdeau, Lécuyer et associés\n \n \n \n \n \n \n Ordonnance\n : 60846\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ Mme [W] [O], domiciliée [Adresse 1], [Localité 1],\n \n 2°/ Mme [P] [L], domiciliée [Adresse 2], [Localité 2],\n \n ont formé un pourvoi le 27 janvier 2026 contre l'arrêt rendu\n le 25 novembre 2025 par la cour d'appel de Rennes (1re chambre civile),\n dans le litige les opposant :\n \n 1°/ à Mme [Y] [F], domiciliée [Adresse 3], [Localité 3],\n \n 2°/ à M. [G] [B], domicilié [Adresse 4],\n [Localité 4],\n \n 3°/ à la société Lloyd's Insurance Company, société anonyme, dont le siège est [Adresse 5], [Localité 5] (Belgique),\n \n 4°/ à la société Saint Joseph, société à responsabilité limitée, dont le siège est [Adresse 6], [Localité 6], exerçant sous l'enseigne Century 21, priise en la personne de Mme [X] [S] de la société [X] [S], en qualité de liquidateur judiciaire, domiciliée [Adresse 7], [Localité 7],\n \n 5°/ à la société Beazley Solutions International Limited, dont le siège est\n [Adresse 8], [Localité 8], prise en qualités d'assureur de la société Saint Joseph.\n \n Par acte déposé au greffe de la Cour de cassation le 5 mai 2026, la SARL Boré, Salve de Bruneton et Mégret, agissant aux noms de Mme [W] [O] et de Mme [P] [L], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à Mme [W] [O] et à Mme [P] [L] de leur désistement.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1856
+      ]
+    ],
+    "dispositif": [
+      [
+        1856,
+        1981
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-25",
+    "title": "Cour d'appel de Rennes\n1A",
+    "jurisdiction": "Cour d'appel de Rennes",
+    "chamber": "1A",
+    "solution": "Statue à nouveau en déboutant le ou les demandeurs de l'ensemble de leurs demandes",
+    "id": "6926b13077bf00d0f5ea88f9",
+    "sourceId": "jurica:3135602",
+    "number": "24/03642"
+  }
+}

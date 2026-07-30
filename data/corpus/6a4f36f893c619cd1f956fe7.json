@@ -1,0 +1,54 @@
+{
+  "id": "6a4f36f893c619cd1f956fe7",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.969",
+  "numeros": [
+    "25-12.969",
+    "25-12.969"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310493",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10493 F\n \n Pourvoi n° P 25-12.969 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n M. [V] [P], domicilié [Adresse 1], a formé le pourvoi n° P 25-12.969 contre le jugement rendu le 7 janvier 2025 par le tribunal judiciaire de Villefranche-sur-Saône, dans le litige l'opposant à la société Foncia Loire Auvergne, société par actions simplifiée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Gallet, conseillère référendaire, les observations écrites de la SCP Ricard, Bendel-Vasseur, Ghnassia, avocat de M. [P], de la SARL Delvolvé et Trichet, avocat de la société Foncia Loire Auvergne, les observations orales de Mme Compagnie, avocate générale, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Gallet, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, Mme Compagnie, avocate générale, et Mme Sara, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [P] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. [P] et le condamne à payer à la société Foncia Loire Auvergne la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile, et signé par Mme Proust, conseillère doyenne en ayant délibéré, en remplacement de Mme Teiller, présidente empêchée, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1515
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1515,
+        1888
+      ]
+    ],
+    "dispositif": [
+      [
+        1888,
+        2684
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-01-07",
+    "title": "Tribunal judiciaire de Villefranche-sur-Saône",
+    "jurisdiction": "Tribunal judiciaire de Villefranche-sur-Saône",
+    "number": "24/00064"
+  }
+}

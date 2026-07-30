@@ -1,0 +1,52 @@
+{
+  "id": "6a4f384793c619cd1f95adb3",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.030",
+  "numeros": [
+    "26-11.030"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60900",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : B 26-11.030\n \n \n Demandeur(s)\n : Mme [W] et autre\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : la société Les Portes de Langon\n \n \n Avocat(s)\n : la SAS Boulloche, Colin, Stoclet et associés\n \n \n \n \n \n \n Ordonnance\n : 60900\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ Mme [C] [W], domiciliée [Adresse 1], agissant en qualité de liquidateur amiable de la société Sanchez-Ortiz, [W] et [S], notaires associés,\n \n 2°/ Mme [P] [S], domiciliée [Adresse 2],\n [Localité 1], agissant en qualité de liquidateur amiable de la société Sanchez-ortiz, [W] et [S], notaires associés,\n \n ont formé un pourvoi le 27 janvier 2026 contre l'arrêt rendu\n le 4 novembre 2025 par la cour d'appel de Bordeaux (1re chambre civile), dans le litige les opposant à la société Les Portes de Langon, dont le siège est\n [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 22 mai 2026, la SARL Boré, Salve de Bruneton et Mégret, agissant aux noms de Mme [C] [W] et de Mme [P] [S], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à Mme [C] [W] et à Mme [P] [S], a déclaré se désister du pourvoi.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1422
+      ]
+    ],
+    "dispositif": [
+      [
+        1422,
+        1547
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-04",
+    "title": "Cour d'appel de Bordeaux\n1A",
+    "jurisdiction": "Cour d'appel de Bordeaux",
+    "chamber": "1A",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "690af10128bf9d42b6cc5021",
+    "sourceId": "jurica:3123071",
+    "number": "21/02054"
+  }
+}

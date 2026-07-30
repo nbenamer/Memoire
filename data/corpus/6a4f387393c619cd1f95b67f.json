@@ -1,0 +1,52 @@
+{
+  "id": "6a4f387393c619cd1f95b67f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.399",
+  "numeros": [
+    "26-10.399"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60881",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : R 26-10.399\n \n \n Demandeur(s)\n : la société Colas France\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n Défendeur(s)\n : M. [A] et autre\n \n \n Avocat(s)\n : la SCP Marlange et de La Burgade\n \n \n \n \n \n \n Ordonnance\n : 60881\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Colas France, société par actions simplifiée, dont le siège est\n [Adresse 1], venant aux droits de la société Colas Midi Méditerranée, a formé un pourvoi le 14 janvier 2026 contre l'arrêt rendu le 14 novembre 2025 par la cour d'appel d'Aix-en-Provence (chambre 4-8b), dans le litige l'opposant :\n \n 1°/ à M. [P] [A], domicilié [Adresse 2],\n [Localité 1],\n \n 2°/ à la caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes, dont le siège est [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 15 mai 2026, la SARL Le Prado - Gilbert, agissant au nom de la société Colas France,\n a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société Colas France de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1280
+      ]
+    ],
+    "dispositif": [
+      [
+        1280,
+        1405
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-14",
+    "title": "Cour d'appel d'Aix en Provence\n14",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "14",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691ae3b05222181ceeb6f65b",
+    "sourceId": "jurica:3129452",
+    "number": "23/15834"
+  }
+}

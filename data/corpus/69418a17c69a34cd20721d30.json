@@ -1,0 +1,58 @@
+{
+  "id": "69418a17c69a34cd20721d30",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre criminelle",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "22-87.506",
+  "numeros": [
+    "22-87.506"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:CR01651",
+  "date_decision": "2025-12-16",
+  "type_decision": "Autre",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "N° V 22-87.506 F-B\n \n N° 01651\n \n \n SB4\n 16 DÉCEMBRE 2025\n \n \n IRRECEVABILITE DE LA REQUETE\n \n \n M. BONNAL président,\n \n \n \n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E\n ________________________________________\n \n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE, \n DU 16 DÉCEMBRE 2025\n \n \n \n M. [F] [P] a déposé, au nom de M. [L] [O], une requête tendant à la rectification d'une erreur matérielle de l'arrêt n° 1433 rendu par la Cour de cassation, le 5 décembre 2023, qui a statué sur le pourvoi, formé par M. [L] [O], contre l'arrêt de la cour d'appel de Paris, en date du 16 novembre 2022.\n \n Sur le rapport de M. Violeau, conseiller référendaire, les conclusions de M. Aubert, avocat général référendaire, après débats en l'audience publique du 18 novembre 2025 où étaient présents M. Bonnal, président, M. Violeau, conseiller rapporteur, Mme Labrousse, conseiller de la chambre, et Mme Bendjebbour, greffier de chambre,\n \n la chambre criminelle de la Cour de cassation, composée en application de l'article 567-1-1 du code de procédure pénale, des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Examen de la recevabilité de la requête\n \n 1. Par arrêt du 5 décembre 2023 (pourvoi n° 22-87.506), la Cour de cassation a prononcé, sur le pourvoi de M. [L] [O], la cassation de l'arrêt de la cour d'appel de Paris, en date du 16 novembre 2022, mais en ses seules dispositions relatives à la culpabilité et à la peine, toutes autres dispositions étant expressément maintenues.\n \n 2. M. Khéops Lara, avocat au barreau de Melun, a présenté une requête en rectification de cet arrêt en ce qu'il a omis de prononcer la cassation sur les intérêts civils. \n \n 3. Il résulte de l'article 4 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, que seuls les avocats au Conseil d'État et de la Cour de cassation peuvent exercer leur ministère de représentation et d'assistance des parties devant la Cour de cassation. \n \n 4. Dès lors, la requête est irrecevable.\n \n PAR CES MOTIFS, la Cour :\n \n DÉCLARE la requête IRRECEVABLE ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président en son audience publique du seize décembre deux mille vingt-cinq.",
+  "sommaire": "Il résulte de l'article 4 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques que seuls les avocats au Conseil d'Etat et à la Cour de cassation peuvent représenter et assister les parties devant la Cour de cassation. \nN'est pas recevable la requête en rectification d'erreur matérielle d'un arrêt rendu par la Cour de cassation déposée par un avocat qui n'est pas avocat aux Conseils.",
+  "themes": [
+    "avocat",
+    "avocat aux conseils",
+    "monopole d'assistance et de représentation devant la cour de cassation",
+    "etendue",
+    "requête en rectification d'erreur matérielle"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Article 4 de la loi n° 71-<a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=1130+certaines+professions+judiciaires+et+juridiques&page=1&init=true\" target=\"_blank\">1130</a> du 31 décembre <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=1971+certaines+professions+judiciaires+et+juridiques&page=1&init=true\" target=\"_blank\">1971</a> portant réforme de certaines professions judiciaires et juridiques."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1233
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1233,
+        2148
+      ]
+    ],
+    "dispositif": [
+      [
+        2148,
+        2372
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

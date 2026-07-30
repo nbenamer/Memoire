@@ -1,0 +1,54 @@
+{
+  "id": "6a4de4d193c619cd1f842bbd",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-19.782",
+  "numeros": [
+    "24-19.782",
+    "24-19.782"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C110471",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 1\n \n AB28\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme CHAMPALAUNE, présidente\n \n \n \n Arrêt n° 10471 F\n \n Pourvoi n° Y 24-19.782 \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, DU 8 JUILLET 2026\n \n 1°/ Mme [S] [E],\n \n 2°/ M. [J] [E],\n \n tous deux domiciliés [Adresse 1],\n \n ont formé le pourvoi n° Y 24-19.782 contre l'arrêt rendu le 13 juin 2024 par la cour d'appel de Chambéry (2e chambre), dans le litige les opposant à la société BNP Paribas Personal Finance, société anonyme, dont le siège est [Adresse 2], venant aux droits de la société Banque Solfea, défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Robin-Raschel, conseillère référendaire, les observations écrites de la SCP Gouz-Fitoussi, avocat de M. et Mme [E], de la SARL Delvolvé et Trichet, avocat de la société BNP Paribas Personal Finance, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Champalaune, présidente, Mme Robin-Raschel, conseillère référendaire rapporteure, Mme Guihal, conseillère doyenne, et Mme Babut, greffière de chambre,\n \n la première chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. et Mme [E] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. et Mme [E] et les condamne à payer à la société BNP Paribas Personal Finance la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, première chambre civile, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1506
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1506,
+        1885
+      ]
+    ],
+    "dispositif": [
+      [
+        1885,
+        2501
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-06-13",
+    "title": "Cour d'appel de Chambéry",
+    "jurisdiction": "Cour d'appel de Chambéry",
+    "number": "22/00947"
+  }
+}

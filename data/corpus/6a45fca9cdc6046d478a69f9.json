@@ -1,0 +1,52 @@
+{
+  "id": "6a45fca9cdc6046d478a69f9",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.287",
+  "numeros": [
+    "26-10.287"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50563",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [P]\n \n \n \n Pourvoi n°\n : U 26-10.287\n \n \n Demandeur(s)\n : M. [W]\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n Défendeur(s)\n : M. [S]\n \n \n \n \n \n \n Ordonnance\n : 50563\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [A] [W], domicilié [Adresse 1], a formé un pourvoi le 12 janvier 2026 contre l'arrêt rendu le 2 octobre 2025 par la cour d'appel de Lyon (1re chambre civile A), dans le litige l'opposant à M. [D] [S], domicilié [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer le demandeur déchu de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        894
+      ]
+    ],
+    "dispositif": [
+      [
+        894,
+        1024
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-02",
+    "title": "Cour d'appel de Lyon\n01",
+    "jurisdiction": "Cour d'appel de Lyon",
+    "chamber": "01",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "68df5d724a4e15bf2fe4fa28",
+    "sourceId": "jurica:3107314",
+    "number": "21/05183"
+  }
+}

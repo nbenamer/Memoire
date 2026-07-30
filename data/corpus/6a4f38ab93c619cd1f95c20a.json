@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38ab93c619cd1f95c20a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.204",
+  "numeros": [
+    "26-11.204"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60857",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : R 26-11.204\n \n \n Demandeur(s)\n : la commune de [Localité 1]\n \n \n Avocat(s)\n : la SCP Bauer-Violas, Feschotte-Desbois et Sebagh\n \n \n Défendeur(s)\n : la SCI de la [Adresse 1] et autre\n \n \n \n \n \n \n Ordonnance\n : 60857\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La commune de [Localité 1], agissant par son maire en exercice, domicilié en cette qualité [Adresse 2], [Localité 1], a formé un pourvoi le 2 février 2026 contre l'arrêt rendu\n le 2 mai 2025 par la cour d'appel de Paris (pôle 4, chambre 1), dans le litige l'opposant :\n \n 1°/ à la SCI de la [Adresse 1], société civile immobilière, dont le siège est [Adresse 1], [Localité 1], en liquidation judiciaire,\n \n 2°/ à la société Archibald, société d'exercice libéral à responsabilité limitée, dont le siège est [Adresse 3], [Localité 2], prise en la personne de Mme [C] [D], en qualité de liquidateur judiciaire de la SCI de la [Adresse 1].\n \n Par acte déposé au greffe de la Cour de cassation le 12 mai 2026, la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, agissant au nom de la commune de Saint-Julien-du-Sault, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la commune de [Localité 1], de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1472
+      ]
+    ],
+    "dispositif": [
+      [
+        1472,
+        1597
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-05-02",
+    "title": "Cour d'appel de Paris\nG1",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "G1",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6815a4d9cb0042eb222772a2",
+    "sourceId": "jurica:3032346",
+    "number": "24/01030"
+  }
+}

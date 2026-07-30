@@ -1,0 +1,54 @@
+{
+  "id": "6a4f37d893c619cd1f959645",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-60.196",
+  "numeros": [
+    "25-60.196",
+    "25-60.196"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200755",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / EXPTS \n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 755 F-D\n \n Recours n° X 25-60.196 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n M. [V] [A], domicilié [Adresse 1], a formé le recours n° X 25-60.196 en annulation d'une décision rendue le 14 novembre 2025 par l'assemblée générale des magistrats du siège de la cour d'appel de Rennes.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Cassignard, conseillère, et l'avis de Mme de Chanville, avocate générale référendaire, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Cassignard, conseillère rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Faits et procédure \n \n 1. M. [A] a sollicité son inscription sur la liste des experts judiciaires de la cour d'appel de Rennes dans les spécialités interprétariat et traduction en langue arabe.\n \n 2. Par une décision du 14 novembre 2025 rendue au visa de l'article 2, 9°, du décret n° 2004-1463 du 23 décembre 2004 modifié par le décret n° 2023-468 du 16 juin 2023 exigeant du candidat à l'inscription une formation à l'expertise, contre laquelle M. [A] a formé un recours, l'assemblée générale des magistrats du siège de cette cour d'appel a rejeté sa demande au motif que la demande d'inscription sous les rubriques visées n'est pas justifiée par les éléments du dossier soumis à l'appréciation de l'assemblée générale.\n \n Examen du grief\n \n Exposé du grief\n \n 3. M. [A] fait valoir que l'assemblée générale a commis une erreur manifeste d'appréciation en considérant que son cursus au sein du Diplôme Universitaire « Traducteur-Interprète judiciaire » ne satisfait pas à l'obligation de formation, alors qu'il avait produit l'emploi du temps détaillé de cette formation, attestant de sa qualité technique tant par le nombre d'heures du cursus que par les enseignants qui la dispensent. Il précise qu'il a validé cette formation avec la note de 18/20 à la partie relative à l'« organisation de la justice, procédures et actes, droit pénal et civil ».\n \n Réponse de la Cour \n \n 4. C'est par des motifs exempts d'erreur manifeste d'appréciation que l'assemblée générale, statuant au vu des pièces produites par M. [A], qui ne pouvait, devant la Cour de cassation, compléter son dossier en considération de la motivation qu'il critique, a décidé de ne pas l'inscrire sur la liste des experts judiciaires de la cour d'appel.\n \n 5. Le grief ne peut, dès lors, être accueilli.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le recours ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1179
+      ]
+    ],
+    "expose": [],
+    "moyens": [
+      [
+        1179,
+        2535
+      ]
+    ],
+    "motivations": [
+      [
+        2535,
+        2955
+      ]
+    ],
+    "dispositif": [
+      [
+        2955,
+        3332
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

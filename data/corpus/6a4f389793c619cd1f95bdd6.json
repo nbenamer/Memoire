@@ -1,0 +1,52 @@
+{
+  "id": "6a4f389793c619cd1f95bdd6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.378",
+  "numeros": [
+    "26-10.378"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60866",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : T 26-10.378\n \n \n Demandeur(s)\n : M. [R]\n \n \n Avocat(s)\n : la SAS Zribi et Texier\n \n \n Défendeur(s)\n : la banque CIC Est\n \n \n Avocat(s)\n : la SAS Boucard-Capron-Maman\n \n \n \n \n \n \n Ordonnance\n : 60866\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [D] [R], domicilié [Adresse 1], à l'angle de la [Adresse 2], a formé un pourvoi le 13 janvier 2026 contre l'arrêt rendu le 13 novembre 2025 par la cour d'appel de Paris (pôle 1, chambre 10), dans le litige l'opposant à la banque CIC Est, dont le siège est [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 13 mai 2026, la SAS Zribi et Texier, agissant au nom de M. [D] [R], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à M. [D] [R] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1023
+      ]
+    ],
+    "dispositif": [
+      [
+        1023,
+        1148
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-13",
+    "title": "Cour d'appel de Paris\nB1",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "B1",
+    "solution": "Autre décision avant dire droit",
+    "id": "6916ffc5e097417ee1bda0f1",
+    "sourceId": "jurica:3128880",
+    "number": "23/12748"
+  }
+}

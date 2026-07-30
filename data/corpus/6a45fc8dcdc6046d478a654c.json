@@ -1,0 +1,48 @@
+{
+  "id": "6a45fc8dcdc6046d478a654c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.386",
+  "numeros": [
+    "26-11.386"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50570",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [S]\n \n \n \n Pourvoi n°\n : P 26-11.386\n \n \n Demandeur(s)\n : M. [J]\n \n \n Avocat(s)\n : la SCP Duhamel\n \n \n Défendeur(s)\n : la société CL conseils\n \n \n Avocat(s)\n : Me Laurent Goldman\n \n \n \n \n \n \n Ordonnance\n : 50570\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [N] [M] [J], domicilié [Adresse 1], \n a formé un pourvoi le 5 février 2026 contre l'arrêt rendu le 14 octobre 2025 par la cour d'appel de Montpellier (chambre commerciale), dans le litige l'opposant à la société CL conseils, société à responsabilité limitée, \n dont le siège est [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer le demandeur déchu de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1003
+      ]
+    ],
+    "dispositif": [
+      [
+        1003,
+        1133
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-14",
+    "title": "Cour d'appel de Montpellier",
+    "jurisdiction": "Cour d'appel de Montpellier",
+    "number": "24/01271"
+  }
+}

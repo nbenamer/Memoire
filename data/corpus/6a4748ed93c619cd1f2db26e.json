@@ -1,0 +1,48 @@
+{
+  "id": "6a4748ed93c619cd1f2db26e",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-18.669",
+  "numeros": [
+    "25-18.669"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90631",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORad\n \n \n \n Pourvoi n° : J 25-18.669\n Demandeur : M. [Q]\n Défendeur : l'union de recouvrement pour la sécurité sociale et les allocations \n familiales Franche-Comté C.N.T.F.S\n Requête n° : 191/26\n Ordonnance n° : 90631 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n l'union de recouvrement pour la sécurité sociale et les allocations familiales Franche-Comté C.N.T.F.S, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n ET :\n \n M. [C] [Q], ayant la SARL Thouvenin, Coudray et Grévy pour avocat à la Cour de cassation,\n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026, et de Intizar Shaiek, directrice de greffe, lors du prononcé a rendu l'ordonnance suivante :\n \n Vu la requête du 27 février 2026 par laquelle l'union de recouvrement pour la sécurité sociale et les allocations familiales Franche-Comté C.N.T.F.S demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro J 25-18.669 formé le 27 août 2025 par M. [C] [Q] à l'encontre de l'arrêt rendu le 24 avril 2025 par la cour d'appel de Colmar ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ; \n \n Si M. [Q] justifie d'une hospitalisation de cinq jours en janvier 2026 et d'une intervention chirurgicale en février 2026, il est taisant sur sa situation économique, le fait d'être vraisemblablement en arrêt de travail ne signifiant pas qu'il est dépourvu de revenus. Il n'établit ni être dans l'impossibilité d'exécuter l'arrêt attaqué, ne serait-ce que de manière échelonnée en fonction de ses facultés contributives, ni que l'exécution de l'arrêt attaqué entraînerait des conséquences manifestement excessives. \n \n Dès lors, la requête doit être accueillie.\n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro J 25-18.669 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé,\n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2047
+      ]
+    ],
+    "dispositif": [
+      [
+        2047,
+        2540
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-04-24",
+    "title": "Cour d'appel de Colmar",
+    "jurisdiction": "Cour d'appel de Colmar",
+    "number": "23/01768"
+  }
+}

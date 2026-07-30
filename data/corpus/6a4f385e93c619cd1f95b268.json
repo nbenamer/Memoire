@@ -1,0 +1,52 @@
+{
+  "id": "6a4f385e93c619cd1f95b268",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-12.860",
+  "numeros": [
+    "26-12.860"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60890",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : R 26-12.860\n \n \n Demandeur(s)\n : la société DLE Ouest\n \n \n Avocat(s)\n : la SARL Cabinet Munier-Apaire\n \n \n Défendeur(s)\n : la société Paume et autres\n \n \n Avocat(s)\n : la SAS Boulloche, Colin, Stoclet et associés,\n la SARL Gury & Maitre\n \n \n \n \n \n \n Ordonnance\n : 60890\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société DLE Ouest, société par actions simplifiée, dont le siège est\n [Adresse 1], a formé un pourvoi\n le 9 mars 2026 contre l'arrêt rendu le 18 décembre 2025 par la cour d'appel de Rennes (4e chambre), dans le litige l'opposant :\n \n 1°/ à la société Paume, société à responsabilité limitée, dont le siège est\n [Adresse 2],\n \n 2°/ à S.A.M.C.V Mutuelle des architectes français, dont le siège est\n [Adresse 3],\n \n 3°/ à la société Loire océan métropole aménagement, société anonyme,\n dont le siège est [Adresse 4],\n \n 4°/ à la société Ginger CEBTP, société par actions simplifiée, dont le siège est [Adresse 5],\n \n 5°/ à la société MSIG Insurance, société anonyme d'un Etat membre de la CE ou partie à l'accord sur l'Espace économique européen, dont le siège est [Adresse 6] (Allemagne), dont la succursale est située [Adresse 7],\n \n 6°/ à la société Artelia, société par actions simplifiée, dont le siège est\n [Adresse 8],\n \n 7°/ à la société Allianz Global Corporate & Specialty SE, société européenne, dont le siège est [Adresse 9] (Allemagne), et dont la succursale en France est située [Adresse 10]\n [Adresse 10].\n \n Par acte déposé au greffe de la Cour de cassation le 19 mai 2026, la SARL Cabinet Munier-Apaire, agissant au nom de la société DLE Ouest, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société DLE Ouest de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1971
+      ]
+    ],
+    "dispositif": [
+      [
+        1971,
+        2096
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-18",
+    "title": "Cour d'appel de Rennes\n04",
+    "jurisdiction": "Cour d'appel de Rennes",
+    "chamber": "04",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6945055b75782d5f06ad3954",
+    "sourceId": "jurica:3151051",
+    "number": "24/03057"
+  }
+}

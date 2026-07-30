@@ -1,0 +1,56 @@
+{
+  "id": "6a4748cc93c619cd1f2daf30",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "23-14.622",
+  "numeros": [
+    "23-14.622"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90640",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de réinscription",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Oreins - désistement\n \n \n Pourvoi n° : U 23-14.622\n Demandeur : M. [B] et autre\n Défendeur : la société Sélection Auto et autres\n Requête n° : 188/26\n Ordonnance n° : 90640 du 2 juillet 2026\n \n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n M. [L] [B], ayant SAS Boulloche, Colin, Stoclet et Associés pour avocat à la Cour de cassation,\n \n ET :\n \n \n M. [M] [J], ayant la SCP Alain Bénabent pour avocat à la Cour de cassation,\n \n M. [A] [D], ayant la SARL Boré, Salve de Bruneton et Mégret pour avocat à la Cour de cassation,\n \n Dans l'instance concernant en outre : \n \n M. [K] [D], ayant la SARL Boré, Salve de Bruneton et Mégret pour avocat à la Cour de cassation,\n \n M. [W] [I],la société Axa France IARD, ayant la SCP Célice, Texidor, Périer pour avocat à la Cour de cassation,\n \n la société Mutuelle des architectes français, ayant la SARL Meier-Bourdeau, Lécuyer et associés pour avocats à la Cour de cassation,\n \n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026, et de Intizar Shaiek, directrice de greffe lors du prononcé a rendu l'ordonnance suivante :\n \n Vu l'ordonnance du 1er février 2024 prononçant la radiation du pourvoi enregistré sous le numéro U 23-14.622 formé à l'encontre de l'arrêt rendu le 9 février 2023 par la cour d'appel de Rennes ;\n \n Vu la requête du 27 février 2026 par laquelle M. [L] [B] demande la réinscription de l'instance au rôle de la Cour et les observations développées au soutien de cette requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n M. [B] s'est désisté de son pourvoi le 27 février 2026, la société Mutuelle des architectes français, co-demanderesse au pourvoi s'en étant également désistée le 24 février 2026. \n \n Le constat de ces désistements impose au préalable la réinscription de l'affaire au rôle de la Cour. \n \n Il convient donc de l'autoriser.\n \n EN CONSÉQUENCE :\n \n La réinscription au rôle de la Cour du pourvoi numéro U 23-14.622 est autorisée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, lors du prononcé pour la greffière empêchée\n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article ordonnance du 1er fevrier <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=2024+Rennes&page=1&init=true\" target=\"_blank\">2024</a> prononcant la radiation du pourvoi enregistre sous le numero U <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=23-14.622+Rennes&page=1&init=true\" target=\"_blank\">23-14.622</a> forme a l'encontre de l'arret rendu le 9 fevrier 2023 par la cour d'appel de Rennes."
+    }
+  ],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2023
+      ]
+    ],
+    "dispositif": [
+      [
+        2023,
+        2318
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-02-09",
+    "title": "Cour d'appel de Rennes\n04",
+    "jurisdiction": "Cour d'appel de Rennes",
+    "chamber": "04",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "63ecb72f7ebb0d05de38f0fe",
+    "sourceId": "jurica:2646817",
+    "number": "19/07557"
+  }
+}

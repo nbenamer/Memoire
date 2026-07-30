@@ -1,0 +1,58 @@
+{
+  "id": "6a4de3a693c619cd1f8403e6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre sociale",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-11.963",
+  "numeros": [
+    "25-11.963",
+    "25-11.963"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:SO10585",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "SOC.\n \n HE1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. HUGLO, conseiller doyen\n faisant fonction de président\n \n \n \n Arrêt n° 10585 F\n \n Pourvoi n° V 25-11.963 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 8 JUILLET 2026\n \n M. [T] [P], domicilié [Adresse 1], a formé le pourvoi n° V 25-11.963 contre l'arrêt rendu le 19 décembre 2024 par la cour d'appel d'Aix-en-Provence (chambre 4-4), dans le litige l'opposant à la société Laboratoires Arkopharma, société par actions simplifiée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Arsac, conseillère référendaire, les observations écrites de la SARL Boré, Salve de Bruneton et Mégret, avocat de M. [P], de la SCP Célice, Texidor, Périer, avocat de la société Laboratoires Arkopharma, après débats en l'audience publique du 10 juin 2026 où étaient présents M. Huglo, conseiller doyen faisant fonction de président, Mme Arsac, conseillère référendaire rapporteure, Mme Sommé, conseillère, et Mme Pontonnier, greffière de chambre,\n \n la chambre sociale de la Cour de cassation, composée du président et des conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [P] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre sociale, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1466
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1466,
+        1839
+      ]
+    ],
+    "dispositif": [
+      [
+        1839,
+        2327
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-19",
+    "title": "Cour d'appel d'Aix en Provence\n17",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "17",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "676515982bb3627bc346c8b8",
+    "sourceId": "jurica:2961673",
+    "number": "22/16704"
+  }
+}

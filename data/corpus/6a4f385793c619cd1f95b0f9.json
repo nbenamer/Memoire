@@ -1,0 +1,52 @@
+{
+  "id": "6a4f385793c619cd1f95b0f9",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.198",
+  "numeros": [
+    "26-11.198"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60893",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : J 26-11.198\n \n \n Demandeur(s)\n : la société B.T.S.G.²\n \n \n Avocat(s)\n : la SCP Claire Leduc et Solange Vigand\n \n \n Défendeur(s)\n : Mme [M]\n \n \n \n \n \n \n Ordonnance\n : 60893\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société B.T.S.G.², dont le siège est [Adresse 1], agissant en la personne de M. [P] [T], agissant en qualité de liquidateur judiciaire de la société Gérard Colas [W] [M] et Alexandre Gretchichkine-Kurgansky notaires associés, société civile professionnelle,\n a formé un pourvoi le 2 février 2026 contre l'arrêt rendu le 7 novembre 2025 par la cour d'appel d'Aix-en-Provence (chambre 4-6), dans le litige l'opposant à Mme [E] [M], domiciliée [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 19 mai 2026, la SCP Claire Leduc et Solange Vigand, agissant au nom de la société B.T.S.G.², a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société B.T.S.G.² de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1217
+      ]
+    ],
+    "dispositif": [
+      [
+        1217,
+        1342
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-07",
+    "title": "Cour d'appel d'Aix en Provence\n18",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "18",
+    "solution": "Déclare l'instance périmée",
+    "id": "691477be4322238c089a9e85",
+    "sourceId": "jurica:3126273",
+    "number": "23/14097"
+  }
+}

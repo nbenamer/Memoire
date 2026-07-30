@@ -1,0 +1,56 @@
+{
+  "id": "6a47490393c619cd1f2db39f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "23-16.591",
+  "numeros": [
+    "23-16.591"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR88892",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de péremption",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n \n \n Pourvoi n° : J 23-16.591\n Demandeur : la société Sodico expansion\n Défendeurs : M. [J] et l'autre partie à l'instance\n Requête n° : 227/26\n Ordonnance n° : 88892 du 2 juillet 2026\n \n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n M. [D] [J], ayant la SCP Rocheteau, Uzan-Sarano et Goulet pour avocat à la Cour de cassation,\n \n ET :\n \n la société Sodico expansion, ayant la SCP Françoise Fabiani - François Pinatel pour avocat à la Cour de cassation,\n \n Et l'autre partie à l'instance :\n \n Pôle emploi devenu France travail,\n Mme Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026, et de Intizar Shaiek, directrice de greffe lors du prononcé a rendu l'ordonnance suivante :\n \n Vu l'ordonnance du 7 mars 2024 prononçant la radiation du pourvoi enregistré sous le numéro J 23-16.591 formé à l'encontre de l'arrêt rendu le 20 avril 2023 par la cour d'appel de Versailles dans l'instance opposant la société Sodico expansion à M. [D] [J] et Pôle emploi ;\n \n Vu la requête du 12 mars 2026 par laquelle M. [D] [J] demande que, par application des articles 386 et 1009-2 du code de procédure civile, la péremption de l'instance soit constatée ;\n \n Vu les observations développées au soutien de cette requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ;\n \n EXAMEN DE LA REQUÊTE :\n \n L'ordonnance de radiation, prononcée en application de l'article 1009-1 du code de procédure civile, a été notifiée, par lettre recommandée du 7 mars 2024, dont l'avis de réception a été signé, par la demanderesse au \n pourvoi, le 11 mars 2024, point de départ du délai de péremption.\n \n Il n'est pas justifié que, dans le délai de deux ans à compter de cette notification, la demanderesse au pourvoi ait accompli un acte manifestant sans équivoque sa volonté d'exécuter l'arrêt attaqué.\n \n Dès lors, il y a lieu de constater la péremption de l'instance et d'allouer à M. [D] [J], une somme de 1 500 euros au titre de l'article 700 du code de procédure civile.\n \n EN CONSÉQUENCE :\n \n La péremption de l'instance ouverte sur la déclaration de pourvoi enregistré sous le numéro J 23-16.591 est constatée.\n \n Vu l'article 700 du code de procédure civile, la société Sodico expansion est condamnée à payer à M. [D] [J] la somme de 1 500 euros.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe lors du prononcé, pour la greffière empêchée \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek \n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article ordonnance du 7 mars 2024 prononcant la radiation du pourvoi enregistre sous le numero J <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=23-16.591+Versailles&page=1&init=true\" target=\"_blank\">23-16.591</a> forme a l'encontre de l'arret rendu le 20 avril 2023 par la cour d'appel de Versailles dans l'instance opposant la societe Sodico expansion a M. [D] [J] et Pole emploi."
+    }
+  ],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2169
+      ]
+    ],
+    "dispositif": [
+      [
+        2169,
+        2641
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-04-20",
+    "title": "Cour d'appel de Versailles\n06",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "06",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "64422a1fd2fa6fd0f8040692",
+    "sourceId": "jurica:2680996",
+    "number": "20/02451"
+  }
+}

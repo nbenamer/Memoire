@@ -1,0 +1,58 @@
+{
+  "id": "6a4de45793c619cd1f8419c4",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-16.768",
+  "numeros": [
+    "25-16.768",
+    "25-16.768"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO10332",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COMM.\n \n RM\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 10332 F\n \n Pourvoi n° T 25-16.768 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n 1°/ Mme [C] [F], épouse [W], domiciliée [Adresse 1],\n \n 2°/ M. [V] [M], domicilié [Adresse 2],\n \n 3°/ M. [I] [W], domicilié [Adresse 3],\n \n 4°/ M. [L] [W], domicilié [Adresse 1],\n \n ont formé le pourvoi n° T 25-16.768 contre l'arrêt rendu le 17 septembre 2024 par la cour d'appel de Grenoble (1re chambre civile), dans le litige les opposant à la directrice générale des finances publiques, domiciliée [Adresse 4], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Chazalette, conseiller, les observations écrites de la SAS Buk Lament-Robillot, avocat de Mme [F], de M. [M], et de MM. [I] et [L] [W], de la SELAS Froger & Zajdela, avocat de la directrice générale des finances publiques, après débats en l'audience publique du 27 mai 2026 où étaient présents M. Vigneau, président, M. Chazalette, conseiller rapporteur, M. Ponsot, conseiller doyen, et M. Doyen, greffier de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [W], MM. [I] et [L] [W], et M. [M] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette leur demande et les condamne à payer à la directrice générale des finances publiques la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par le président, le conseiller rapporteur, et Mme Sezer, greffière de chambre, qui a assisté au prononcé de l'arrêt, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1584
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1584,
+        1957
+      ]
+    ],
+    "dispositif": [
+      [
+        1957,
+        2813
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-17",
+    "title": "Cour d'appel de Grenoble\n01",
+    "jurisdiction": "Cour d'appel de Grenoble",
+    "chamber": "01",
+    "solution": "MEE-expertise",
+    "id": "66f3a8f55c2cfc5a084ac91b",
+    "sourceId": "jurica:2912406",
+    "number": "23/00694"
+  }
+}

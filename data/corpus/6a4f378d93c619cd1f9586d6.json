@@ -1,0 +1,58 @@
+{
+  "id": "6a4f378d93c619cd1f9586d6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.445",
+  "numeros": [
+    "25-12.445",
+    "25-12.445"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210704",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme ISOLA, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10704 F\n \n Pourvoi n° U 25-12.445 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n 1°/ Mme [Y] [A],\n \n 2°/ M. [D] [A],\n \n tous deux domiciliés [Adresse 1],\n \n ont formé le pourvoi n° U 25-12.445 contre l'arrêt rendu le 8 février 2024 par la cour d'appel de Paris (pôle 4, chambre 1), dans le litige les opposant :\n \n 1°/ à la mutuelle assurance des instituteurs de France, dont le siège est [Adresse 2],\n \n 2°/ à la société MAAF assurances, société anonyme, dont le siège est [Adresse 3],\n \n 3°/ à la caisse primaire d'assurance maladie (CPAM) du Val d'Oise, dont le siège est [Adresse 4],\n \n 4°/ à la mutuelle générale de l'éducation nationale, dont le siège est [Adresse 5],\n \n 5°/ à la société Harmonie mutuelle, dont le siège est [Adresse 6],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Riuné, conseiller référendaire, les observations écrites de la SARL Matuchansky, Poupot, Valdelièvre et Rameix, avocat de Mme [A] et de M. [A], de la SARL Le Prado - Gilbert, avocat de la société MAAF assurances, de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de la mutuelle assurance des instituteurs de France, et l'avis de M. Brun, avocat général, après débats en l'audience publique du 3 juin 2026 où étaient présents Mme Isola, conseillère doyenne faisant fonction de présidente, M. Riuné, conseiller référendaire rapporteur, M. Martin, conseiller, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. et Mme [A] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        2018
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        2018,
+        2397
+      ]
+    ],
+    "dispositif": [
+      [
+        2397,
+        2900
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-02-08",
+    "title": "Cour d'appel de Paris\nH2",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "H2",
+    "solution": "Réouverture des débats",
+    "id": "65c5d89215069e0009fdb575",
+    "sourceId": "jurica:2805786",
+    "number": "22/05268"
+  }
+}

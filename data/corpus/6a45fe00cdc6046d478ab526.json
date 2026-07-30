@@ -1,0 +1,58 @@
+{
+  "id": "6a45fe00cdc6046d478ab526",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-15.481",
+  "numeros": [
+    "24-15.481",
+    "24-15.481"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210659",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EC3\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10659 F\n \n Pourvoi n° Y 24-15.481\n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société Emeis, société anonyme, dont le siège est [Adresse 1], anciennement dénommée la société Orpea, a formé le pourvoi n° Y 24-15.481 contre l'arrêt rendu le 21 mars 2024 par la cour d'appel de Versailles (chambre civile 1-5), dans le litige l'opposant :\n \n 1°/ à la société Résidences France silver, société à responsabilité limitée unipersonnelle, dont le siège est [Adresse 2], en liquidation judiciaire suite au jugement du tribunal des activités économiques de Paris en date du 24 avril 2026,\n \n 2°/ à la société AJRS, société d'exercice libéral à responsabilité limitée, dont le siège est [Adresse 3], prise en la personne de M. [H] [X], pris en qualité de commissaire à l'exécution du plan de sauvegarde de la société Emeis,\n \n 3°/ à la société BTSG, société civile professionnelle, dont le siège est [Adresse 4], prise en la personne de M. [M] [Z], pris en qualité de mandataire judiciaire de la société Emeis,\n \n 4°/ à la société C.[J], société d'exercice libéral à responsabilité limitée, dont le siège est [Adresse 5], prise en la personne de M. [C] [J], pris en qualité de mandataire judiciaire de la société Emeis,\n \n 5°/ à la société BTSG, dont le siège est [Adresse 4], prise en la personne de M. [P] [R], pris en qualité de liquidateur judiciaire de la société [Adresse 6],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Vendryes, conseillère, les observations écrites de la SAS Boucard-Capron-Maman, avocat de la société Emeis, de la SCP Piwnica et Molinié, avocat de la société Résidences France silver, et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Vendryes, conseillère rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Il est donné acte à la société Emeis, de sa reprise d'instance à l'égard de la société BTSG, prise en la personne de M. [P] [R], agissant en qualité de liquidateur de la société [Adresse 6].\n \n 2. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 3. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société Emeis aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Emeis et la condamne à payer à la société [Adresse 6] la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        2536
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        2536,
+        3106
+      ]
+    ],
+    "dispositif": [
+      [
+        3106,
+        3710
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-03-21",
+    "title": "Cour d'appel de Versailles\nA5",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "A5",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "65fd2de9cd2eb700086bb1dc",
+    "sourceId": "jurica:2829021",
+    "number": "23/04767"
+  }
+}

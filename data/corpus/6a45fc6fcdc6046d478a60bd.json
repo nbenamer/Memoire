@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc6fcdc6046d478a60bd",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.487",
+  "numeros": [
+    "26-11.487"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50583",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [C]\n \n \n \n Pourvoi n°\n : Y 26-11.487\n \n \n Demandeur(s)\n : la société Les Jardins [D] [Localité 1]\n \n \n Avocat(s)\n : la SELAS Froger & Zajdela\n \n \n Défendeur(s)\n : le syndicat des copropriétaires de l'ensemble immobilier \n Les Jardins de [Localité 2] [Adresse 1] sis [Adresse 2]\n [Localité 3] et autre\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret,\n la SAS Boulloche, Colin, Stoclet et associés\n \n \n \n \n \n \n Ordonnance\n : 50583\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Les Jardins [D] [Localité 1], société à responsabilité limitée, dont le siège est [Adresse 3], a formé un pourvoi \n le 9 février 2026 contre l'arrêt rendu le 23 octobre 2025 par la cour d'appel d'Aix-en-Provence (chambre 1-4), dans le litige l'opposant :\n \n 1°/ au syndicat des copropriétaires de l'ensemble immobilier \n Les Jardins de [Localité 2] [Adresse 1] sis [Adresse 4], représenté par son syndic en exercice, la société [B] [D] [E] [N], dont le siège est [Adresse 5],\n \n 2°/ à la Mutuelle des architectes français (MAF), dont le siège est \n [Adresse 6].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 4], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1514
+      ]
+    ],
+    "dispositif": [
+      [
+        1514,
+        1644
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-23",
+    "title": "Cour d'appel d'Aix en Provence\n3B",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "3B",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "68fb978611af6ba0065f441b",
+    "sourceId": "jurica:3118107",
+    "number": "21/11767"
+  }
+}

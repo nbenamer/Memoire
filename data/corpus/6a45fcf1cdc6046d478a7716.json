@@ -1,0 +1,54 @@
+{
+  "id": "6a45fcf1cdc6046d478a7716",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-17.528",
+  "numeros": [
+    "24-17.528",
+    "24-17.528"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310468",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n DB\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente, \n \n \n \n Arrêt n° 10468 F\n \n Pourvoi n° Y 24-17.528 \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n \n Mme [Y] [D], domiciliée [Adresse 1], a formé le pourvoi n° Y 24-17.528 contre l'arrêt rendu le 10 avril 2024 par la cour d'appel d'Agen (chambre civile), dans le litige l'opposant :\n \n 1°/ à la société anonyme [Adresse 2], société anonyme à conseil d'administration, dont le siège est [Adresse 3],\n \n 2°/ à la société Eiffage immobilier Occitanie, société par actions simplifiée, dont le siège est [Adresse 4],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Guillaudier, conseillère, les observations écrites de la SAS Buk Lament-Robillot, avocat de Mme [D], de la SARL Le Prado - Gilbert, avocat de la société anonyme [Adresse 2], après débats en l'audience publique du 19 mai 2026 où étaient présents Mme Teiller, présidente, Mme Guillaudier, conseillère rapporteure, M. Boyer, conseiller doyen, et Mme Letourneur, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Il est donné acte à Mme [D] du désistement de son pourvoi en ce qu'il est dirigé contre la société Eiffage immobilier Occitanie.\n \n 2. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 3. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [D] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1515
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1515,
+        2023
+      ]
+    ],
+    "dispositif": [
+      [
+        2023,
+        2521
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-04-10",
+    "title": "Cour d'appel d'Agen",
+    "jurisdiction": "Cour d'appel d'Agen",
+    "number": "23/00197"
+  }
+}

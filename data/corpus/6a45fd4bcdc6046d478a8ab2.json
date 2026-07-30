@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd4bcdc6046d478a8ab2",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-18.261",
+  "numeros": [
+    "24-18.261",
+    "24-18.261"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310437",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3 \n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10437 F\n \n Pourvoi n° V 24-18.261 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n Le syndicat des copropriétaires de la résidence [Etablissement 1], sis [Adresse 1], 13460 Saintes-Maries-de-la-Mer, représenté par son syndic en exercice, la société Arlésienne de gestion, société par actions simplifiée, dont le siège est [Adresse 2], a formé le pourvoi n° V 24-18.261 contre l'arrêt rendu le 15 novembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-8), dans le litige l'opposant :\n \n 1°/ à M. [F] [N],\n \n 2°/ à Mme [Q] [X], épouse [N],\n \n tous deux domiciliés [Adresse 3],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Oppelt, conseillère, les observations écrites de la SCP Richard, avocat du syndicat des copropriétaires de la résidence [Etablissement 1], de la SCP Piwnica et Molinié, avocat de M. et Mme [N], après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Oppelt, conseillère rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne le syndicat des copropriétaires de la résidence [Etablissement 1] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par le syndicat des copropriétaires de la résidence [Etablissement 1] et le condamne à payer à M. et Mme [N] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1622
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1622,
+        1995
+      ]
+    ],
+    "dispositif": [
+      [
+        1995,
+        2697
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-15",
+    "title": "Cour d'appel d'Aix en Provence\nB1",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "B1",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6555c2bc30a74083181bd519",
+    "sourceId": "jurica:2761645",
+    "number": "20/09224"
+  }
+}

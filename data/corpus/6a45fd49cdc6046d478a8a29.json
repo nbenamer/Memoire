@@ -1,0 +1,54 @@
+{
+  "id": "6a45fd49cdc6046d478a8a29",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-10.835",
+  "numeros": [
+    "25-10.835",
+    "25-10.835"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310438",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10438 F\n \n Pourvoi n° U 25-10.835 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n M. [O] [E], domicilié [Adresse 1], a formé le pourvoi n° U 25-10.835 contre l'arrêt rendu le 20 septembre 2024 par la cour d'appel de Saint-Denis (chambre civile TGI), dans le litige l'opposant :\n \n 1°/ à M. [T] [V],\n \n 2°/ à Mme [F] [E], épouse [V],\n \n tous deux domiciliés [Adresse 2],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Grall, conseillère, les observations écrites de Me Balat, avocat de M. [E], de la SCP Ricard, Bendel-Vasseur, Ghnassia, avocat de M. et Mme [V], après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Grall, conseillère rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [E] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. [E] et le condamne à payer à M. et Mme [V] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1359
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1359,
+        1732
+      ]
+    ],
+    "dispositif": [
+      [
+        1732,
+        2316
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-20",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "23/00117"
+  }
+}

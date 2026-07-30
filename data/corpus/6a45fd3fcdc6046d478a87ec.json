@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd3fcdc6046d478a87ec",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-15.464",
+  "numeros": [
+    "24-15.464",
+    "24-15.464"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310442",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10442 F\n \n Pourvoi n° E 24-15.464 \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n 1°/ Mme [I] [H], \n \n 2°/ Mme [D] [G], \n \n toutes deux domiciliées [Adresse 1],\n \n 3°/ Mme [C] [G], domiciliée [Adresse 2],\n \n 4°/ M. [Z] [G], domicilié [Adresse 3],\n \n ont formé le pourvoi n° E 24-15.464 contre l'arrêt rendu le 21 mars 2024 par la cour d'appel de Montpellier (3e chambre civile), dans le litige les opposant :\n \n 1°/ à Mme [J] [O], épouse [F],\n \n 2°/ à M. [N] [F], \n \n tous deux domiciliés [Adresse 1],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Pic, conseillère, les observations écrites de la SCP Marlange et de La Burgade, avocat de Mmes [H], [C] et [D] [G] et de M. [G], de la SCP Le Guerer, Bouniol-Brochier, Lassalle-Byhet, avocat de M. et Mme [F], après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Pic, conseillère rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mmes [H], [C] et [D] [G], et M. [G] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par Mmes [H], [C] et [D] [G], et M. [G] et les condamne à payer à M. et Mme [F] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1547
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1547,
+        1926
+      ]
+    ],
+    "dispositif": [
+      [
+        1926,
+        2569
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-03-21",
+    "title": "Cour d'appel de Montpellier\nA1",
+    "jurisdiction": "Cour d'appel de Montpellier",
+    "chamber": "A1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "65fd2dd1cd2eb700086bad9c",
+    "sourceId": "jurica:2828396",
+    "number": "19/06374"
+  }
+}

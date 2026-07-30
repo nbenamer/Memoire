@@ -1,0 +1,52 @@
+{
+  "id": "6a45fca4cdc6046d478a692e",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.308",
+  "numeros": [
+    "26-10.308"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50565",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [V]\n \n \n \n Pourvoi n°\n : S 26-10.308\n \n \n Demandeur(s)\n : la société [Adresse 1]\n \n \n Avocat(s)\n : la SARL Thouvenin, [Localité 1] et Grévy\n \n \n Défendeur(s)\n : M. [A]\n \n \n \n \n \n \n Ordonnance\n : 50565\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société La Supérette du château, société par actions simplifiée, \n dont le siège est [Adresse 2], a formé \n un pourvoi le 12 janvier 2026 contre l'arrêt rendu le 6 novembre 2025 par \n la cour d'appel de Paris (pôle 6, chambre 10), dans le litige l'opposant \n à M. [C] [A], domicilié [Adresse 3].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1000
+      ]
+    ],
+    "dispositif": [
+      [
+        1000,
+        1130
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-06",
+    "title": "Cour d'appel de Paris\nL1",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "L1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "690d8fe9bb81cebe2e82d09c",
+    "sourceId": "jurica:3125786",
+    "number": "22/04660"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "6a4748d393c619cd1f2daf9a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-10.807",
+  "numeros": [
+    "25-10.807"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90637",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de réinscription",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n OReins\n \n \n Pourvoi n° : P 25-10.807\n Demandeur : Mme [H]\n Défendeur : M. [Z] et autres\n Requête n° : 128/26\n Ordonnance n° : 90637 du 2 juillet 2026\n \n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n Mme [N] [H] épouse [S], ayant la SCP Gadiou et Chevallier pour avocat à la Cour de cassation,\n \n ET :\n \n M. [L] [Z], ayant la SARL Boré, Salve de Bruneton et Mégret pour avocat à la Cour de cassation,\n \n la société MMA IARD, ayant la SARL Boré, Salve de Bruneton et Mégret, pour avocats à la Cour de cassation,\n \n Dans l'instance concernant en outre :\n \n Mme [K] [W], ayant la SARL Le Prado - Gilbert pour avocat à la Cour de cassation,\n \n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026, et de la directrice de greffe, Intizar Shaiek lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu l'ordonnance du 8 janvier 2026 prononçant la radiation du pourvoi enregistré sous le numéro P 25-10.807 formé à l'encontre de l'arrêt rendu le 12 décembre 2024 par la cour d'appel de Nîmes ;\n \n Vu la requête du 9 février 2026 par laquelle Mme [N] [H] épouse [S] demande la réinscription de l'instance au rôle de la Cour et les observations développées au soutien de cette requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n Il résulte de l'examen des pièces produites que les causes de l'arrêt frappé de pourvoi ont été exécutées.\n \n Il convient donc d'autoriser la réinscription de l'affaire au rôle de la Cour.\n \n EN CONSÉQUENCE :\n \n La réinscription au rôle de la Cour du pourvoi numéro P 25-10.807 est autorisée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe lors du prononcé,pour la greffière empêchée \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article ordonnance du 8 janvier 2026 prononcant la radiation du pourvoi enregistre sous le numero P <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=25-10.807+Nimes&page=1&init=true\" target=\"_blank\">25-10.807</a> forme a l'encontre de l'arret rendu le 12 decembre 2024 par la cour d'appel de Nimes."
+    }
+  ],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1625
+      ]
+    ],
+    "dispositif": [
+      [
+        1625,
+        1920
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-12",
+    "title": "Cour d'appel de Nîmes",
+    "jurisdiction": "Cour d'appel de Nîmes",
+    "number": "22/00392"
+  }
+}

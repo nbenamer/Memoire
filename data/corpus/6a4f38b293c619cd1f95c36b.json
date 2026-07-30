@@ -1,0 +1,48 @@
+{
+  "id": "6a4f38b293c619cd1f95c36b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.315",
+  "numeros": [
+    "26-10.315"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60854",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Z 26-10.315\n \n \n Demandeur(s)\n : Mme [W]\n \n \n Avocat(s)\n : Me Haas\n \n \n Défendeur(s)\n : la société Leroy Merlin France\n \n \n Avocat(s)\n : la SCP Célice, Texidor, Périer\n \n \n \n \n \n \n Ordonnance\n : 60854\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [B] [W], domiciliée [Adresse 1], a formé un pourvoi \n le 12 janvier 2026 contre l'arrêt rendu le 10 novembre 2025 par la cour d'appel de Nîmes (chambre civile, 5e chambre sociale PH), dans le litige l'opposant à la société Leroy Merlin France, société anonyme, dont le siège est [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 12 mai 2026, Me Haas, agissant au nom de Mme [B] [W], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à Mme [B] [W] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1036
+      ]
+    ],
+    "dispositif": [
+      [
+        1036,
+        1161
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-10",
+    "title": "Cour d'appel de Nîmes",
+    "jurisdiction": "Cour d'appel de Nîmes",
+    "number": "24/00397"
+  }
+}

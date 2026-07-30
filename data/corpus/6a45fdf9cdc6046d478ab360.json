@@ -1,0 +1,62 @@
+{
+  "id": "6a45fdf9cdc6046d478ab360",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-13.634",
+  "numeros": [
+    "24-13.634",
+    "24-13.634"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210662",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Irrecevabilité non spécialement motivée\n \n \n Mme DURIN-KARSENTY, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10662 F\n \n Pourvoi n° R 24-13.634 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société Kalimo Concept, société à responsabilité limitée, dont le siège est [Adresse 1], prise en la personne de son représentant légal M. [J] [D], a formé le pourvoi n° R 24-13.634 contre l'arrêt rendu le 1er février 2024 par la cour d'appel de Bordeaux (1re chambre civile), dans le litige l'opposant à M. [G] [Q], domicilié [Adresse 2], défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Caillard, conseillère, les observations écrites de la SCP Françoise Fabiani - François Pinatel, avocat de la société Kalimo Concept, de Me Ridoux, avocat de M. [Q], et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Caillard, conseillère rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Vu les articles 606, 607 et 608 du code de procédure civile :\n \n Conformément à l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur le pourvoi qui n'est pas recevable.\n \n PAR CES MOTIFS, la Cour :\n \n DÉCLARE IRRECEVABLE le pourvoi ;\n \n Condamne la société Kalimo Concept aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Kalimo Concept et la condamne à payer à M. [Q] la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Articles <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=606+code+de+procedure+civile&page=1&init=true\" target=\"_blank\">606</a>, <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=607+code+de+procedure+civile&page=1&init=true\" target=\"_blank\">607</a> et <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=608+code+de+procedure+civile&page=1&init=true\" target=\"_blank\">608</a> du code de procedure civile."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1568
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1568,
+        1818
+      ]
+    ],
+    "dispositif": [
+      [
+        1818,
+        2436
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-02-01",
+    "title": "Cour d'appel de Bordeaux\n1A",
+    "jurisdiction": "Cour d'appel de Bordeaux",
+    "chamber": "1A",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "65bc97941c5fe000084935c0",
+    "sourceId": "jurica:2801553",
+    "number": "23/02210"
+  }
+}

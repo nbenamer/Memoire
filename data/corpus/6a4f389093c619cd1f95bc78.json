@@ -1,0 +1,52 @@
+{
+  "id": "6a4f389093c619cd1f95bc78",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.653",
+  "numeros": [
+    "26-10.653"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60869",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : S 26-10.653\n \n \n Demandeur(s)\n : la société Mutuelle assurance instituteur France (MAIF)\n \n \n Avocat(s)\n : la SCP Rocheteau, Uzan-Sarano et Goulet\n \n \n Défendeur(s)\n : la société Axa France IARD\n \n \n Avocat(s)\n : la SCP Boutet et Hourdeaux\n \n \n \n \n \n \n Ordonnance\n : 60869\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Mutuelle assurance instituteur France (MAIF), dont le siège est\n [Adresse 1], a formé un pourvoi\n le 19 janvier 2026 contre l'arrêt rendu le 19 novembre 2025 par la cour d'appel de Pau (1re chambre), dans le litige l'opposant à la société Axa France IARD, société anonyme, dont le siège est [Adresse 2],\n [Localité 1].\n \n Par acte déposé au greffe de la Cour de cassation le 13 mai 2026, la SCP Rocheteau, Uzan-Sarano et Goulet, agissant au nom de la société Mutuelle assurance instituteur France (MAIF), a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société Mutuelle assurance instituteur France (MAIF) de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1263
+      ]
+    ],
+    "dispositif": [
+      [
+        1263,
+        1388
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-19",
+    "title": "Cour d'appel de Pau\n01",
+    "jurisdiction": "Cour d'appel de Pau",
+    "chamber": "01",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691ec82d0faf9858cdf69a9e",
+    "sourceId": "jurica:3132156",
+    "number": "25/00160"
+  }
+}

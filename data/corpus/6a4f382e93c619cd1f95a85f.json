@@ -1,0 +1,52 @@
+{
+  "id": "6a4f382e93c619cd1f95a85f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-12.551",
+  "numeros": [
+    "25-12.551"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60911",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : J 25-12.551\n \n \n Demandeur(s)\n : la société Atmane Bruschetti \n \n \n Avocat(s)\n : la SARL Thouvenin, Coudray et Grévy\n \n \n Défendeur(s)\n : M. [N]\n \n \n Avocat(s)\n : la SAS Zribi et Texier\n \n \n \n \n \n \n Ordonnance\n : 60911\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Atmane Bruschetti, société par actions simplifiée, dont le siège est [Adresse 1], a formé un pourvoi le 10 mars 2025 \n contre l'arrêt rendu le 20 décembre 2024 par la cour d'appel de Douai (chambre sociale prud'hommes), dans le litige l'opposant à \n M. [Y] [N], domicilié [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 4 juin 2025, la SARL Thouvenin, Coudray et Grévy, agissant au nom de la société Atmane Bruschetti, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la société Atmane Bruschetti de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1116
+      ]
+    ],
+    "dispositif": [
+      [
+        1116,
+        1241
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-20",
+    "title": "Cour d'appel de Douai\nB1",
+    "jurisdiction": "Cour d'appel de Douai",
+    "chamber": "B1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "679481620175ed452fca59c4",
+    "sourceId": "jurica:2978102",
+    "number": "23/00867"
+  }
+}

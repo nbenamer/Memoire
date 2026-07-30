@@ -1,0 +1,58 @@
+{
+  "id": "6a45fe16cdc6046d478aba41",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "23-23.203",
+  "numeros": [
+    "23-23.203",
+    "23-23.203"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200723",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement",
+  "texte": "CIV. 2\n \n OG41\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Désistement\n \n \n Mme DURIN-KARSENTY, conseillère doyenne faisant fonction de présidente\n \n \n \n Arrêt n° 723 F-D\n \n Pourvoi n° W 23-23.203 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société Crédit foncier de France, société anonyme, dont le siège est [Adresse 1], a formé le pourvoi n° W 23-23.203 contre l'arrêt rendu le 8 novembre 2023 par la cour d'appel de Pau (1re chambre), dans le litige l'opposant :\n \n 1°/ à Mme [A] [B], épouse [S], domiciliée [Adresse 2],\n \n 2°/ à M. [P] [B], domicilié [Adresse 3],\n \n défendeurs à la cassation.\n \n Mme [B], épouse [S], et M. [B] ont formé un pourvoi incident éventuel contre le même arrêt.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Vendryes, conseillère, les observations de la SAS Boucard-Capron-Maman, avocat de la société Crédit foncier de France, de Me Bouthors, avocat de Mme [B], épouse [S], et de M. [B], et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Vendryes, conseillère rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n LA COUR,\n \n 1. Par acte déposé au greffe de la Cour de cassation le 11 mai 2026, la SAS Boucard-Capron-Maman, avocat au Conseil d'Etat et à la Cour de cassation, a déclaré, au nom de la société Crédit foncier de France, se désister du pourvoi formé par elle contre un arrêt rendu le 8 novembre 2023 par la cour d'appel de Pau dans une instance l'opposant à Mme [B], épouse [S], et M. [B], lesquels ont indiqué, par mémoire du 12 mai 2026, que leur pourvoi incident éventuel était devenu sans objet mais qu'ils maintenaient leur demande au titre de l'article 700 du code de procédure civile.\n \n 2. En application de l'article 1026 du code de procédure civile, ce désistement, intervenu après le dépôt du rapport, doit être constaté par arrêt.\n PAR CES MOTIFS, la Cour :\n \n DONNE ACTE à la société Crédit foncier de France de son désistement de pourvoi ;\n \n DONNE ACTE à Mme [B], épouse [S], et M. [B] de ce que leur pourvoi incident n'a plus d'objet ;\n \n Condamne la société Crédit foncier de France aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Crédit foncier de France et la condamne à payer à Mme [B], épouse [S], et à M. [B] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1642
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1642,
+        2388
+      ]
+    ],
+    "dispositif": [
+      [
+        2388,
+        3206
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-08",
+    "title": "Cour d'appel de Pau\n01",
+    "jurisdiction": "Cour d'appel de Pau",
+    "chamber": "01",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "654c88a6e0f87d83181d6fb1",
+    "sourceId": "jurica:2757997",
+    "number": "23/01045"
+  }
+}

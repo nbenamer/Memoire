@@ -1,0 +1,52 @@
+{
+  "id": "6a4f385593c619cd1f95b07c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.447",
+  "numeros": [
+    "26-11.447"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60894",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : E 26-11.447\n \n \n Demandeur(s)\n : la société O-I France \n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : la société Reborn Pyrénées \n \n \n \n \n \n \n Ordonnance\n : 60894\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société O-I France, société par actions simplifiée, dont le siège est\n [Adresse 1], a formé un pourvoi\n le 6 février 2026 contre l'arrêt rendu le 8 octobre 2025 par la cour d'appel de Paris (pôle 5, chambre 4), dans le litige l'opposant à la société Reborn Pyrénées, société par actions simplifiée, dont le siège est [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 19 mai 2026, la SARL Boré, Salve de Bruneton et Mégret, agissant au nom de la société O-I France, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société O-I France de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1125
+      ]
+    ],
+    "dispositif": [
+      [
+        1125,
+        1250
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-08",
+    "title": "Cour d'appel de Paris\nI4",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I4",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "68e743143940dd585f4f7520",
+    "sourceId": "jurica:3110396",
+    "number": "23/12144"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "6a4f37fa93c619cd1f959df8",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "26-00.001",
+  "numeros": [
+    "26-00.001",
+    "26-00.001"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200741",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / EXPTS\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 741 F-D\n \n Recours n° P 26-00.001 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n Mme [X] [V], domiciliée [Adresse 1], a formé le recours n° P 26-00.001 en annulation d'une décision rendue le 21 novembre 2025 par l'assemblée générale des magistrats du siège de la cour d'appel de Toulouse.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Philippart, conseillère référendaire, et l'avis de Mme de Chanville, avocate générale référendaire, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Philippart, conseillère référendaire rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Faits et procédure \n \n 1. Mme [V] a sollicité sa réinscription sur la liste des experts judiciaires de la cour d'appel de Toulouse dans les spécialités interprétariat et traduction en langues anglaise, catalane, espagnole et portugaise.\n \n 2. Par une décision du 21 novembre 2025, contre laquelle Mme [V] a formé un recours, l'assemblée générale des magistrats du siège de cette cour d'appel a rejeté sa demande au motif que celle-ci a fait preuve d'un manque d'organisation et de sérieux qui l'a empêchée à plusieurs reprises de répondre aux convocations sans prévenir préalablement le tribunal correctionnel et entraînant des difficultés de gestion de l'audience pour trouver en urgence et sur le siège un interprète pouvant la remplacer.\n \n Examen des griefs\n \n Sur le premier grief\n \n Exposé du grief\n \n 3. Mme [V] fait valoir que l'assemblée générale a manqué au respect des articles 14 et 15 du décret n° 2004-1463 du 23 décembre 2004, en ce que la notification de la décision du 4 décembre 2025 ne mentionne pas que le magistrat chargé du rapport et le ministère public ont été entendus préalablement, alors que l'avis de la commission de réinscription était favorable.\n \n Réponse de la Cour \n \n 4. Selon l'article 15, alinéa 5, du décret n° 2004-1463 du 23 décembre 2004, en cas d'avis favorable ou défavorable de la commission de réinscription, l'assemblée générale se prononce après avoir entendu le magistrat chargé du rapport et le ministère public.\n \n 5. Le procès-verbal de l'assemblée générale du 21 novembre 2025 mentionne que la séance s'est tenue conformément aux articles 6 à 16 de ce décret et que les questions visées à l'ordre du jour ont été abordées sur rapport des magistrats désignés par la première présidente le 14 novembre 2025 et au vu des réquisitions du ministère public.\n \n 6. Par ailleurs, aucun texte n'impose que l'extrait du procès-verbal qui est notifié au candidat comporte ces indications, celui-ci pouvant s'assurer de la régularité de la délibération en sollicitant une copie du procès-verbal auprès de la cour d'appel. \n \n 7. Le grief ne peut, dès lors, être accueilli.\n \n Sur le second grief\n \n Exposé du grief \n \n 8. Mme [V] fait valoir que la décision de l'assemblée générale est disproportionnée, les difficultés récentes et ponctuelles d'organisation qu'elle a rencontrées ne pouvant suffire à fonder la décision de rejet au regard du sérieux constant avec lequel elle a réalisé ses missions depuis l'année 1992.\n \n Réponse de la Cour\n \n 9. C'est par des motifs exempts d'erreur manifeste d'appréciation que l'assemblée générale a décidé de ne pas réinscrire Mme [V] sur la liste des experts judiciaires de la cour d'appel.\n \n 10. Le grief ne peut, dès lors, être accueilli.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le recours ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1208
+      ]
+    ],
+    "expose": [
+      [
+        1208,
+        2388
+      ]
+    ],
+    "moyens": [
+      [
+        3320,
+        3672
+      ]
+    ],
+    "motivations": [
+      [
+        2388,
+        3320
+      ],
+      [
+        3672,
+        3934
+      ]
+    ],
+    "dispositif": [
+      [
+        3934,
+        4311
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

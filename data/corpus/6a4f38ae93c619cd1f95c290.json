@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38ae93c619cd1f95c290",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.635",
+  "numeros": [
+    "26-10.635"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60856",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : X 26-10.635\n \n \n Demandeur(s)\n : M. [Z] et autre\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n Défendeur(s)\n : Mme [Q]\n \n \n Avocat(s)\n : la SARL Gury & Maitre\n \n \n \n \n \n \n Ordonnance\n : 60856\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ M. [V] [Z],\n \n 2°/ Mme [K] [D], épouse [Z], \n \n tous deux domiciliés [Adresse 1],\n \n ont formé un pourvoi le 19 janvier 2026 contre l'arrêt rendu\n le 18 novembre 2025 par la cour d'appel de Pau (1re chambre), dans le litige les opposant à Mme [F] [Q], domiciliée [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 11 mai 2026, la SARL Le Prado - Gilbert, agissant aux noms de M. [V] [Z] et de Mme [K] [D], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [V] [Z] et à Mme [K] [D] de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1071
+      ]
+    ],
+    "dispositif": [
+      [
+        1071,
+        1196
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-18",
+    "title": "Cour d'appel de Pau\n01",
+    "jurisdiction": "Cour d'appel de Pau",
+    "chamber": "01",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691d887f02bad2f30af494c9",
+    "sourceId": "jurica:3131303",
+    "number": "24/00492"
+  }
+}

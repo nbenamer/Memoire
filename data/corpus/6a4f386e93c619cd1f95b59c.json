@@ -1,0 +1,52 @@
+{
+  "id": "6a4f386e93c619cd1f95b59c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.715",
+  "numeros": [
+    "26-10.715"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60883",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : J 26-10.715\n \n \n Demandeur(s)\n : l'Office national d'indemnisation des accidents médicaux des\n affections iatrogènes et des infections nosocomiales (ONIAM)\n \n \n Avocat(s)\n : la SCP Sevaux et Mathonnet\n \n \n Défendeur(s)\n : la société hospitalière d'assurances mutuelles (SHAM) et autre\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n \n \n \n \n Ordonnance\n : 60883\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n L'Office national d'indemnisation des accidents médicaux des affections iatrogènes et des infections nosocomiales (ONIAM), établissement public national à caractère administratif, dont le siège est [Adresse 1], a formé un pourvoi le 19 janvier 2026 contre l'arrêt rendu le 16 octobre 2025 par la cour d'appel de Paris (pôle 4, chambre 10), dans le litige l'opposant :\n \n 1°/ à la société hospitalière d'assurances mutuelles (SHAM), dont le siège est\n [Adresse 2],\n \n 2°/ à la caisse primaire d'assurance maladie (CPAM) de Seine-Saint-Denis, dont le siège est [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 18 mai 2026, la SCP Sevaux et Mathonnet, agissant au nom de l'Office national d'indemnisation des accidents médicaux des affections iatrogènes et des\n infections nosocomiales (ONIAM), a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à l'Office national d'indemnisation des accidents médicaux des affections iatrogènes et des infections nosocomiales (ONIAM) de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1714
+      ]
+    ],
+    "dispositif": [
+      [
+        1714,
+        1839
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-16",
+    "title": "Cour d'appel de Paris\nH1",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "H1",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "68f1d5b40b565ec7590f7b63",
+    "sourceId": "jurica:3115246",
+    "number": "22/10062"
+  }
+}

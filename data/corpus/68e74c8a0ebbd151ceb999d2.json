@@ -1,0 +1,67 @@
+{
+  "id": "68e74c8a0ebbd151ceb999d2",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-60.034",
+  "numeros": [
+    "25-60.034",
+    "25-60.034"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:C201018",
+  "date_decision": "2025-10-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / EXPTS\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 octobre 2025\n \n \n \n \n Rejet\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 1018 F-B\n \n Recours n° W 25-60.034 \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 OCTOBRE 2025\n \n Mme [P] [O], domiciliée [Adresse 1], a formé le recours n° W 25-60.034 en annulation d'une décision rendue le 15 novembre 2024 par l'assemblée générale des magistrats du siège de la cour d'appel d'Aix-en-Provence.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Chauve, conseillère, et l'avis de M. Grignon Dumoulin, premier avocat général, après débats en l'audience publique du 3 septembre 2025 où étaient présentes Mme Martinel, présidente, Mme Chauve, conseillère rapporteure, Mme Isola, conseillère doyenne, et Mme Thomas, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Faits et procédure \n \n 1. Mme [O] a sollicité sa réinscription sur la liste des enquêteurs sociaux de la cour d'appel d'Aix-en-Provence. \n \n 2. Par une décision du 15 novembre 2024, rendue au visa de l'article 2, 1°, du décret n° 2009-285 du 12 mars 2009, contre laquelle Mme [O] a formé un recours, l'assemblée générale des magistrats du siège de cette cour d'appel a rejeté sa demande au motif que la candidate ne remplit pas la condition d'âge posée par cet article.\n \n Examen du grief\n \n Exposé du grief\n \n 3. Mme [O] fait valoir que la lettre de l'article 2, 1°, du décret prévoit que le candidat doit être âgé de moins de 70 ans à la date de son inscription mais que cette condition n'est pas prévue pour la demande de réinscription, de sorte qu'en rejetant sa demande, l'assemblée générale a commis une erreur de droit.\n \n Réponse de la Cour \n \n 4. Selon l'article 2, 1°, du décret n° 2009-285 du 12 mars 2009, une personne physique ne peut être inscrite sur la liste des enquêteurs sociaux d'une cour d'appel que si elle est âgée de moins de 70 ans à la date de son inscription.\n \n 5. Cette condition d'âge s'applique également aux demandes de réinscription.\n \n 6. En conséquence, c'est sans commettre d'erreur de droit que l'assemblée générale, réunie le 15 novembre 2024 et statuant au vu des pièces produites par Mme [O], née le 24 juillet 1951, a décidé de ne pas la réinscrire sur la liste des enquêteurs sociaux de la cour d'appel.\n \n 7. Le grief ne peut, dès lors, être accueilli.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le recours ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf octobre deux mille vingt-cinq par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par la présidente, la conseillère rapporteure et Mme Cathala, greffière présente lors de la mise à disposition.",
+  "sommaire": "La condition, prévue à l'article 2, 1°, du décret n° 2009-285 du 12 mars 2009, selon laquelle une personne physique doit être âgée de moins de 70 ans pour être inscrite sur la liste des enquêteurs sociaux, s'applique également aux demandes de réinscription.",
+  "themes": [
+    "expert judiciaire",
+    "liste de la cour d'appel",
+    "réinscription",
+    "conditions",
+    "âge",
+    "cas",
+    "enquêteurs sociaux"
+  ],
+  "publication": [
+    "Publié au Bulletin",
+    "Publié aux Lettres de chambre"
+  ],
+  "visa": [
+    {
+      "title": "Article 2, 1°, du décret n° 2009-285 du 12 mars 2009."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1179
+      ]
+    ],
+    "expose": [],
+    "moyens": [
+      [
+        1179,
+        2009
+      ]
+    ],
+    "motivations": [
+      [
+        2009,
+        2678
+      ]
+    ],
+    "dispositif": [
+      [
+        2678,
+        3176
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

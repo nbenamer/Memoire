@@ -1,0 +1,54 @@
+{
+  "id": "6a4748a293c619cd1f2dac7c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-14.615",
+  "numeros": [
+    "24-14.615",
+    "24-14.615"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210655",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EC3\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme RENAULT-MALIGNAC, conseillère doyenne faisant fonction de présidente\n \n \n \n Arrêt n° 10655 F\n \n Pourvoi n° H 24-14.615 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n M. [N] [O], domicilié [Adresse 1], a formé le pourvoi n° H 24-14.615 contre l'arrêt rendu le 27 février 2024 par la cour d'appel d'Orléans (chambre des affaires de sécurité sociale), dans le litige l'opposant :\n \n 1°/ à la société [1], société par actions simplifiée, dont le siège est [Adresse 2],\n \n 2°/ à la caisse primaire d'assurance maladie de l'[Localité 1]-et-[Localité 2], dont le siège est [Adresse 3],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Lapasset, conseillère, les observations écrites de la SARL Cabinet Rousseau et Tapie, avocat de M. [O], de la SCP Célice, Texidor, Périer, avocat de la société [1], après débats en l'audience publique du 20 mai 2026 où étaient présents Mme Renault-Malignac, conseillère doyenne faisant fonction de présidente, Mme Lapasset, conseillère rapporteure, M. Leblanc, conseiller, et Mme Sara, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [O] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1590
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1590,
+        1963
+      ]
+    ],
+    "dispositif": [
+      [
+        1963,
+        2459
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-02-27",
+    "title": "Cour d'appel d'Orléans",
+    "jurisdiction": "Cour d'appel d'Orléans",
+    "number": "23/00872"
+  }
+}

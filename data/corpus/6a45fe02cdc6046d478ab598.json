@@ -1,0 +1,58 @@
+{
+  "id": "6a45fe02cdc6046d478ab598",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "23-23.027",
+  "numeros": [
+    "23-23.027",
+    "23-23.027"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210658",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10658 F\n \n Pourvoi n° E 23-23.027 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société Feastwood Invest BV, société de droit néerlandais, dont le siège est [Adresse 1] (Pays-Bas), a formé le pourvoi n° E 23-23.027 contre l'arrêt rendu le 9 novembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-9), dans le litige l'opposant :\n \n 1°/ à la société UBS, dont le siège est [Adresse 2],\n \n 2°/ au service des impôts des entreprises - SIE [Localité 1], dont le siège est [Adresse 3],\n \n 3°/ au pôle de recouvrement spécialisé des Alpes Maritimes, dont le siège est [Adresse 4],\n \n 4°/ à M. [I] [W], domicilié [Adresse 5], pris en qualité d'administrateur provisoire de la succession d'[V] [Z],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Vendryes, conseillère, les observations écrites de la SCP Boutet et Hourdeaux, avocat de la société Feastwood Invest BV, de la SCP Célice, Texidor, Périer, avocat de la société UBS, et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Vendryes, conseillère rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société Feastwood Invest BV aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Feastwood Invest BV et la condamne à payer à la société UBS la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1857
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1857,
+        2230
+      ]
+    ],
+    "dispositif": [
+      [
+        2230,
+        2854
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-09",
+    "title": "Cour d'appel d'Aix en Provence\n5A",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "5A",
+    "solution": "Annule la décision déférée",
+    "id": "654dd769420ce983188d0d4c",
+    "sourceId": "jurica:2758364",
+    "number": "22/12962"
+  }
+}

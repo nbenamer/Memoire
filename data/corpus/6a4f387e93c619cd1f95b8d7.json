@@ -1,0 +1,48 @@
+{
+  "id": "6a4f387e93c619cd1f95b8d7",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.371",
+  "numeros": [
+    "26-10.371"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60876",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : K 26-10.371\n \n \n Demandeur(s)\n : Mme [V] et autre\n \n \n Avocat(s)\n : la SARL Corlay\n \n \n Défendeur(s)\n : l'établissement [Localité 1] Alpes métropole\n \n \n Avocat(s)\n : la SARL Matuchansky, Poupot, Valdelièvre et Rameix\n \n \n \n \n \n \n Ordonnance\n : 60876\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ Mme [R] [V], épouse [N], domiciliée [Adresse 1],\n \n 2°/ M. [X] [N], domicilié [Adresse 1],\n \n ont formé un pourvoi le 13 janvier 2026 contre le jugement rendu\n le 22 mai 2025 par le tribunal judiciaire de Grenoble (4e chambre civile 4.2), dans le litige les opposant à l'établissement [Localité 1] Alpes métropole, établissement public à caractère industriel et commercial, dont le siège est [Adresse 2], anciennement domicilié\n [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 11 mai 2026, la SARL Corlay, agissant aux noms de Mme [R] [V] et de M. [X] [N], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à Mme [R] [V] et à M. [X] [N] de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1279
+      ]
+    ],
+    "dispositif": [
+      [
+        1279,
+        1404
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-05-22",
+    "title": "Tribunal judiciaire de Grenoble",
+    "jurisdiction": "Tribunal judiciaire de Grenoble",
+    "number": "23/02209"
+  }
+}

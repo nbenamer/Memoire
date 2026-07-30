@@ -1,0 +1,54 @@
+{
+  "id": "6a4de4a793c619cd1f8425c3",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-12.926",
+  "numeros": [
+    "25-12.926",
+    "25-12.926"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO00393",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement",
+  "texte": "COMM.\n \n JB\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Désistement\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 393 F-D\n \n Pourvoi n° S 25-12.926 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n La société Distri rive gauche, société par actions simplifiée, dont le siège est [Adresse 1], a formé le pourvoi n° [Etablissement 1] 25-12.926 contre l'arrêt n° RG 23/00595 rendu le 19 décembre 2024 par la cour d'appel de Saint-Denis (chambre civile TGI), dans le litige l'opposant :\n \n 1°/ au directeur régional des douanes et droits indirects de la Réunion, domicilié [Adresse 2],\n \n 2°/ au directeur général des douanes et droits indirects, domicilié11 [Adresse 3],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Chazalette, conseiller, les observations de la SAS Boulloche, Colin, Stoclet et Associés, avocat de la société Distri rive gauche, de la SELAS Froger & Zajdela, avocat du directeur régional des douanes et droits indirects de la Réunion et du directeur général des douanes et droits indirects, après débats en l'audience publique du 27 mai 2026 où étaient présents M. Vigneau, président, M. Chazalette, conseiller rapporteur, M. Ponsot, conseiller doyen, et M. Doyen, greffier de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Par acte déposé au greffe de la Cour de cassation le 15 mai 2026, la SAS Boulloche, Colin, Stoclet et Associés, avocat à cette Cour, a déclaré, au nom de la société Distri rive gauche, demanderesse au pourvoi, se désister du pourvoi formé par elle contre l'arrêt n° RG 23/00595 rendu le 19 décembre 2024 par la cour d'appel de Saint-Denis (chambre civile TGI), au profit du directeur régional des douanes et droits indirects de la Réunion et du directeur général des douanes et droits indirects ;\n \n 2. En application de l'article 1026 du code de procédure civile, ce désistement, intervenu après le dépôt du rapport, doit être constaté par un arrêt.\n \n PAR CES MOTIFS, la Cour :\n \n DONNE ACTE à la société Distri rive gauche de son désistement de pourvoi ;\n \n Condamne la société Distri rive gauche aux dépens ;\n \n En application de l'article 700 du code de procédure civile, condamne la société Distri rive gauche à payer au directeur régional des douanes et droits indirects de la Réunion et au directeur général des douanes et droits indirects la somme globale de 500 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par le président, le conseiller rapporteur, et Mme Sezer, greffière de chambre, qui a assisté au prononcé de l'arrêt, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1695
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1695,
+        2355
+      ]
+    ],
+    "dispositif": [
+      [
+        2355,
+        3340
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-19",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "23/00595"
+  }
+}

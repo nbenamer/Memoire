@@ -1,0 +1,48 @@
+{
+  "id": "6a4f383093c619cd1f95a8ce",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-12.280",
+  "numeros": [
+    "25-12.280"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60910",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Q 25-12.280\n \n \n Demandeur(s)\n : M. [S] et autre\n \n \n Avocat(s)\n : Me Carbonnier\n \n \n Défendeur(s)\n : M. [S]\n \n \n \n \n \n \n Ordonnance\n : 60910\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ M. [N], [R] [S], domicilié [Adresse 1], \n [Localité 1],\n \n 2°/ M. [C], [A] [S], domicilié [Adresse 2], \n [Localité 2],\n \n ont formé un pourvoi le 4 mars 2025 contre les arrêts rendus les 14 décembre 2023 et 5 décembre 2024 par la cour d'appel de Basse-Terre (2e chambre civile), dans le litige les opposant à M. [H], [L] [S], domicilié [Adresse 1], [Localité 1].\n \n Par acte déposé au greffe de la Cour de cassation le 11 juin 2025, Me Carbonnier, agissant au nom de M. [N] [S] et de M. [C] [S], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à M. [N] [S] et à M. [C] [S] de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1087
+      ]
+    ],
+    "dispositif": [
+      [
+        1087,
+        1212
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-12-14",
+    "title": "Cour d'appel de Basse Terre",
+    "jurisdiction": "Cour d'appel de Basse Terre",
+    "number": "22/00988"
+  }
+}

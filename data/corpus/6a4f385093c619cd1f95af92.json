@@ -1,0 +1,48 @@
+{
+  "id": "6a4f385093c619cd1f95af92",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-12.607",
+  "numeros": [
+    "26-12.607"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60896",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : R 26-12.607\n \n \n Demandeur(s)\n : la commune de [Localité 1]\n \n \n Avocat(s)\n : la SCP Gatineau, Fattaccini et Rebeyrol\n \n \n Défendeur(s)\n : M. [K]\n \n \n Avocat(s)\n : la SELAS Froger & Zajdela\n \n \n \n \n \n \n Ordonnance\n : 60896\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La commune de [Localité 1], agissant par son maire en exercice, domiciliée en cette qualité [Adresse 1], a formé un pourvoi\n le 25 février 2026 contre l'arrêt rendu le 30 janvier 2026 par la cour d'appel de Bourges (chambre sociale), dans le litige l'opposant à M. [R] [K], domicilié [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 22 mai 2026, la SCP Gatineau, Fattaccini et Rebeyrol, agissant au nom de la commune de [Localité 1], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la commune de [Localité 1] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1122
+      ]
+    ],
+    "dispositif": [
+      [
+        1122,
+        1247
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-01-30",
+    "title": "Cour d'appel de Bourges",
+    "jurisdiction": "Cour d'appel de Bourges",
+    "number": "25/00798"
+  }
+}

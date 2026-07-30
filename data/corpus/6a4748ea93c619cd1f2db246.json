@@ -1,0 +1,48 @@
+{
+  "id": "6a4748ea93c619cd1f2db246",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-18.802",
+  "numeros": [
+    "25-18.802"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90632",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORejRad\n \n \n Pourvoi n° : D 25-18.802\n Demandeur : M. [E]\n Défendeur : la société L'air pur et autre\n Requête n° : 179/26\n Ordonnance n° : 90632 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n la société L'air pur, ayant la SCP Rocheteau, Uzan-Sarano et Goulet pour avocat à la Cour de cassation,\n \n ET :\n \n M. [W] [E], ayant la SARL Cabinet Rousseau et Tapie pour avocat à la Cour de cassation,\n \n \n \n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Mme Intizar Shaiek, directrice de greffe lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 25 février 2026 par laquelle la société L'air pur demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi formé le 2 septembre 2025 par M. [W] [E] à l'encontre de l'arrêt rendu le 12 juin 2025 par la cour d'appel de Nîmes, dans l'instance enregistrée sous le numéro D 25-18.802 ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n Il résulte de l'examen des pièces produites au soutien des observations que les causes de l'arrêt ont été partiellement exécutées à hauteur de 3 307,47 euros, correspondant a minima à la condamnation principale. \n \n Dès lors, il n'y a pas lieu de radier l'affaire du rôle de la Cour.\n \n EN CONSÉQUENCE :\n \n La requête en radiation est rejetée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé,\n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek,\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1578
+      ]
+    ],
+    "dispositif": [
+      [
+        1578,
+        1831
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-06-12",
+    "title": "Cour d'appel de Nîmes",
+    "jurisdiction": "Cour d'appel de Nîmes",
+    "number": "22/03319"
+  }
+}

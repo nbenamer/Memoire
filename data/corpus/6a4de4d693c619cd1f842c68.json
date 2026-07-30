@@ -1,0 +1,56 @@
+{
+  "id": "6a4de4d693c619cd1f842c68",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-16.086",
+  "numeros": [
+    "25-16.086",
+    "25-16.088",
+    "25-16.086",
+    "25-16.088"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C110469",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 1\n \n AB28\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme CHAMPALAUNE, présidente\n \n \n \n Arrêt n° 10469 F\n \n \n Pourvois n°\n B 25-16.086\n D 25-16.088 JONCTION\n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, DU 8 JUILLET 2026\n \n \n 1°/ M. [Z] [T],\n \n 2°/ Mme [J] [O], épouse [T],\n \n domiciliés tous deux [Adresse 1],\n \n ont formé les pourvois n° B 25-16.086 et D 25-16.088 contre respectivement l'arrêt rendu le 10 avril 2025 et l'arrêt rendu le 23 janvier 2025 par la cour d'appel de Nîmes (chambre civile - 1re chambre), dans les litiges les opposant :\n \n 1°/ à la société Compagnie européenne de garanties et cautions, société anonyme, dont le siège est [Adresse 2], venant aux droits de la société SACCEF par suite de sa fusion-absorption,\n \n 2°/ à la société My Money Bank, société anonyme, dont le siège est tour [Adresse 3],\n \n défenderesses à la cassation.\n \n Les dossiers ont été communiqués au procureur général.\n \n Sur le rapport de Mme Robin-Raschel, conseillère référendaire, les observations écrites de la SELAS Waquet, Farge, Hazan et Féliers, avocat de M. et Mme [T], de la SAS Hannotin Avocats, avocat de la société Compagnie européenne de garanties et cautions, de la SCP Lyon-Caen et Thiriez, avocat de la société My Money Bank, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Champalaune, présidente, Mme Robin-Raschel, conseillère référendaire rapporteure, Mme Guihal, conseillère doyenne, et Mme Babut, greffière de chambre,\n \n la première chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. En raison de leur connexité, les pourvois n° B 25-16.086 et D 25-16.088 sont joints.\n \n 2. Les moyens de cassation, qui sont invoqués à l'encontre des décisions attaquées, ne sont manifestement pas de nature à entraîner la cassation.\n \n 3. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ces pourvois qui ne sont manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, et sans qu'il y ait lieu de statuer sur la mise hors de cause de la société My Money Bank, la Cour :\n \n REJETTE les pourvois ;\n \n Condamne M. et Mme [T] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes formées par M. et Mme [T] et la société My Money Bank et condamne M. et Mme [T] à payer à la société Compagnie européenne de garanties et de cautions la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, première chambre civile, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1888
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1888,
+        2362
+      ]
+    ],
+    "dispositif": [
+      [
+        2362,
+        3132
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-01-23",
+    "title": "Cour d'appel de Nîmes",
+    "jurisdiction": "Cour d'appel de Nîmes",
+    "number": "23/00668"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6a4748b893c619cd1f2dae1a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-19.361",
+  "numeros": [
+    "25-19.361"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90648",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORad\n \n \n \n Pourvoi n° : M 25-19.361\n Demandeur : la société [1]\n Défendeur : l'URSSAF Champagne-Ardenne\n Requête n° : 228/26\n Ordonnance n° : 90648 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (l'URSSAF) Champagne-Ardenne, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n ET :\n \n la société [1], ayant la SARL Cabinet Munier-Apaire pour avocat à la Cour de cassation,\n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 12 mars 2026 par laquelle l'URSSAF Champagne-Ardenne demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro M 25-19.361 formé le 18 septembre 2025 par la société [1] à l'encontre de l'arrêt rendu le 21 mai 2025 par la cour d'appel de Nancy ;\n \n Vu les observations présentées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ; \n \n Le montant de la somme due par la société [1] est tel qu'elle est dans l'impossibilité de la régler en une seule fois. \n \n En revanche, alors qu'elle décrit une situation économique dont elle ne justifie que par des éléments comptables épars et qui n'est pas en cohérence avec le fait qu'aucune procédure collective n'ait été ouverte à son égard, elle n'établit pas être dans l'impossibilité de proposer un règlement échelonné de sa dette, alors même qu'en novembre et en décembre 2025, son propre expert-comptable estime envisageable de négocier, certes à l'égard d'un autre créancier que l'URSSAF Champagne Ardenne, un plan d'apurement. \n \n Dès lors, la requête en radiation de l'URSSAF Champagne Ardenne doit être accueillie.\n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro M 25-19.361 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2098
+      ]
+    ],
+    "dispositif": [
+      [
+        2098,
+        2592
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-05-21",
+    "title": "Cour d'appel de Nancy",
+    "jurisdiction": "Cour d'appel de Nancy",
+    "number": "24/01679"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6a45fcdbcdc6046d478a7318",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "24-12.795",
+  "numeros": [
+    "24-12.795"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50541",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [G]\n \n \n \n Pourvoi n°\n : D 24-12.795\n \n \n Demandeur(s)\n : la Caisse d'épargne et de prévoyance Normandie\n \n \n Avocat(s)\n : la SCP Marc Lévis\n \n \n Défendeur(s)\n : M. [T]\n \n \n Avocat(s)\n : la SARL Meier-[Localité 1], Lécuyer et associés\n \n \n \n \n \n \n Ordonnance\n : 50541\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, assisté de Mme Sylvie Dottori, greffière, a rendu la présente ordonnance.\n \n La Caisse d'épargne et de prévoyance Normandie, dont le siège est \n [Adresse 1], a formé un pourvoi le 13 mars 2024 \n contre l'arrêt rendu le 21 décembre 2023 par la cour d'appel de Rouen \n (chambre civile et commerciale), dans le litige l'opposant à M. [W] [T], \n domicilié [Adresse 2]. \n \n Un mémoire ampliatif a été reçu au greffe des pourvois le 23 juillet 2024. \n Par mémoires déposés au greffe de la Cour de cassation les 30 septembre 2024 \n et 3 mars 2025, la SARL Meier-[Localité 1], Lécuyer et associés, agissant pour \n M. [W] [T], défendeur au pourvoi, a conclu qu'il plaise à la Cour \n de rejeter le pourvoi et de condamner la Caisse d'épargne et de prévoyance Normandie à lui payer la somme de 3 500 euros en application de l'article 700 \n du code de procédure civile. \n \n Il ressort des éléments de la procédure que le mémoire ampliatif n'a pas été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Rejette la demande formée en application de l'article 700 du code de procédure civile.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1580
+      ]
+    ],
+    "dispositif": [
+      [
+        1580,
+        1800
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-12-21",
+    "title": "Cour d'appel de Rouen",
+    "jurisdiction": "Cour d'appel de Rouen",
+    "number": "23/00958"
+  }
+}

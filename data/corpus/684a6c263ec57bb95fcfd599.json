@@ -1,0 +1,66 @@
+{
+  "id": "684a6c263ec57bb95fcfd599",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "23-50.030",
+  "numeros": [
+    "23-50.030"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:C100436",
+  "date_decision": "2025-06-12",
+  "type_decision": "Autre",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "CIV. 1\n \n IJ\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 12 juin 2025\n \n \n \n \n Irrecevabilité\n \n \n Mme CHAMPALAUNE, président\n \n \n \n Arrêt n° 436 F-B\n \n Pourvoi n° F 23-50.030 \n \n Aide juridictionnelle totale en demande\n au profit de Mme [R] [P].\n Admission du bureau d'aide juridictionnelle\n près la Cour de cassation\n en date du 15 novembre 2023.\n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, DU 12 JUIN 2025\n \n Mme [R] [P], domiciliée [Adresse 1], a formé le pourvoi n° F 23-50.030 contre l'arrêt rendu le 9 mai 2023 par la cour d'appel d'Aix-en-Provence (chambre 2-3), dans le litige l'opposant à M. [U] [E], domicilié [Adresse 2], défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Vanoni-Thiery, conseiller référendaire, les observations de la SCP Boullez, avocat de Mme [P], de la SCP Le Griel, avocat de M. [E], après débats en l'audience publique du 29 avril 2025 où étaient présentes Mme Champalaune, président, Mme Vanoni-Thiery, conseiller référendaire rapporteur, Mme Auroy, conseiller doyen, et Mme Ben Belkacem, greffier de chambre,\n \n la première chambre civile de la Cour de cassation, composée des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Recevabilité du pourvoi, examinée d'office\n \n 1. Conformément à l'article 1015 du code de procédure civile, avis a été donné aux parties qu'il est fait application des articles 606 et 608 du code de procédure civile. \n \n Vu les articles 606 et 608 du code de procédure civile : \n \n 2. Sauf dans les cas spécifiés par la loi, les décisions en dernier ressort qui ne mettent pas fin à l'instance ne peuvent être frappées de pourvoi en cassation indépendamment des décisions sur le fond que si elles tranchent dans leur dispositif tout ou partie du principal. Il n'est dérogé à cette règle qu'en cas d'excès de pouvoir.\n \n 2. Mme [P] s'est pourvue en cassation contre un arrêt qui, statuant sur appel d'une ordonnance du juge de la mise en état rendue à l'issue de l'audience d'orientation et sur mesures provisoires, a prescrit de telles mesures pendant la durée de l'instance en divorce et, à cette fin, s'est prononcé sur les modalités d'exercice de l'autorité parentale sur les deux enfants mineurs. \n \n 3. Cette décision, dont il n'est pas prétendu qu'elle procéderait d'un excès de pouvoir et qui est dépourvue de l'autorité de la chose jugée au principal, n'a pas mis fin à l'instance.\n \n 4. En l'absence de dispositions spéciales de la loi, le pourvoi en cassation formé par Mme [P], indépendamment de la décision sur le fond, n'est donc pas recevable.\n \n PAR CES MOTIFS, la Cour :\n \n DÉCLARE IRRECEVABLE le pourvoi ;\n \n Condamne Mme [P] aux dépens ;\n \n Ainsi fait et jugé par la Cour de cassation, première chambre civile, et prononcé publiquement le douze juin deux mille vingt-cinq par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": "En application des articles 606 et 608 du code de procédure civile, sauf dans les cas spécifiés par la loi, les décisions en dernier ressort qui ne mettent pas fin à l'instance ne peuvent être frappées de pourvoi en cassation, indépendamment des décisions sur le fond, que si elles tranchent dans leur dispositif tout ou partie du principal. Il n'est dérogé à cette règle qu'en cas d'excès de pouvoir. \nEn l'absence de dispositions spéciales de la loi, est en conséquence irrecevable le pourvoi formé contre l'arrêt qui, statuant sur appel d'une ordonnance du juge de la mise en état rendue à l'issue de l'audience d'orientation et sur mesures provisoires, a prescrit de telles mesures pendant la durée de l'instance en divorce",
+  "themes": [
+    "cassation",
+    "décisions susceptibles",
+    "décisions insusceptibles de pourvoi immédiat",
+    "décision ne tranchant pas une partie du principal",
+    "décision statuant sur une mesure provisoire",
+    "divorce",
+    "décision statuant sur appel d'une ordonnance du juge de la mise en état portant mesures provisoires"
+  ],
+  "publication": [
+    "Publié au Bulletin",
+    "Publié aux Lettres de chambre"
+  ],
+  "visa": [
+    {
+      "title": "Articles <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=606+code+de+proc%C3%A9dure+civile&page=1&init=true\" target=\"_blank\">606</a> et <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=608+code+de+proc%C3%A9dure+civile&page=1&init=true\" target=\"_blank\">608</a> du code de procédure civile."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1442
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1442,
+        2806
+      ]
+    ],
+    "dispositif": [
+      [
+        2806,
+        3228
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-05-09",
+    "title": "Cour d'appel d'Aix en Provence",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "number": "22/14104"
+  }
+}

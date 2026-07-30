@@ -1,0 +1,58 @@
+{
+  "id": "6a4f380493c619cd1f959ffb",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-10.568",
+  "numeros": [
+    "25-10.568",
+    "25-10.568"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200737",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement",
+  "texte": "CIV. 2\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Désistement\n \n \n Mme ISOLA, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 737 F-D\n \n Pourvoi n° D 25-10.568 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n L'association Bureau central français des sociétés d'assurances contre les accidents d'automobiles, dont le siège est [Adresse 1], a formé le pourvoi n° D 25-10.568 contre l'arrêt rendu le 24 octobre 2024 par la cour d'appel de Paris (pôle 4, chambre 11), dans le litige l'opposant :\n \n 1°/ à M. [R] [V], domicilié [Adresse 2],\n \n 2°/ à la caisse primaire d'assurance maladie (CPAM) de Haute-Corse, dont le siège est [Adresse 3],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Philippart, conseillère référendaire, les observations de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de l'association Bureau central français des sociétés d'assurances contre les accidents d'automobiles, de la SCP Gadiou et Chevallier, avocat de M. [V], après débats en l'audience publique du 3 juin 2026 où étaient présents Mme Isola, conseillère doyenne faisant fonction de présidente, Mme Philippart, conseillère référendaire rapporteure, M. Martin, conseiller, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n LA COUR, \n \n 1. Par acte déposé au greffe de la Cour de cassation le 7 mai 2026, la SCP Rocheteau, Uzan-Sarano & Goulet, avocat à la Cour de cassation, a déclaré, au nom de L'association Bureau central français des sociétés d'assurances contre les accidents d'automobiles, se désister du pourvoi formé par elle contre un arrêt rendu le 24 octobre 2024 par la cour d'appel de Paris dans une instance l'opposant à M. [V] et la caisse primaire d'assurance maladie de Haute-Corse.\n \n 2. En application de l'article 1026 du code de procédure civile, ce désistement, intervenu après le dépôt du rapport, doit être constaté par arrêt.\n \n PAR CES MOTIFS, la Cour :\n \n DONNE ACTE à l'association Bureau central français des sociétés d'assurances contre les accidents d'automobiles de son désistement de pourvoi ;\n \n Condamne l'association Bureau central français des sociétés d'assurances contre les accidents d'automobiles ; \n \n En application de l'article 700 du code de procédure civile, rejette la demande de l'association Bureau central français des sociétés d'assurances contre les accidents d'automobiles et la condamne à payer à M. [V] la somme de 3 000 euros ; \n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1677
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1677,
+        2311
+      ]
+    ],
+    "dispositif": [
+      [
+        2311,
+        3169
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-10-24",
+    "title": "Cour d'appel de Paris\nH2",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "H2",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "671b358c2edfb0b58c05ede9",
+    "sourceId": "jurica:2930859",
+    "number": "20/11881"
+  }
+}

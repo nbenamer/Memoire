@@ -1,0 +1,52 @@
+{
+  "id": "6a50f10b93c619cd1fa969ee",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": "Formation restreinte",
+  "numero_pourvoi": "26-12.874",
+  "numeros": [
+    "26-12.874"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90704",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORad\n \n \n \n Pourvoi n° : F 26-12.874\n Demandeur : M. [W]\n Défendeur : M. [X]\n Requête n° : 326/26\n Ordonnance n° : 90704 du 9 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n M. [R] [X], ayant la SCP Piwnica et Molinié pour avocat à la Cour de cassation,\n \n ET :\n \n M. [V] [W], ayant SAS Hannotin Avocats pour avocat à la Cour de cassation,\n Carole Caillard, conseillère déléguée par le premier président de la Cour de cassation, assistée de Corinne Comes, greffière lors des débats du 18 juin 2026, et de Véronique Layemar lors de l'audience, a rendu l'ordonnance suivante :\n \n Vu la requête du 15 avril 2026 par laquelle M. [R] [X] demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro F 26-12.874 formé le 9 mars 2026 par M. [V] [W] à l'encontre de l'arrêt rendu le 8 janvier 2026 par la cour d'appel de Paris ;\n \n Vu les observations présentées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de Jean-Pierre Bonthoux, avocat général, recueilli lors des débats ; \n \n Le demandeur au pourvoi n'a pas comparu,et il n'est invoqué aucune diligence manifestant une impossibilité d'exécution ni une situation de nature à faire craindre ou présumer des conséquences manifestement excessives en cas d'exécution, au regard des revenus et charges produites et de la vente récente d'un immeuble, \n \n Dès lors, la requête doit être accueillie.\n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro F 26-12.874 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n Fait à Paris, le 9 juillet 2026\n \n \n La greffière, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Vénusia Ismail\n Carole Caillard",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1515
+      ]
+    ],
+    "dispositif": [
+      [
+        1515,
+        1944
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-01-08",
+    "title": "Cour d'appel de Paris\nA3",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "A3",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6960eb81cdc6046d47bcdaf8",
+    "sourceId": "jurica:3155740",
+    "number": "25/04172"
+  }
+}

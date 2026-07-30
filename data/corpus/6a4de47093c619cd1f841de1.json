@@ -1,0 +1,58 @@
+{
+  "id": "6a4de47093c619cd1f841de1",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-13.037",
+  "numeros": [
+    "25-13.037",
+    "25-13.037"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO10322",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COMM.\n \n JB\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 10322 F\n \n Pourvoi n° N 25-13.037 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n 1°/ M. [G] [U],\n \n 2°/ Mme [A] [O], épouse [U],\n \n tous deux domiciliés [Adresse 1],\n \n ont formé le pourvoi n° N 25-13.037 contre l'arrêt rendu le 22 janvier 2025 par la cour d'appel de Paris (pôle 5 chambre 6), dans le litige les opposant au fonds commun de titrisation Absus, dont le siège est [Adresse 2], ayant pour société de gestion la société Iq Eq Management, représenté par son entité en charge du recouvrement de la société MCS TM, ayant son siège social [Adresse 3], venant au droix droits de la société MCS et associés, elle même venant aux droits de la caisse régionale de crédit agricole mutuel Provence-Alpes-Côte d'Azur défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Graff-Daudret, conseillère, les observations écrites de la SARL Boré, Salve de Bruneton et Mégret, avocat de M. [U] et de Mme [O], épouse [U], de la SCP Delamarre et Jehannin, avocat du fonds commun de titrisation Absus, représenté par son entité en charge du recouvrement la société MCS TM, venant au droix droits de la société MCS et associés, elle même venant aux droits de la [Adresse 4], après débats en l'audience publique du 27 mai 2026 où étaient présents M. Vigneau, président, Mme Graff-Daudret, conseillère rapporteure, M. Ponsot, conseiller doyen, greffier de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. et Mme [U] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette leur demande ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par le président, la conseillère rapporteure, et Mme Sezer, greffière de chambre, qui a assisté au prononcé de l'arrêt, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1967
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1967,
+        2346
+      ]
+    ],
+    "dispositif": [
+      [
+        2346,
+        3083
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-01-22",
+    "title": "Cour d'appel de Paris\nI6",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I6",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6791de5693ef93c421386ae7",
+    "sourceId": "jurica:2975854",
+    "number": "22/20174"
+  }
+}

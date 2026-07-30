@@ -1,0 +1,56 @@
+{
+  "id": "6a4de4d993c619cd1f842ce2",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-21.957",
+  "numeros": [
+    "24-21.957",
+    "24-21.957"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C110468",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 1\n \n AB28\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme CHAMPALAUNE, présidente\n \n \n \n Arrêt n° 10468 F\n \n Pourvoi n° N 24-21.957 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, DU 8 JUILLET 2026\n \n La société Entreprise [X], société à responsabilité limitée, dont le siège est [Adresse 1], a formé le pourvoi n° N 24-21.957 contre l'arrêt rendu le 17 septembre 2024 par la cour d'appel de Toulouse (1re chambre, section 1), dans le litige l'opposant :\n \n 1°/ à la société Marmalcoa - Transformação De Marmores Lda., dont le siège est [Adresse 2], (Portugal),\n \n 2°/ à la société AXA France IARD, société anonyme, dont le siège est [Adresse 3],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Corneloup, conseillère, les observations écrites de la SCP L. Poulet-Odent, avocat de la société Entreprise [X], de la SCP Célice, Texidor, Périer, avocat de la société AXA France IARD, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Champalaune, présidente, Mme Corneloup, conseillère rapporteure, Mme Guihal, conseillère doyenne, et Mme Babut, greffière de chambre,\n \n la première chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société Entreprise [X] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Entreprise [X] et la condamne à payer à la société Axa France IARD la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, première chambre civile, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1569
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1569,
+        1942
+      ]
+    ],
+    "dispositif": [
+      [
+        1942,
+        2568
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-17",
+    "title": "Cour d'appel de Toulouse\n11",
+    "jurisdiction": "Cour d'appel de Toulouse",
+    "chamber": "11",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "number": "22/01442"
+  }
+}

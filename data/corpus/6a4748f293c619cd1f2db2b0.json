@@ -1,0 +1,52 @@
+{
+  "id": "6a4748f293c619cd1f2db2b0",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-21.047",
+  "numeros": [
+    "25-21.047"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90629",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORejRad\n \n \n Pourvoi n° : U 25-21.047\n Demandeur : Mme [V]\n Défendeur : la caisse primaire d'assurance maladie (CPAM) de la Loire\n Requête n° : 181/26\n Ordonnance n° : 90629 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n la caisse primaire d'assurance maladie (CPAM) de la Loire, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n ET :\n \n Mme [C] [V] épouse [K], ayant la SCP Françoise Fabiani - François Pinatel pour avocat à la Cour de cassation,\n \n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Mme Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 26 février 2026 par laquelle la caisse primaire d'assurance maladie (CPAM) de la Loire demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi formé le 17 novembre 2025 par Mme [C] [V] épouse [K] à l'encontre de l'arrêt rendu le 8 avril 2025 par la cour d'appel de Lyon, dans l'instance enregistrée sous le numéro U 25-21.047 ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n Il ressort des pièces produites au soutien des observations en défense que Mme [V] épouse [K] n'entend pas se soustraire à l'exécution de l'arrêt attaqué. \n En effet, elle a d'une part saisi la commission de recours amiable qui lui a accordé une réduction de sa dette de restitution née de l'infirmation du jugement rendu le 13 avril 2022 par le pôle social du tribunal judiciaire de Saint-Etienne. \n D'autre part, après avoir versé 200 euros par mois, en mars, avril et mai 2026, elle a instauré un virement permanent de 300 euros par mois à compter de juin 2026. Cette offre de règlement échelonné de sa dette apparaît satisfactoire au regard des revenus du foyer de Mme [K] et de ses charges notamment de famille, dont elle justifie. \n \n Dans ces circonstances, il y a lieu de rejeter la requête en radiation. \n EN CONSÉQUENCE :\n \n La requête en radiation est rejetée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé\n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2239
+      ]
+    ],
+    "dispositif": [
+      [
+        2239,
+        2490
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-04-08",
+    "title": "Cour d'appel de Lyon\n51",
+    "jurisdiction": "Cour d'appel de Lyon",
+    "chamber": "51",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "67f8af42b5ff6e72c9612434",
+    "sourceId": "jurica:3021703",
+    "number": "22/03596"
+  }
+}

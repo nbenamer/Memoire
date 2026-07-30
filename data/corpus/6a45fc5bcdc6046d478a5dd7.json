@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc5bcdc6046d478a5dd7",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "24-21.074",
+  "numeros": [
+    "24-21.074"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50592",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [T]\n \n \n \n Pourvoi n°\n : C 24-21.074\n \n \n Demandeur(s)\n : M. [I]\n \n \n Avocat(s)\n : la SCP Françoise Fabiani - François Pinatel \n \n \n Défendeur(s)\n : la société Crédit logement\n \n \n Avocat(s)\n : la SARL Matuchansky, Poupot, Valdelièvre et Rameix\n \n \n \n \n \n \n Ordonnance\n : 50592\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [C] [I], domicilié [Adresse 1], a formé un pourvoi le 4 novembre 2024 contre l'arrêt rendu le 5 septembre 2024 par la cour d'appel de Versailles (chambre civile 1-6), \n dans le litige l'opposant à la société Crédit logement, société anonyme, \n dont le siège est [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer le demandeur déchu de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1052
+      ]
+    ],
+    "dispositif": [
+      [
+        1052,
+        1182
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-05",
+    "title": "Cour d'appel de Versailles\nA6",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "A6",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "66da9b6e413403f5ca588863",
+    "sourceId": "jurica:2902192",
+    "number": "23/03701"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "6a4de4de93c619cd1f842d86",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "23-21.385",
+  "numeros": [
+    "23-21.385",
+    "23-21.385"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C100481",
+  "date_decision": "2026-07-08",
+  "type_decision": "Arrêt",
+  "sens_solution": "Autre",
+  "solution_libelle": "Réparation d'omission de statuer (arret)",
+  "texte": "CIV. 1\n \n MC220\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Réparation d'omission de statuer\n \n \n Mme CHAMPALAUNE, présidente\n \n \n \n Arrêt n° 481 F-D\n \n Requête n° V 23-21.385 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, PREMIÈRE CHAMBRE CIVILE, DU 8 JUILLET 2026\n \n La SCP Bauer-Violas, Feschotte-Desbois et Sebagh, agissant pour le compte de Mme [N] a présenté, le 26 mai 2025, une requête en omission de statuer affectant l'arrêt n° 10298 F, rendu le 7 mai 2025, sur le pourvoi V 23-21.385 formé par : \n \n Mme [D] [H], domiciliée [Adresse 1], contre l'arrêt rendu le 28 juin 2023 par la cour d'appel d'Agen (chambre civile), dans le litige l'opposant à Mme [S] [N], domiciliée [Adresse 2].\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Peyregne-Wable, conseillère, les observations de la SCP Poupet & Kacenelenbogen, avocat de Mme [H], de la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, avocat de Mme [N], et l'avis de M. Salomon, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Champalaune, présidente, Mme Peyregne-Wable, conseillère rapporteure, Mme Guihal, conseillère doyenne, et Mme Babut, greffière de chambre,\n \n la première chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Vu l'article 463 du code de procédure civile :\n \n 1. Il a été omis de statuer sur la demande formée par Mme [N] en application de l'article 700 du code de procédure civile ;\n \n 2. Il convient de compléter la décision du 7 mai 2025.\n \n PAR CES MOTIFS, la Cour :\n \n DIT que le dispositif de l'arrêt n° 10298 F, rendu le 7 mai 2025 par la première chambre de la Cour de cassation dans le traitement du pourvoi n° V 23-21.385, sera complété comme suit :\n \n « En application de l'article 700 du code de procédure civile, rejette les demandes ; »\n \n Laisse les dépens à la charge du Trésor public ;\n \n Dit que le présent arrêt sera transcrit en marge ou à la suite de l'arrêt complété ;\n \n Ainsi fait et jugé par la Cour de cassation, première chambre civile, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=463+code+de+procedure+civile&page=1&init=true\" target=\"_blank\">463</a> du code de procedure civile."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1552
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1552,
+        1790
+      ]
+    ],
+    "dispositif": [
+      [
+        1790,
+        2563
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-06-28",
+    "title": "Cour d'appel d'Agen",
+    "jurisdiction": "Cour d'appel d'Agen",
+    "number": "22/00253"
+  }
+}

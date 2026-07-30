@@ -1,0 +1,58 @@
+{
+  "id": "6a4de3d293c619cd1f8407e0",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre sociale",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.457",
+  "numeros": [
+    "25-12.457",
+    "25-12.457"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:SO10568",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "SOC.\n \n MR13\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme MARIETTE, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10568 F\n \n Pourvoi n° H 25-12.457 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 8 JUILLET 2026\n \n Mme [H] [S], domiciliée [Adresse 1], a formé le pourvoi n° H 25-12.457 contre l'arrêt rendu le 13 septembre 2024 par la cour d'appel d'Aix-en-Provence (chambre 4-6), dans le litige l'opposant :\n \n 1°/ à la société [D] [U], société d'exercice libéral à responsabilité limitée, dont le siège est [Adresse 2], prise en la personne de Mme [A] [D] en qualité de liquidateur de l'association Aseparg,\n \n 2°/ à l'association Unedic délégation AGS CGEA de [Localité 1], dont le siège est [Adresse 3],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Maitral, conseillère référendaire, les observations écrites de la SARL Boré, Salve de Bruneton et Mégret, avocat de Mme [S], après débats en l'audience publique du 9 juin 2026 où étaient présentes Mme Mariette, conseillère doyenne faisant fonction de présidente, Mme Maitral, conseillère référendaire rapporteure, Mme Bouvier, conseillère, et Mme Aubac, greffière de chambre,\n \n la chambre sociale de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [S] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par Mme [S] ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre sociale, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1617
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1617,
+        1990
+      ]
+    ],
+    "dispositif": [
+      [
+        1990,
+        2496
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-13",
+    "title": "Cour d'appel d'Aix en Provence\n18",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "18",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "66e5272a6149aa1538d730b4",
+    "sourceId": "jurica:2906677",
+    "number": "20/10601"
+  }
+}

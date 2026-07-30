@@ -1,0 +1,54 @@
+{
+  "id": "6a45fdfbcdc6046d478ab405",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "23-22.907",
+  "numeros": [
+    "23-22.907",
+    "23-22.907"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210661",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10661 F\n \n Pourvoi n° Z 23-22.907 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société Compagnie maritime anglo-normande, société par actions simplifiée, dont le siège est [Adresse 1], a formé le pourvoi n° Z 23-22.907 contre l'arrêt rendu le 28 septembre 2023 par la cour d'appel de Caen (2e chambre civile et commerciale), dans le litige l'opposant à la société Compagnie maritime DNO, société par actions simplifiée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Caillard, conseillère, les observations écrites de la SARL Boré, Salve de Bruneton et Mégret, avocat de la société Compagnie maritime anglo-normande, de la SCP Françoise Fabiani - François Pinatel, avocat de la société Compagnie maritime DNO, et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Caillard, conseillère rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société Compagnie maritime anglo-normande aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Compagnie maritime anglo-normande et la condamne à payer à la société Compagnie maritime DNO la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1669
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1669,
+        2048
+      ]
+    ],
+    "dispositif": [
+      [
+        2048,
+        2719
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-09-28",
+    "title": "Cour d'appel de Caen",
+    "jurisdiction": "Cour d'appel de Caen",
+    "number": "22/02437"
+  }
+}

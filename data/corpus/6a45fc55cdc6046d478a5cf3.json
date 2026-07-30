@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc55cdc6046d478a5cf3",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": "Formation restreinte",
+  "numero_pourvoi": "25-21.702",
+  "numeros": [
+    "25-21.702"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50595",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [S]\n \n \n \n Pourvoi n°\n : F 25-21.702\n \n \n Demandeur(s)\n : la société YOFC international France\n \n \n Avocat(s)\n : la SARL Matuchansky, Poupot, Valdelièvre et Rameix\n \n \n Défendeur(s)\n : la Direction nationale des renseignements \n et des enquêtes douanières (DNRED) \n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n \n \n \n \n Ordonnance\n : 50595\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société YOFC international France, société par actions simplifiée, \n dont le siège est [Adresse 1], a formé un pourvoi \n le 4 décembre 2025 contre l'ordonnance rendue le 19 novembre 2025 par \n la cour d'appel de Paris (pôle 5, chambre 15), dans le litige l'opposant à \n la Direction nationale des renseignements et des enquêtes douanières (DNRED), dont le siège est [Adresse 2], \n [Localité 1].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1256
+      ]
+    ],
+    "dispositif": [
+      [
+        1256,
+        1386
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-19",
+    "title": "Cour d'appel de Paris\nJ3",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "J3",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691ed4340faf9858cdf7cb81",
+    "sourceId": "jurica:3132061",
+    "number": "24/20241"
+  }
+}

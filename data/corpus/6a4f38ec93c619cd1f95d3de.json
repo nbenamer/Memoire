@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38ec93c619cd1f95d3de",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-22.498",
+  "numeros": [
+    "25-22.498"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60830",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : W 25-22.498\n \n \n Demandeur(s)\n : la société SALIC \n \n \n Avocat(s)\n : la SAS Zribi et Texier\n \n \n Défendeur(s)\n : Mme [C] et autres\n \n \n Avocat(s)\n : la SARL Gury & Maitre\n \n \n \n \n \n \n Ordonnance\n : 60830\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société SALIC, société à responsabilité limitée, dont le siège est\n [Adresse 1], a formé un pourvoi le 30 décembre 2025 contre l'arrêt rendu le 14 octobre 2025 par la cour d'appel de Montpellier (chambre commerciale), dans le litige l'opposant :\n \n 1°/ à Mme [Z] [C],\n \n 2°/ à Mme [H] [C], \n \n tous deux domiciliées Tropic Hotel, [Adresse 2],\n \n 3°/ à la société Le tropic, société à responsabilité limitée, dont le siège est [Adresse 3],\n \n 4°/ à la société le Lion d'or, société civile immobilière, dont le siège est Tropic hotel, [Adresse 4],\n \n 5°/ à la société Eyes Wide Shut, société par actions simplifiée, dont le siège est [Adresse 5],\n \n 6°/ à Mme [Z] [I], épouse [C], domiciliée [Adresse 3], ès qualités de mandataire ad'hoc de la société le Lion d'or.\n \n Par acte déposé au greffe de la Cour de cassation le 30 avril 2026, la SAS Zribi et Texier, agissant au nom de la société SALIC, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société SALIC de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1538
+      ]
+    ],
+    "dispositif": [
+      [
+        1538,
+        1663
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-14",
+    "title": "Cour d'appel de Montpellier\n02",
+    "jurisdiction": "Cour d'appel de Montpellier",
+    "chamber": "02",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "68ef2c22796eb4b748562945",
+    "sourceId": "jurica:3113338",
+    "number": "22/04831"
+  }
+}

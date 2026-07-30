@@ -1,0 +1,58 @@
+{
+  "id": "6a4de46993c619cd1f841ca3",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-15.179",
+  "numeros": [
+    "25-15.179",
+    "25-15.179"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO10325",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COMM.\n \n JB\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 10325 F\n \n Pourvoi n° R 25-15.179 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n La société SCI [I], société civile, dont le siège est [Adresse 1], a formé le pourvoi n° R 25-15.179 contre l'arrêt rendu le 20 février 2025 par la cour d'appel d'Aix-en-Provence (chambre 3-4), dans le litige l'opposant :\n \n 1°/ à Mme [O] [Y], domiciliée [Adresse 2],\n \n 2°/ à Mme [B] [C], domiciliée [Adresse 3],\n \n 3°/ à la société d'exploitation d'industries touristiques SEIT, société anonyme, dont le siège est [Adresse 4], représentée par la société [Q] et associés, en la personne de M. [R] [Q], prise en qualité de mandataire ad'hoc de la SEIT\n \n 4°/ à la société [Q] et associés, société d'exercice libéral à responsabilité limitée, dont le siège est [Adresse 5], prise en qualité de mandataire ad'hoc de la Société d'exploitation d'industries touristiques SEIT\n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Ducloz, conseillère, les observations écrites de la SCP Célice, Texidor, Périer, avocat de la société SCI [I], de la SCP Boullez, avocat de Mmes [Y] et [C], après débats en l'audience publique du 27 mai 2026 où étaient présents M. Vigneau, président, Mme Ducloz, conseillère rapporteure, M. Ponsot, conseiller doyen, et M. Doyen, greffier de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société SCI [I] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société SCI [I] et la condamne à payer à Mmes [Y] et [C] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par le président, la conseillère rapporteure, et Mme Sezer, greffière de chambre, qui a assisté au prononcé de l'arrêt, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1876
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1876,
+        2249
+      ]
+    ],
+    "dispositif": [
+      [
+        2249,
+        3092
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-02-20",
+    "title": "Cour d'appel d'Aix en Provence\n8C",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "8C",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "67b81d72ab36edb5c45650c9",
+    "sourceId": "jurica:2992682",
+    "number": "24/09520"
+  }
+}

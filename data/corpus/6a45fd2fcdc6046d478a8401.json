@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd2fcdc6046d478a8401",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-11.969",
+  "numeros": [
+    "25-11.969",
+    "25-11.969"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310448",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10448 F\n \n Pourvoi n° B 25-11.969 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La Société de publicité édition et diffusion (Speed), société par actions simplifiée, dont le siège est [Adresse 1], a formé le pourvoi n° B 25-11.969 contre l'arrêt rendu le 19 décembre 2024 par la cour d'appel de Paris (pôle 5, chambre 3), dans le litige l'opposant :\n \n 1°/ à M. [K] [I],\n \n 2°/ à Mme [O] [J], épouse [I], \n \n tous deux domiciliés [Adresse 2],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Gallet, conseillère référendaire, les observations écrites de la SARL Gury & Maitre, avocat de la Société de publicité édition et diffusion, de la SARL Meier-Bourdeau, Lécuyer et associés, avocat de M. et Mme [I], après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Gallet, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la Société de publicité édition et diffusion aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la Société de publicité édition et diffusion et la condamne à payer à M. et Mme [I] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1517
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1517,
+        1896
+      ]
+    ],
+    "dispositif": [
+      [
+        1896,
+        2556
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-19",
+    "title": "Cour d'appel de Paris\nI3",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I3",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "67650d07749378b33b32f448",
+    "sourceId": "jurica:2962813",
+    "number": "21/13162"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc59cdc6046d478a5d99",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-17.306",
+  "numeros": [
+    "25-17.306"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50593",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [Y]\n \n \n \n \n Pourvoi n°\n : C 25-17.306\n \n \n Demandeur(s)\n : Mme [Z]\n \n \n Avocat(s)\n : la SCP Gaschignard, Loiseau et Massignon\n \n \n Défendeur(s)\n : la société Gapençais et autres\n \n \n Avocat(s)\n : la SCP [O] [V],\n la SCP Ricard, Bendel-Vasseur, Ghnassia,\n la SCP Sevaux et Mathonnet\n \n \n \n \n \n \n Ordonnance\n : 50593\n \n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [D] [Z], épouse [I], domiciliée [Adresse 1], \n [Adresse 2], agissant à titre personnel \n et ut singuli pour le compte de la société d'acquêts créée par acte notarié \n du 30 octobre 2007, a formé un pourvoi le 22 juillet 2025 contre l'arrêt rendu le 7 mai 2025 par la cour d'appel de Grenoble (chambre des affaires familiales), dans le litige l'opposant :\n \n 1°/ à la société Gapençais, société à responsabilité limitée, dont le siège est [Adresse 3], société immatriculée au RCS de [Localité 1] sous le n° 501 654 115,\n \n 2°/ à M. [S] [I], domicilié [Adresse 4],\n \n 3°/ à la société Hotalp, société à responsabilité limitée, dont le siège est \n [Adresse 5], immatriculée au RCS de [Localité 1] sous le n° 415 272 897,\n \n 4°/ à la société BPCE vie, société anonyme, dont le siège est \n [Adresse 6], immatriculée au RCS de [Localité 2] sous le n° 349 004 341.\n \n \n \n \n \n \n \n \n \n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1698
+      ]
+    ],
+    "dispositif": [
+      [
+        1698,
+        1828
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-05-07",
+    "title": "Cour d'appel de Grenoble\n03",
+    "jurisdiction": "Cour d'appel de Grenoble",
+    "chamber": "03",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "681c411b6d77d124778e7bb1",
+    "sourceId": "jurica:3034589",
+    "number": "23/02657"
+  }
+}

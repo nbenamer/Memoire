@@ -1,0 +1,58 @@
+{
+  "id": "6a4f370693c619cd1f957179",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-10.065",
+  "numeros": [
+    "25-10.065",
+    "25-10.065"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310487",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10487 F\n \n Pourvoi n° H 25-10.065 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n M. [S] [I], domicilié [Adresse 1], a formé le pourvoi n° H 25-10.065 contre l'arrêt rendu le 6 novembre 2024 par la cour d'appel de Paris (pôle 4, chambre 2), dans le litige l'opposant :\n \n 1°/ à Mme [W] [X], domiciliée [Adresse 2],\n \n 2°/ au syndicat des copropriétaires du [Adresse 2], représenté par son syndic M. [H] [N], domicilé en cette qualité [Adresse 3],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Georget, conseillère, les observations écrites de la SAS Boulloche, Colin, Stoclet et Associés, avocat de M. [I], de la SARL Cabinet Rousseau et Tapie, avocat de Mme [X], l'avis de Mme [K], avocate générale, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Georget, conseillère rapporteure, Mme Proust, conseillère doyenne, et Mme Sara, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [I] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. [I] et le condamne à payer à Mme [X] la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile, et signé par Mme Proust, conseillère doyenne en ayant délibéré, en remplacement de Mme Teiller, présidente empêchée, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1496
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1496,
+        1869
+      ]
+    ],
+    "dispositif": [
+      [
+        1869,
+        2640
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-11-06",
+    "title": "Cour d'appel de Paris\nG2",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "G2",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "672ca841660489ed11980f19",
+    "sourceId": "jurica:2936395",
+    "number": "21/22458"
+  }
+}

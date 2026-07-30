@@ -1,0 +1,52 @@
+{
+  "id": "6a4f383593c619cd1f95a9b6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-11.978",
+  "numeros": [
+    "25-11.978"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60908",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : M 25-11.978\n \n \n Demandeur(s)\n : la société Poirier\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : la société La Condamine \n \n \n Avocat(s)\n : la SAS Hannotin avocats\n \n \n \n \n \n \n Ordonnance\n : 60908\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Poirier, société civile, dont le siège est [Adresse 1], \n [Localité 1], a formé un pourvoi le 19 février 2025 contre l'arrêt rendu \n le 19 décembre 2024 par la cour d'appel d'Aix-en-Provence (chambre 1-2), dans le litige l'opposant à la société La Condamine, société civile agricole, dont le siège est [Adresse 2]\n [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 18 juin 2025, la SARL Boré, Salve de Bruneton et Mégret, agissant au nom de la société Poirier, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la société Poirier de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1160
+      ]
+    ],
+    "dispositif": [
+      [
+        1160,
+        1285
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-19",
+    "title": "Cour d'appel d'Aix en Provence\n1C",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "1C",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6765139f373968af32a72b62",
+    "sourceId": "jurica:2961748",
+    "number": "24/01817"
+  }
+}

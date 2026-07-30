@@ -1,0 +1,52 @@
+{
+  "id": "6a4f383793c619cd1f95aa1c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-11.080",
+  "numeros": [
+    "25-11.080"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60907",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : K 25-11.080\n \n \n Demandeur(s)\n : M. [I]\n \n \n Avocat(s)\n : la SCP Boullez\n \n \n Défendeur(s)\n : Mme [I] et autre\n \n \n Avocat(s)\n : la SARL Meier-Bourdeau, Lécuyer et associés\n \n \n \n \n \n \n Ordonnance\n : 60907\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [M] [I], domicilié [Adresse 1], \n a formé un pourvoi le 31 janvier 2025 contre l'arrêt rendu le 26 novembre 2024 par la cour d'appel de Versailles (chambre civile 1-1), dans le litige l'opposant :\n \n 1°/ à Mme [K], [U] [I], épouse [P], domiciliée [Adresse 2],\n \n 2°/ à la SCI A.C.R., société civile immobilière, dont le siège est \n [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 2 juin 2025, la SCP Boullez, agissant au nom de M. [M] [I], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à M. [M] [I] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1098
+      ]
+    ],
+    "dispositif": [
+      [
+        1098,
+        1223
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-11-26",
+    "title": "Cour d'appel de Versailles\nA1",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "A1",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6746b5b22c47abf68d7c43ab",
+    "sourceId": "jurica:2948236",
+    "number": "22/05213"
+  }
+}

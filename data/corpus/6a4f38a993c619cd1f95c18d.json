@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38a993c619cd1f95c18d",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.254",
+  "numeros": [
+    "26-11.254"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60858",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : V 26-11.254\n \n \n Demandeur(s)\n : la société AFD conseils et autre\n \n \n Avocat(s)\n : la SARL Meier-Bourdeau, Lécuyer et associés\n \n \n Défendeur(s)\n : la société Deltacad \n \n \n \n \n \n \n Ordonnance\n : 60858\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ la société AFD conseils, société par actions simplifiée, dont le siège est [Adresse 1],\n \n 2°/ la société PHD consulting & partners, société par actions simplifiée, dont le siège est [Adresse 1],\n \n ont formé un pourvoi le 3 février 2026 contre l'arrêt rendu\n le 25 septembre 2025 par la cour d'appel de Paris (pôle 5, chambre 5),\n dans le litige les opposant à la société Deltacad, société coopérative et\n participative à forme anonyme, dont le siège est [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 12 mai 2026, la SARL Meier-Bourdeau, Lécuyer et associés, agissant aux noms de la société AFD conseils et de la société PHD consulting & partners, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société AFD conseils et à la société PHD consulting & partners de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1364
+      ]
+    ],
+    "dispositif": [
+      [
+        1364,
+        1489
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-09-25",
+    "title": "Cour d'appel de Paris\nI5",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I5",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "68d622c02dc9e6b62770a87f",
+    "sourceId": "jurica:3103829",
+    "number": "22/00816"
+  }
+}

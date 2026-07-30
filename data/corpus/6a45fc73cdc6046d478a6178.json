@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc73cdc6046d478a6178",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.463",
+  "numeros": [
+    "26-11.463"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50581",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [A]\n \n \n \n Pourvoi n°\n : X 26-11.463\n \n \n Demandeur(s)\n : M. [B] et autre\n \n \n Avocat(s)\n : Me Soltner\n \n \n Défendeur(s)\n : la société Franfinance et autre\n \n \n Avocat(s)\n : la SCP Célice, Texidor, Périer\n \n \n \n \n \n \n Ordonnance\n : 50581\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ M. [N] [B],\n \n 2°/ Mme [M] [B], \n \n tous deux domiciliés [Adresse 1],\n \n ont formé un pourvoi le 9 février 2026 contre l'arrêt rendu le 16 décembre 2025 \n par la cour d'appel de Versailles (chambre civile 1-2), dans le litige les opposant :\n \n 1°/ à la société Franfinance, dont le siège est [Adresse 2], \n [Adresse 3],\n \n 2°/ à Mme [G] [D], domiciliée [Adresse 4], \n prise en qualité de mandataire liquidateur de la société Andd, société par actions simplifiée, immatriculée au RCS de [Localité 1] sous le numéro 515 398 790 \n et dont le siège social est situé au [Adresse 5].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer les demandeurs déchus de leur pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1320
+      ]
+    ],
+    "dispositif": [
+      [
+        1320,
+        1450
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-16",
+    "title": "Cour d'appel de Versailles\nA2",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "A2",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6942482c61c46255e16ddb0c",
+    "sourceId": "jurica:3148594",
+    "number": "25/03461"
+  }
+}

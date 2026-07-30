@@ -1,0 +1,54 @@
+{
+  "id": "6a4f374b93c619cd1f957ba5",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-16.434",
+  "numeros": [
+    "25-16.434",
+    "25-16.434"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C300428",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Radiation",
+  "texte": "CIV. 3\n \n ND\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Radiation\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 428 F-D\n \n Pourvoi n° E 25-16.434 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n 1°/ M. [N] [M], domicilié [Adresse 1],\n \n 2°/ la société EARL Les Cygnes, exploitation agricole à responsabilité limitée, dont le siège est [Adresse 1],\n \n ont formé le pourvoi n° E 25-16.434 contre l'arrêt rendu le 30 avril 2025 par la cour d'appel de Reims (chambre sociale), dans le litige les opposant à [S] [R], ayant été domicilié [Adresse 2], défendeur à la cassation.\n \n Les demandeurs invoquent, à l'appui de leur pourvoi, un moyen de cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Davoine, conseillère référendaire, les observations de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de M. [M] et de la société EARL Les Cygnes, après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Davoine, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, et Mme Sara, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Par arrêt du 15 janvier 2026 (arrêt n° 94 F-D), la troisième chambre civile de la Cour de cassation a imparti à M. [M] et l'exploitation à responsabilité limitée Les Cygnes un délai de quatre mois pour signifier leur mémoire ampliatif aux héritiers d'[S] [R] et dit qu'à défaut d'accomplissement de ces diligences dans ce délai, la radiation du pourvoi serait prononcée.\n \n 2. Ces diligences n'ayant pas été accomplies, il convient, en application des articles 381 et 470 du code de procédure civile, de radier l'affaire. \n \n PAR CES MOTIFS, la Cour :\n \n PRONONCE la radiation du pourvoi n° E 25-16.434 ;\n \n Réserve les dépens ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile, et signé par Mme Proust, conseillère doyenne en ayant délibéré, en remplacement de Mme Teiller, présidente empêchée, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1488
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1488,
+        2020
+      ]
+    ],
+    "dispositif": [
+      [
+        2020,
+        2652
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-04-30",
+    "title": "Cour d'appel de Reims",
+    "jurisdiction": "Cour d'appel de Reims",
+    "number": "23/01946"
+  }
+}

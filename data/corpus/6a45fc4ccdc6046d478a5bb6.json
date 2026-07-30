@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc4ccdc6046d478a5bb6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.017",
+  "numeros": [
+    "26-11.017"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50599",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [F]\n \n \n \n Pourvoi n°\n : N 26-11.017\n \n \n Demandeur(s)\n : M. [A]\n \n \n Avocat(s)\n : la SCP Gaschignard, Loiseau et Massignon\n \n \n Défendeur(s)\n : M. [U]\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n \n \n \n \n Ordonnance\n : 50599\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [V] [A], domicilié mas [Adresse 1], a formé un pourvoi le 27 janvier 2026 contre l'arrêt rendu le 27 novembre 2025 par \n la cour d'appel d'Aix-en-Provence (chambre 1-7), dans le litige l'opposant à M. [W] [U], domicilié [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer le demandeur déchu de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        962
+      ]
+    ],
+    "dispositif": [
+      [
+        962,
+        1092
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-27",
+    "title": "Cour d'appel d'Aix en Provence\nA1",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "A1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "692a1c28b3dd52896a8687e2",
+    "sourceId": "jurica:3136752",
+    "number": "25/01991"
+  }
+}

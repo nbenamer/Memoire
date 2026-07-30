@@ -1,0 +1,48 @@
+{
+  "id": "6a45fcb6cdc6046d478a6c8c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": "Formation restreinte",
+  "numero_pourvoi": "26-11.195",
+  "numeros": [
+    "26-11.195"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50557",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [D]\n \n \n \n Pourvoi n°\n : F 26-11.195\n \n \n Demandeur(s)\n : M. [G] et autre\n \n \n Avocat(s)\n : la SCP Lesourd\n \n \n Défendeur(s)\n : la direction régionale des finances publiques d'Ile-de-France \n et du département de [Localité 1]\n \n \n \n \n \n \n Ordonnance\n : 50557\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ M. [I] [G],\n \n 2°/ Mme [K] [Y], épouse [G], \n \n tous deux domiciliés [Adresse 1],\n \n ont formé un pourvoi le 2 février 2026 contre le jugement rendu le 26 novembre 2025 par le tribunal judiciaire d'Avignon (juge des contentieux de la protection), dans le litige les opposant à la direction régionale des finances publiques d'Ile-de-France et du département de Paris, pôle de recouvrement spécialisé DNVSF, dont le siège est [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer les demandeurs déchus de leur pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1200
+      ]
+    ],
+    "dispositif": [
+      [
+        1200,
+        1330
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-26",
+    "title": "Tribunal judiciaire d'Avignon",
+    "jurisdiction": "Tribunal judiciaire d'Avignon",
+    "number": "25/00108"
+  }
+}

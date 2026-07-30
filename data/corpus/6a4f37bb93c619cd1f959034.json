@@ -1,0 +1,54 @@
+{
+  "id": "6a4f37bb93c619cd1f959034",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "26-00.012",
+  "numeros": [
+    "26-00.012",
+    "26-00.012"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200762",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / EXPTS\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 762 F-D\n \n Recours n° A 26-00.012 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n Mme [X] [F], domiciliée [Adresse 1], a formé le recours n° A 26-00.012 en annulation d'une décision rendue le 13 novembre 2025 par l'assemblée générale des magistrats du siège de la cour d'appel de Paris.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Cassignard, conseillère, et l'avis de Mme de Chanville, avocate générale référendaire, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Cassignard, conseillère rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Faits et procédure \n \n 1. Mme [F] a sollicité son inscription sur la liste des experts judiciaires de la cour d'appel de Paris dans la spécialité interprétariat en langue turque. \n \n 2. Par une décision du 13 novembre 2025, contre laquelle Mme [F] a formé un recours, l'assemblée générale des magistrats du siège de cette cour d'appel a rejeté sa demande aux motifs que les diplômes de la candidate sont inadaptés à la spécialité demandée, qui exige des connaissances spécifiques et que son expérience professionnelle et ses travaux sont insuffisants au regard des qualifications requises pour être inscrite dans ces spécialités sur la liste des experts près la cour d'appel.\n \n Examen du grief\n \n Exposé du grief\n \n 3. Mme [F] fait valoir qu'elle exerce depuis plusieurs années des missions d'interprétariat dans un contexte judiciaire et institutionnel impliquant la restitution fidèle et exacte de propos complexes et juridiquement sensibles et que son profil correspond ainsi pleinement aux exigences attachées à la fonction d'interprète en cour d'assises.\n \n Réponse de la Cour \n \n 4. C'est par des motifs exempts d'erreur manifeste d'appréciation que l'assemblée générale a décidé de ne pas inscrire Mme [F] sur la liste des experts judiciaires de la cour d'appel.\n \n 5. Le grief ne peut, dès lors, être accueilli.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le recours ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1179
+      ]
+    ],
+    "expose": [],
+    "moyens": [
+      [
+        1179,
+        2243
+      ]
+    ],
+    "motivations": [
+      [
+        2243,
+        2503
+      ]
+    ],
+    "dispositif": [
+      [
+        2503,
+        2880
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

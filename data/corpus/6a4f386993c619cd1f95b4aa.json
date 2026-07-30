@@ -1,0 +1,48 @@
+{
+  "id": "6a4f386993c619cd1f95b4aa",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.783",
+  "numeros": [
+    "26-10.783"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60885",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : G 26-10.783\n \n \n Demandeur(s)\n : M. [W]\n \n \n Avocat(s)\n : la SCP Alain Bénabent\n \n \n Défendeur(s)\n : la société MMA IARD assurances mutuelles\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n \n \n \n \n Ordonnance\n : 60885\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [N] [W], domicilié [Adresse 1], a formé un pourvoi le 20 janvier 2026 contre l'arrêt rendu le 7 octobre 2025 par la cour d'appel de Chambéry (chambre civile, première section), dans le litige l'opposant à la société MMA IARD assurances mutuelles, société d'assurance mutuelle à cotisations fixes, dont le siège est [Adresse 2],\n [Localité 1].\n \n Par acte déposé au greffe de la Cour de cassation le 18 mai 2026, la SCP Alain Bénabent, agissant au nom de M. [N] [W], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [N] [W] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1118
+      ]
+    ],
+    "dispositif": [
+      [
+        1118,
+        1243
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-07",
+    "title": "Cour d'appel de Chambéry",
+    "jurisdiction": "Cour d'appel de Chambéry",
+    "number": "22/02131"
+  }
+}

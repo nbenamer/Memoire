@@ -1,0 +1,52 @@
+{
+  "id": "6a4f389293c619cd1f95bce8",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.650",
+  "numeros": [
+    "26-10.650"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60868",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : P 26-10.650\n \n \n Demandeur(s)\n : la société Villebenoit hydraulique\n \n \n Avocat(s)\n : Me Haas\n \n \n Défendeur(s)\n : Mme [I] et autre\n \n \n Avocat(s)\n : Me Guermonprez\n \n \n \n \n \n \n Ordonnance\n : 60868\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Villebenoit hydraulique, société par actions simplifiée, dont le siège est [Adresse 1], [Localité 1], a formé un pourvoi le 19 janvier 2026 contre l'arrêt rendu le 3 décembre 2025 par la cour d'appel de Paris (pôle 6, chambre 3), dans le litige l'opposant :\n \n 1°/ à Mme [D] [I], épouse [R], domiciliée [Adresse 2],\n [Localité 2],\n \n 2°/ à M. [V] [O], domicilié [Adresse 3], [Localité 3].\n \n Par acte déposé au greffe de la Cour de cassation le 13 mai 2026, Me Haas, agissant au nom de la société Villebenoit hydraulique, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la société Villebenoit hydraulique de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1183
+      ]
+    ],
+    "dispositif": [
+      [
+        1183,
+        1308
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-03",
+    "title": "Cour d'appel de Paris\nK3",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "K3",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "693145eb83684346b6386698",
+    "sourceId": "jurica:3140777",
+    "number": "22/09152"
+  }
+}

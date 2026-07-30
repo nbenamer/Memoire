@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38f393c619cd1f95d7bd",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-22.565",
+  "numeros": [
+    "25-22.565"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60827",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : U 25-22.565\n \n \n Demandeur(s)\n : Mme [U]\n \n \n Avocat(s)\n : la SCP Le Bret-Desaché\n \n \n Défendeur(s)\n : le syndicat des copropriétaires du [Adresse 1]\n \n \n \n \n \n \n Ordonnance\n : 60827\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [O] [U], épouse [Q], domiciliée [Adresse 2], a formé un pourvoi le 31 décembre 2025 contre l'arrêt rendu le 15 octobre 2025 par la cour d'appel de Versailles (1re chambre civile 1-4 copropriété), dans le litige l'opposant au syndicat des copropriétaires du [Adresse 1], dont le siège est\n [Adresse 1], représenté par son syndic en exercice, la société Gratade, dont le siège est [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 30 avril 2026, la SCP Le Bret-Desaché, agissant au nom de Mme [O] [U], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à Mme [O] [U] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1136
+      ]
+    ],
+    "dispositif": [
+      [
+        1136,
+        1261
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-15",
+    "title": "Cour d'appel de Versailles\nCP",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "CP",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "68f07bf38df3795388ea994a",
+    "sourceId": "jurica:3114564",
+    "number": "23/08055"
+  }
+}

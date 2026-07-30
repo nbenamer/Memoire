@@ -1,0 +1,49 @@
+{
+  "id": "6a4f380993c619cd1f95a10c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "26-60.149",
+  "numeros": [
+    "26-60.149",
+    "26-60.149"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200735",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement",
+  "texte": "CIV. 2 / ELECT\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Désistement\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 735 F-D\n \n Pourvoi n° S 26-60.149 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n M. [Q] [K], domicilié [Adresse 1], a formé le pourvoi n° S 26-60.149 contre le jugement rendu le 10 mars 2026 par le tribunal judiciaire de Nice (contentieux des élections politiques), dans le litige l'opposant à M. [B] [T], domicilié [Adresse 2], défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Salomon, conseillère, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Salomon, conseillère rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n LA COUR, \n \n 1. Par acte déposé au greffe de la Cour de cassation le 6 mai 2026, M. [M], avocat au barreau de Marseille, a déclaré, au nom de M. [K], se désister du pourvoi formé par lui contre un jugement rendu le 10 mars 2026 par le tribunal judiciaire de Nice dans une instance l'opposant à M. [T].\n \n 2. En application de l'article 1026 du code de procédure civile, ce désistement, intervenu après le dépôt du rapport, doit être constaté par arrêt.\n \n PAR CES MOTIFS, la Cour :\n \n DONNE ACTE à M. [K] de son désistement de pourvoi ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1183
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1183,
+        1642
+      ]
+    ],
+    "dispositif": [
+      [
+        1642,
+        2050
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

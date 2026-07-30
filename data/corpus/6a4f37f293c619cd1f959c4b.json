@@ -1,0 +1,54 @@
+{
+  "id": "6a4f37f293c619cd1f959c4b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "26-00.021",
+  "numeros": [
+    "26-00.021",
+    "26-00.021"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200745",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / EXPTS\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 745 F-D\n \n Recours n° K 26-00.021 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n M. [I] [X], domicilié [Adresse 1], a formé le recours n° K 26-00.021 en annulation d'une décision rendue le 14 novembre 2025 par l'assemblée générale des magistrats du siège de la cour d'appel de Bordeaux.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Philippart, conseillère référendaire, et l'avis de Mme de Chanville, avocate générale référendaire, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Philippart, conseillère référendaire rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Faits et procédure \n \n 1. M. [X] a sollicité son inscription sur la liste des experts judiciaires de la cour d'appel de Bordeaux dans les spécialités interprétariat en chinois/ mandarin et traduction en cantonais.\n \n 2. Par une décision du 14 novembre 2025, contre laquelle M. [X] a formé un recours, l'assemblée générale des magistrats du siège de cette cour d'appel a rejeté sa demande au motif qu'il ne justifie pas d'une formation à l'expertise judiciaire. \n \n Examen du grief\n \n Exposé du grief\n \n 3. M. [X] fait valoir qu'il a déposé une demande d'inscription à une formation à l'expertise en 2025 qui n'a pas pu aboutir en raison de l'absence de places disponibles. Il ajoute avoir renouvelé sa demande d'inscription pour l'année 2026 et considère que l'absence temporaire de justificatif de formation ne saurait remettre en cause ses compétences professionnelles ni sa motivation. \n \n Réponse de la Cour \n \n 4. C'est par des motifs exempts d'erreur manifeste d'appréciation que l'assemblée générale a décidé de ne pas inscrire M. [X] sur la liste des experts judiciaires de la cour d'appel.\n \n 5. Le grief ne peut, dès lors, être accueilli.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le recours ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1206
+      ]
+    ],
+    "expose": [],
+    "moyens": [
+      [
+        1206,
+        2099
+      ]
+    ],
+    "motivations": [
+      [
+        2099,
+        2358
+      ]
+    ],
+    "dispositif": [
+      [
+        2358,
+        2735
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

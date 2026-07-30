@@ -1,0 +1,48 @@
+{
+  "id": "6a4f38d993c619cd1f95cc09",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.245",
+  "numeros": [
+    "26-11.245"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60837",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : K 26-11.245\n \n \n Demandeur(s)\n : la société La Poste\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : le syndicat SUD PTT Réunion et autres\n \n \n Avocat(s)\n : la SARL Meier-Bourdeau, Lécuyer et associés\n \n \n \n \n \n \n Ordonnance\n : 60837\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société La Poste, société anonyme, dont le siège est [Adresse 1], a formé un pourvoi le 3 février 2026 contre l'arrêt rendu le 12 décembre 2025 par la cour d'appel de Saint-Denis de La Réunion (chambre civile TGI), dans le litige l'opposant :\n \n 1°/ au syndicat SUD PTT Réunion, dont le siège est [Adresse 2],\n [Adresse 2],\n \n 2°/ au syndicat CFDT, dont le siège est [Adresse 3],\n \n 3°/ à la fédération CGTR PTT confédération générale des travailleurs de \n La Réunion PTT, dont le siège est [Adresse 4],\n \n 4°/ au syndicat FO-COM postes et télécommunications, dont le siège est\n [Adresse 5],\n \n 5°/ à la société UNSA Postes La Réunion, dont le siège est \n [Adresse 6],\n \n 6°/ au syndicat Communication conseil et culture de La Réunion S3C, \n dont le siège est [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 7 mai 2026, la SARL Boré, Salve de Bruneton et Mégret, agissant au nom de la société La Poste, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société La Poste de son désistement. \n \n \n \n \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1640
+      ]
+    ],
+    "dispositif": [
+      [
+        1640,
+        1765
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-12",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "24/00304"
+  }
+}

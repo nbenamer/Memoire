@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd44cdc6046d478a890b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.871",
+  "numeros": [
+    "25-12.871",
+    "25-12.871"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310440",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10440 F\n \n Pourvoi n° H 25-12.871 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n 1°/ M. [F] [C],\n \n 2°/ Mme [I] [A], épouse [C], \n \n tous deux domiciliés [Adresse 1],\n \n ont formé le pourvoi n° H 25-12.871 contre l'arrêt rendu le 21 janvier 2025 par la cour d'appel de Montpellier (5e chambre civile), dans le litige les opposant :\n \n 1°/ à M. [B] [L], domicilié [Adresse 2],\n \n 2°/ à M. [G] [E], domicilié [Adresse 3],\n \n 3°/ à Mme [Q] [L], épouse [K], domiciliée [Adresse 4],\n \n 4°/ à M. [Z] [L], domicilié [Adresse 5], placé sous le régime de l'habilitation familiale générale de représentation par ordonnance du juge des tutelles du tribunal judiciaire de Millau en date du 11 décembre 2018, représenté par son épouse Mme [X] [L], domiciliée [Adresse 5],\n \n défendeurs à la cassation.\n \n MM. [B] et [Z] [L] et Mme [Q] [L] ont formé, par un mémoire déposé au greffe, un pourvoi incident contre le même arrêt.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Davoine, conseillère référendaire, les observations écrites de la SELAS Waquet, Farge, Hazan et Féliers, avocat de M. et Mme [C], de la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, avocat de M. [E], de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de MM. [B] et [Z] [L] et de Mme [Q] [L], après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Davoine, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation du pourvoi principal et celui du pourvoi incident, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ces pourvois qui ne sont manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE les pourvois ;\n \n Condamne M. et Mme [C], MM. [B] et [Z] [L] et Mme [Q] [L] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        2035
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        2035,
+        2468
+      ]
+    ],
+    "dispositif": [
+      [
+        2468,
+        3009
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-01-21",
+    "title": "Cour d'appel de Montpellier\n1D",
+    "jurisdiction": "Cour d'appel de Montpellier",
+    "chamber": "1D",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "67908b3c4143037ceabfc047",
+    "sourceId": "jurica:2974979",
+    "number": "24/00570"
+  }
+}

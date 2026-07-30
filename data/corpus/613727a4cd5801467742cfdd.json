@@ -1,0 +1,38 @@
+{
+  "id": "613727a4cd5801467742cfdd",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": null,
+  "numero_pourvoi": "09-70.327",
+  "numeros": [
+    "09-70.327"
+  ],
+  "ecli": "ECLI:FR:CCASS:2010:C202312",
+  "date_decision": "2010-12-16",
+  "type_decision": "Arrêt",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, a rendu l'arrêt suivant : \n\n\n\n\n\n\n Sur la recevabilité du pourvoi, examinée d'office après avis donné aux parties en application de l'article 1015 du code de procédure civile : \n\n\n Vu les articles 125 et 605 du code de procédure civile ;\n\n\n Attendu, selon le jugement attaqué (tribunal des affaires de sécurité sociale de Marseille, 6 avril 2007) et les pièces de la procédure, que M. X..., estimant n'avoir pas été informé des conséquences de ses choix, a sollicité le 11 décembre 2003 de la caisse régionale d'assurance maladie du Sud-Est (la caisse) l'annulation de la liquidation de ses droits à pension de retraite sous la forme d'un capital, demandant qu'il soit procédé, comme cela lui avait été initialement proposé, à une liquidation plus tardive lui ouvrant droit à une pension versée mensuellement ; que la caisse a opposé un refus ; que M. X... a saisi une juridiction de sécurité sociale qui a confirmé ce refus ; que M. X... a formé un pourvoi en cassation contre cette décision ;\n\n\n Attendu que la demande de M. X... étant indéterminée, le jugement était susceptible d'appel bien que qualifié en dernier ressort ; \n\n\n D'où il suit que le pourvoi n'est pas recevable ;\n\n\n PAR CES MOTIFS :\n\n\n DECLARE IRRECEVABLE le pourvoi ;\n\n\n Condamne M. X... aux dépens ;\n\n\n\n\n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé par le président en son audience publique du seize décembre deux mille dix.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [],
+    "dispositif": [],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "id": null,
+    "date": "2007-04-06",
+    "title": "Tribunal des affaires de sécurité sociale de Marseille",
+    "number": null
+  }
+}

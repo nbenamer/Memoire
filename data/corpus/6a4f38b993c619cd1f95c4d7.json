@@ -1,0 +1,50 @@
+{
+  "id": "6a4f38b993c619cd1f95c4d7",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.336",
+  "numeros": [
+    "26-10.336"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60851",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : X 26-10.336\n \n \n Demandeur(s)\n : M. [W]\n \n \n Avocat(s)\n : la SARL Meier-Bourdeau, Lécuyer et associés\n \n \n Défendeur(s)\n : la banque caisse régionale de Crédit agricole mutuel (CRCAM)\n de [Localité 1] et d'Ile-de-France\n \n \n Avocat(s)\n : la SAS Boucard-Capron-Maman\n \n \n \n \n \n \n Ordonnance\n : 60851\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [E] [W], domicilié [Adresse 1], a formé un pourvoi le 12 janvier 2026 contre l'arrêt rendu\n le 6 novembre 2025 par la cour d'appel de Paris (pôle 4, chambre 9 -A), dans le litige l'opposant à la banque caisse régionale de Crédit agricole mutuel de [Localité 1] et d'Ile-de-France, dont le siège est [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 11 mai 2026, la SARL Meier-Bourdeau, Lécuyer et associés, agissant au nom de M. [E] [W], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [E] [W] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1188
+      ]
+    ],
+    "dispositif": [
+      [
+        1188,
+        1313
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-06",
+    "title": "Cour d'appel de Paris\nG9",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "G9",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "number": "24/13059"
+  }
+}

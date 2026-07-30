@@ -1,0 +1,58 @@
+{
+  "id": "6a4de47693c619cd1f841ed0",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-15.302",
+  "numeros": [
+    "25-15.302",
+    "25-15.302"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO00450",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement",
+  "texte": "COMM.\n \n RM\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Désistement\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 450 F-D\n \n Pourvoi n° Z 25-15.302 \n \n \n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n M. [T] [X], domicilié [Adresse 1], a formé le pourvoi n° Z 25-15.302 contre l'arrêt rendu le 25 mars 2025 par la cour d'appel de Montpellier (chambre commerciale), dans le litige l'opposant :\n \n 1°/ à la société YF odysseum, société à responsabilité limitée, dont le siège est [Adresse 2],\n \n 2°/ à la société YF [X], société à responsabilité limitée, dont le siège est [Adresse 3],\n \n 3°/ à la société YF Blagnac, société par actions simplifiée, dont le siège est [Adresse 4],\n \n 4°/ à M. [V] [K], domicilié [Adresse 5],\n \n 5°/ à la société 2ND life, société par actions simplifiée, dont le siège est [Adresse 4],\n \n défendeurs à la cassation.\n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Ducloz, conseillère, les observations de la SCP Lyon-Caen et Thiriez, avocat de M. [X], après débats en l'audience publique du 16 juin 2026 où étaient présents M. Vigneau, président, Mme Ducloz, conseillère rapporteure, M. Ponsot, conseiller doyen, et M. Doyen, greffier de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Par acte déposé au greffe de la Cour de cassation le 30 juin 2026, la SCP Lyon-Caen et Thiriez avocat à cette Cour, a déclaré au nom de M. [X] se désister du pourvoi formé par lui contre l'arrêt rendu le 25 mars 2025 par la cour d'appel de Montpellier.\n \n 2. Ce désistement est intervenu après le dépôt du rapport ; dès lors, aux termes de l'article 1026 du code de procédure civile, il doit être constaté par arrêt.\n \n PAR CES MOTIFS, la Cour :\n \n DONNE ACTE à M. [X] de son désistement de pourvoi ;\n \n Condamne M. [X] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. [X] ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par le président, la conseillère rapporteure, et Mme Sezer, greffière de chambre, qui a assisté au prononcé de l'arrêt, conformément aux dispositions des articles, 456, et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1643
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1643,
+        2069
+      ]
+    ],
+    "dispositif": [
+      [
+        2069,
+        2848
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-03-25",
+    "title": "Cour d'appel de Montpellier\n02",
+    "jurisdiction": "Cour d'appel de Montpellier",
+    "chamber": "02",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "67e39b68ad3b98c70ce531cd",
+    "sourceId": "jurica:3011307",
+    "number": "24/03009"
+  }
+}

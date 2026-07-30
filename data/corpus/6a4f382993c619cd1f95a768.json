@@ -1,0 +1,52 @@
+{
+  "id": "6a4f382993c619cd1f95a768",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-14.888",
+  "numeros": [
+    "25-14.888"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60913",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Z 25-14.888\n \n \n Demandeur(s)\n : l'Association foncière urbaine libre (AFUL) [Adresse 1] \n et autres\n \n \n Avocat(s)\n : la SELAS Froger & Zajdela\n \n \n Défendeur(s)\n : la société Swisslife assurances de biens \n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n \n \n \n \n Ordonnance\n : 60913\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ l'Association foncière urbaine libre (AFUL) [Adresse 1], domiciliée \n [Adresse 2],\n \n 2°/ M. [M] [O], domicilié [Adresse 3],\n \n 3°/ Mme [R] [D], épouse [O], domiciliée [Adresse 3],\n \n 4°/ M. [P] [W], domicilié [Adresse 4],\n \n 5°/ M. [G] [E], domicilié [Adresse 5],\n \n 6°/ Mme [V] [K], épouse [E], domiciliée \n [Adresse 5],\n \n 7°/ M. [X] [Q], domicilié [Adresse 6], \n pris tant en son nom propre qu'en qualité d'héritier de [F] [A], épouse [Q], \n \n 8°/ Mme [S] [Q], domiciliée [Adresse 6], prise en qualité d'héritière de [F] [A], épouse [Q], \n \n 9°/ M. [L] [Q], domicilié [Adresse 6], pris en qualité d'héritier de [F] [A], épouse [Q], \n \n \n \n \n \n \n 10°/ M. [J] [Z], domicilié [Adresse 7], \n [Localité 1],\n \n 11°/ Mme [U] [H], épouse [Z], domiciliée [Adresse 7],\n \n 12°/ M. [X] [N], domicilié [Adresse 8], \n [Localité 2],\n \n 13°/ Mme [T] [C], épouse [N], domiciliée [Adresse 8],\n \n ont formé un pourvoi le 13 mai 2025 contre l'arrêt rendu le 13 mars 2025 \n par la cour d'appel d'Aix-en-Provence (chambre 1-4), dans le litige les opposant à la société Swisslife assurances de biens, société anonyme, \n dont le siège est [Adresse 9].\n \n Par acte déposé au greffe de la Cour de cassation le 12 septembre 2025, la SELAS Froger & Zajdela, agissant au nom de l'Association foncière urbaine libre (AFUL) [Adresse 1], de M. [M] [O], \n de Mme [R] [D], de M. [P] [W], de M. [G] [E], de Mme [V] [K], de M. [X] [Q], de Mme [S] [Q], de M. [L] [Q], de M. [J] [Z], de Mme [U] [H], de M. [X] [N], de Mme [T] [C], \n a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte aux demandeurs de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2220
+      ]
+    ],
+    "dispositif": [
+      [
+        2220,
+        2345
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-03-13",
+    "title": "Cour d'appel d'Aix en Provence\n3B",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "3B",
+    "solution": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+    "id": "67d3d006810821fa07d6819f",
+    "sourceId": "jurica:3003839",
+    "number": "24/08801"
+  }
+}

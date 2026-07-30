@@ -1,0 +1,58 @@
+{
+  "id": "6a45fda3cdc6046d478a9f9b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "23-22.368",
+  "numeros": [
+    "23-22.368",
+    "23-22.368"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210693",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EO1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. DELBANO, conseiller \n faisant fonction de président\n \n \n \n Arrêt n° 10693 F\n \n Pourvoi n° P 23-22.368 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société GM, société d'exercice libéral à responsabilité limitée, dont le siège est [Adresse 1], représentée par M. [I] [O], agissant en qualité de liquidateur judiciaire de la société [Adresse 2], a formé le pourvoi n° P 23-22.368 contre l'arrêt rendu le 14 septembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-9), dans le litige l'opposant à la société [E] [J], société par actions simplifiée, dont le siège est [Adresse 3], défenderesse à la cassation.\n \n La société [E] [J] a formé un pourvoi incident éventuel contre le même arrêt.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Latreille, conseillère référendaire, les observations écrites de la SCP Claire Leduc et Solange Vigand, avocat de la société GM, représentée par M. [O] agissant en qualité de liquidateur judiciaire de la société [Adresse 2], de la SAS Boucard-Capron-Maman, avocat de la société [E] [J], et l'avis de Mme Trassoudaine-Verger, avocate générale, après débats en l'audience publique du 27 mai 2026 où étaient présents M. Delbano, conseiller faisant fonction de président, Mme Latreille, conseillère référendaire rapporteure, Mme Vendryes, conseillère, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée du président et des conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation du pourvoi principal et le moyen de cassation du pourvoi incident éventuel, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ces pourvois qui ne sont manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE les pourvois ;\n \n Condamne la société GM, représentée par M. [O] agissant en qualité de liquidateur judiciaire de la société [Adresse 2], aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société GM, représentée par M. [O] agissant en qualité de liquidateur judiciaire de la société [Adresse 2], et la condamne à payer à la société [E] [J] la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1851
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1851,
+        2307
+      ]
+    ],
+    "dispositif": [
+      [
+        2307,
+        3097
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-09-14",
+    "title": "Cour d'appel d'Aix en Provence\n5A",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "5A",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6503f441a92e2d05e6a9f652",
+    "sourceId": "jurica:2729764",
+    "number": "20/07202"
+  }
+}

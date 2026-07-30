@@ -1,0 +1,48 @@
+{
+  "id": "6a4f38e793c619cd1f95d136",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.453",
+  "numeros": [
+    "26-11.453"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60832",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n \n Pourvoi n°\n : M 26-11.453\n \n \n Demandeur(s)\n : la société Axa France IARD, ès qualités\n \n \n Avocat(s)\n : la SCP L. Poulet-Odent\n \n \n Défendeur(s)\n : Mme [H] et autres\n \n \n Avocat(s)\n : la SCP Duhamel, \n la SCP Gaschignard, Loiseau et Massignon,\n la SARL Le Prado - Gilbert\n \n \n \n \n \n \n Ordonnance\n : 60832\n \n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Axa France IARD, société anonyme, dont le siège est\n [Adresse 1], ès qualités d'assureur des sociétés VDK Transports et Roullé & fils, a formé un pourvoi le 9 février 2026 contre l'arrêt rendu le 10 décembre 2025 par la cour d'appel de Rouen\n (1re chambre civile), dans le litige l'opposant :\n \n 1°/ à Mme [D] [H],\n \n 2°/ à M. [M] [Q], \n \n tous deux domiciliés [Adresse 2],\n \n 3°/ à Mme [R] [C], domiciliée [Adresse 3],\n \n 4°/ à M. [A] [C], domicilié [Adresse 4],\n \n 5°/ à M. [S] [O],\n \n 6°/ à Mme [G] [O], \n \n tous deux domiciliés [Adresse 3], venant aux droits de [J] [O],\n \n 7°/ à la Caisse Meusienne d'assurances mutuelles (CMAM), dont le siège est [Adresse 5],\n \n \n \n 8°/ à la société Swisslife France, société anonyme, dont le siège est\n [Adresse 6],\n \n 9°/ à M. [Z] [T], domicilié chez M. [Y] [F],\n [Adresse 7],\n \n 10°/ à la société MMA IARD, société anonyme, dont le siège est\n [Adresse 8],\n \n 11°/ à la société MMA IARD assurances mutuelles, société d'assurance mutuelle à cotisations fixes, dont le siège est [Adresse 8],\n [Adresse 8],\n \n 12°/ à la société Allianz IARD, société anonyme, dont le siège est\n [Adresse 9].\n \n Par acte déposé au greffe de la Cour de cassation le 29 avril 2026, la SCP L. Poulet-Odent, agissant au nom de la société Axa France IARD,\n a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société Axa France IARD de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2025
+      ]
+    ],
+    "dispositif": [
+      [
+        2025,
+        2150
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-10",
+    "title": "Cour d'appel de Rouen",
+    "jurisdiction": "Cour d'appel de Rouen",
+    "number": "24/02287"
+  }
+}

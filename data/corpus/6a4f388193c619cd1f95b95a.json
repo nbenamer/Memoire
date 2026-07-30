@@ -1,0 +1,52 @@
+{
+  "id": "6a4f388193c619cd1f95b95a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.659",
+  "numeros": [
+    "26-10.659"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60875",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Y 26-10.659\n \n \n Demandeur(s)\n : la société Altima assurances\n \n \n Avocat(s)\n : la SCP Rocheteau, Uzan-Sarano et Goulet\n \n \n Défendeur(s)\n : la société (O! de la dune et autres\n \n \n \n \n \n \n Ordonnance\n : 60875\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Altima assurances, société anonyme, dont le siège est\n [Adresse 1], a formé un pourvoi le 19 janvier 2026 contre l'arrêt rendu le 18 novembre 2025 par la cour d'appel de Bordeaux \n (4e chambre civile), dans le litige l'opposant :\n \n 1°/ à la société (O! de la dune, société par actions simplifiée, dont le siège est [Adresse 2],\n \n 2°/ à la société Pierre Houe et associés, société anonyme, dont le siège est [Adresse 3],\n \n 3°/ à la société Le petit [Localité 1], société à responsabilité limitée unipersonnelle, dont le siège est [Adresse 4].\n \n Par acte déposé au greffe de la Cour de cassation le 13 mai 2026, la SCP Rocheteau, Uzan-Sarano et Goulet, agissant au nom de la société Altima assurances, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société Altima assurances de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1372
+      ]
+    ],
+    "dispositif": [
+      [
+        1372,
+        1497
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-18",
+    "title": "Cour d'appel de Bordeaux\n02",
+    "jurisdiction": "Cour d'appel de Bordeaux",
+    "chamber": "02",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691d8d4f02bad2f30af5216d",
+    "sourceId": "jurica:3130802",
+    "number": "25/01943"
+  }
+}

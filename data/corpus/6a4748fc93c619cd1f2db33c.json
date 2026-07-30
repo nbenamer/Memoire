@@ -1,0 +1,52 @@
+{
+  "id": "6a4748fc93c619cd1f2db33c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-19.143",
+  "numeros": [
+    "25-19.143"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90616",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n \n \n \n \n Pourvoi n° : Z 25-19.143\n Demandeur : M. [H]\n Défendeur : l'URSSAF de Provence-Alpes-Côte d'Azur\n Requête n° : 223/26\n Ordonnance n° : 90616 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n L'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) de Provence-Alpes-Côte d'Azur, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n ET :\n \n M. [I] [H], ayant la SCP Jean-Philippe Caston pour avocat à la Cour de cassation,\n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Intizar Shaiek, directrice de greffe, lors du prononcé a rendu l'ordonnance suivante :\n \n Vu la requête du 10 mars 2026 par laquelle l'URSSAF de Provence-Alpes-Côte d'Azur demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro Z 25-19.143 formé le 10 septembre 2025 par M. [I] [H] à l'encontre de l'arrêt rendu le 10 juillet 2025 par la cour d'appel de Grenoble ;\n \n Vu les observations présentées au soutien de la requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ; \n \n Le demandeur au pourvoi n'ayant pas comparu ni formulé d'observations, il n'est invoqué aucune diligence manifestant une volonté de déférer à la décision des juges du fond, ni une impossibilité d'exécution ni une situation de nature à faire craindre ou présumer des conséquences manifestement excessives en cas d'exécution.\n \n Dès lors, la requête doit être accueillie.\n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro Z 25-19.143 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1696
+      ]
+    ],
+    "dispositif": [
+      [
+        1696,
+        2190
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-07-10",
+    "title": "Cour d'appel de Grenoble\nTA",
+    "jurisdiction": "Cour d'appel de Grenoble",
+    "chamber": "TA",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6871efb357f38d6b27c27707",
+    "sourceId": "jurica:3076768",
+    "number": "24/00107"
+  }
+}

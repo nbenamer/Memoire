@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd23cdc6046d478a8131",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-13.730",
+  "numeros": [
+    "25-13.730",
+    "25-13.730"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310453",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10453 F\n \n Pourvoi n° R 25-13.730 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société d'aménagement foncier et d'établissement rural Occitanie (SAFER Occitanie), société anonyme, dont le siège est [Adresse 1], venant aux droits de la SAFER Languedoc-Roussillon, a formé le pourvoi n° R 25-13.730 contre l'arrêt rendu le 27 mars 2025 par la cour d'appel de Montpellier (3e chambre civile), dans le litige l'opposant :\n \n 1°/ à Mme [E] [N], veuve [I], domiciliée [Adresse 2],\n \n 2°/ à la société [Adresse 3], société civile d'exploitation agricole, dont le siège est [Adresse 4],\n \n 3°/ à la société Empreintes, société à responsabilité limitée, dont le siège est [Adresse 5],\n \n 4°/ à M. [U] [H], domicilié [Adresse 6],\n \n 5°/ à la société AXA France IARD, société anonyme, dont le siège est [Adresse 7],\n \n 6°/ à la société [Z] [H] et [Y] [V], notaires, société civile professionnelle, anciennement dénommée SCP [C] [R] Ormières-Pech de Laclause, dont le siège est [Adresse 8],\n \n 7°/ à la société MMA IARD assurances mutuelles, société d'assurances mutuelles, dont le siège est [Adresse 9],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Davoine, conseillère référendaire, les observations écrites de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de la société d'aménagement foncier et d'établissement rural Occitanie, de la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, avocat de Mme [N] et des sociétés Domaine la [Adresse 10] et Empreintes, de la SARL Boré, Salve de Bruneton et Mégret, avocat de M. [H] et des sociétés [Z] [H] et [Y] [V] et MMA IARD assurances mutuelles, après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Davoine, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société d'aménagement foncier et d'établissement rural Occitanie aux dépens ;\n \n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société d'aménagement foncier et d'établissement rural Occitanie et la condamne à payer, d'une part, à Mme [N] et aux sociétés [Adresse 3] et Empreintes la somme globale de 3 000 euros, et, d'autre part, à M. [H] et aux sociétés [Z] [H] et [Y] [V] et MMA IARD assurances mutuelles la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        2399
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        2399,
+        2778
+      ]
+    ],
+    "dispositif": [
+      [
+        2778,
+        3663
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-03-27",
+    "title": "Cour d'appel de Montpellier\nA1",
+    "jurisdiction": "Cour d'appel de Montpellier",
+    "chamber": "A1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "67e641ba391a7e1509473b1b",
+    "sourceId": "jurica:3013254",
+    "number": "21/00396"
+  }
+}

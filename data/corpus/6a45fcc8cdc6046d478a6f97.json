@@ -1,0 +1,52 @@
+{
+  "id": "6a45fcc8cdc6046d478a6f97",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-17.969",
+  "numeros": [
+    "25-17.969"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50549",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [P]\n \n \n \n Pourvoi n°\n : Y 25-17.969\n \n \n Demandeur(s)\n : la société Musra \n \n \n Avocat(s)\n : la SCP Duhamel\n \n \n Défendeur(s)\n : [Localité 1] habitat\n \n \n Avocat(s)\n : la SCP Piwnica et Molinié\n \n \n \n \n \n \n Ordonnance\n : 50549\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Musra, société à responsabilité limitée, dont le siège est \n [Adresse 1], a formé un pourvoi le 11 août 2025 contre l'arrêt rendu le 15 mai 2025 par la cour d'appel de Paris (pôle 5, chambre 3), dans le litige l'opposant à Pantin habitat, société coopérative à forme anonyme, dont le siège est [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1046
+      ]
+    ],
+    "dispositif": [
+      [
+        1046,
+        1176
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-05-15",
+    "title": "Cour d'appel de Paris\nI3",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I3",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6826cb6ebca4d9b73662db86",
+    "sourceId": "jurica:3039493",
+    "number": "22/00257"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "6a45fcfbcdc6046d478a7912",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-12.103",
+  "numeros": [
+    "24-12.103",
+    "24-12.103"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310464",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10464 F\n \n Pourvoi n° B 24-12.103 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n L'établissement public national à caractère industriel ou commercial Grand Port maritime de [Etablissement 1], dont le siège est [Adresse 1], a formé le pourvoi n° B 24-12.103 contre l'arrêt rendu le 24 novembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-1), dans le litige l'opposant à la société Kem One, société par actions simplifiée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Brillet, conseiller, les observations écrites de la SCP Piwnica et Molinié, avocat de l'établissement public national à caractère industriel ou commercial Grand Port maritime de Marseille, de Me Laurent Goldman, avocat de la société Kem One, après débats en l'audience publique du 19 mai 2026 où étaient présents Mme Teiller, présidente, M. Brillet, conseiller rapporteur, M. Boyer, conseiller doyen, et Mme Letourneur, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne l'établissement public national à caractère industriel ou commercial [Localité 1] [Localité 2] maritime de [Localité 3] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1539
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1539,
+        1918
+      ]
+    ],
+    "dispositif": [
+      [
+        1918,
+        2528
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-24",
+    "title": "Cour d'appel d'Aix en Provence\n1A",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "1A",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "65619d24f64b618318aec620",
+    "sourceId": "jurica:2767703",
+    "number": "22/05612"
+  }
+}

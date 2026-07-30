@@ -1,0 +1,48 @@
+{
+  "id": "6a4748ef93c619cd1f2db288",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-18.679",
+  "numeros": [
+    "25-18.679"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90630",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORejRad\n \n \n Pourvoi n° : V 25-18.679\n Demandeur : M. [T]\n Défendeur : Mme [G] et autre\n Requête n° : 180/26\n Ordonnance n° : 90630 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n Mme [P] [G], ayant la SCP Rocheteau, Uzan-Sarano et Goulet pour avocat à la Cour de cassation,\n \n M. [L] [E], ayant la SCP Rocheteau, Uzan-Sarano et Goulet pour avocat à la Cour de cassation,\n \n \n \n ET :\n \n M. [D] [T], ayant la SCP Gadiou et Chevallier pour avocat à la Cour de cassation,\n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Intizar Shaiek, directrice de greffe lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 26 février 2026 par laquelle Mme [P] [G] et M. [L] [E] demandent, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi formé le 27 août 2025 par M. [D] [T] à l'encontre de l'arrêt rendu le 13 février 2024 par la cour d'appel de Poitiers, dans l'instance enregistrée sous le numéro V 25-18.679 ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n M. [T] ayant exécuté l'obligation de faire mise à sa charge par l'arrêt attaqué, la requête en radiation est fondée sur l'inexécution de sa condamnation au paiement d'une part d'une provision indemnitaire de 1 500 euros et d'autre part de l'indemnité procédurale. \n \n Il résulte de l'examen des pièces produites au soutien des observations que la provision indemnitaire a été réglée notamment par compensation avec les sommes que les demandeurs à la radiation doivent à M. [T] en exécution d'un jugement du 17 décembre 2025 rendu par le juge de l'exécution du tribunal judiciaire de Paris. \n \n Dans ces circonstances, même si la condamnation au paiement d'une indemnité sur le fondement de l'article 700 du code de procédure civile est également exécutoire, il n'y a pas lieu de faire droit à la requête en radiation, afin de ne pas porter atteinte à la substance même du droit au recours en cassation. \n \n EN CONSÉQUENCE :\n \n La requête en radiation est rejetée.\n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe lors du prononcé, pour la greffière empêchée\n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2270
+      ]
+    ],
+    "dispositif": [
+      [
+        2270,
+        2519
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-02-13",
+    "title": "Cour d'appel de Poitiers",
+    "jurisdiction": "Cour d'appel de Poitiers",
+    "number": "23/00446"
+  }
+}

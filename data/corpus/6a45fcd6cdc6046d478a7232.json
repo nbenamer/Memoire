@@ -1,0 +1,48 @@
+{
+  "id": "6a45fcd6cdc6046d478a7232",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-20.308",
+  "numeros": [
+    "25-20.308"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50543",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [N]\n \n \n \n Pourvoi n°\n : R 25-20.308\n \n \n Demandeur(s)\n : la société Tangram architecture et autre\n \n \n Avocat(s)\n : la SAS Boulloche, Colin, Stoclet et associés\n \n \n Défendeur(s)\n : la SCI Verone et autres\n \n \n Avocat(s)\n : la SARL [P]\n \n \n \n \n \n \n Ordonnance\n : 50543\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, assisté de Mme Sylvie Dottori, greffière, a rendu la présente ordonnance.\n \n 1°/ la société Tangram architecture, société à responsabilité limitée, \n dont le siège est [Adresse 1],\n \n 2°/ la Mutuelle des architectes français (MAF), société d'assurance à forme mutuelle, dont le siège est [Adresse 2],\n \n ont formé un pourvoi le 17 octobre 2025 contre l'arrêt rendu le 30 juin 2025 par la cour d'appel de Saint-Denis de La Réunion (chambre civile TGI), \n dans le litige les opposant :\n \n 1°/ à la SCI Verone, société civile immobilière, dont le siège est [Adresse 3],\n \n 2°/ à M. [G] [Z], domicilié [Adresse 4],\n \n 3°/ à M. [O] [B], domicilié [Adresse 5],\n \n 4°/ à M. [T] [K], domicilié [Adresse 6],\n \n 5°/ à la société Mon Ange, société civile immobilière de construction vente, \n dont le siège est [Adresse 7],\n \n 6°/ à la société Albatross Asset management, société civile immobilière, \n dont le siège est [Adresse 8].\n \n \n \n \n \n Par acte déposé au greffe de la Cour de cassation le 18 février 2026, \n la SARL [J] [P], agissant pour la SCI Verone, défenderesse \n au pourvoi, a conclu au constat de la déchéance et à la condamnation \n des demanderesses à lui verser une somme de 1 500 euros en application\n de l'article 700 du code de procédure civile, avec toutes conséquences de droit. \n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision \n attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer les demanderesses déchues de leur pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Rejette la demande formée en application de l'article 700 du code de procédure civile.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2031
+      ]
+    ],
+    "dispositif": [
+      [
+        2031,
+        2251
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-06-30",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "22/01811"
+  }
+}

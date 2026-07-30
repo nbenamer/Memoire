@@ -1,0 +1,60 @@
+{
+  "id": "67e4f451482b9311fa9a3eb2",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "23-21.685",
+  "numeros": [
+    "23-21.685"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:C200295",
+  "date_decision": "2025-03-27",
+  "type_decision": "Arrêt",
+  "sens_solution": "Autre",
+  "solution_libelle": "Interruption d'instance (avec reprise) par arrêt",
+  "texte": "CIV. 2\n \n LM\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Audience publique du 27 mars 2025\n \n \n \n \n Interruption d'instance\n \n \n Mme MARTINEL, président\n \n \n \n Arrêt n° 295 F-B\n \n Pourvoi n° W 23-21.685 \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 27 MARS 2025\n \n \n M. [R] [X], domicilié [Adresse 1], a formé le pourvoi n° W 23-21.685 contre l'ordonnance n° RG : 21/00751 rendue le 12 octobre 2021 par le premier président de la cour d'appel de Bourges, dans le litige l'opposant :\n \n 1°/ à [V] [D], ayant été domicilié [Adresse 3], décédé le [Date décès 2] 2023,\n \n 2°/ aux héritiers de [V] [D], domiciliés [Adresse 3], pris collectivement conformément à l'article 533 du code de procédure civile,\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Bohnert, conseiller référendaire, les observations de la SARL Le Prado - Gilbert, avocat de M. [K], de la SARL Cabinet François Pinet, avocat de [V] [D], et l'avis de Mme Trassoudaine-Verger, avocat général, après débats en l'audience publique du 12 février 2025 où étaient présentes Mme Martinel, président, Mme Bohnert, conseiller référendaire rapporteur, Mme Durin-Karsenty, conseiller doyen, et Mme Cathala, greffier de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. M. [K] s'est pourvu en cassation le 11 octobre 2023 contre une ordonnance rendue le 12 octobre 2021 par le premier président de la cour d'appel de Bourges dans une instance l'opposant à [V] [D].\n \n 2. [V] [D] est décédé le [Date décès 2] 2023 et son décès a été notifié à M. [K]. Or la notification du décès du défendeur par l'avocat au Conseil d'État et à la Cour de cassation constitué emporte interruption de l'instance.\n \n 3. En application des articles 370 et 376 du code de procédure civile, l'instance est dès lors interrompue et il y a lieu d'impartir aux parties un délai pour effectuer les diligences nécessaires à la reprise de l'instance.\n \n PAR CES MOTIFS, la Cour :\n \n CONSTATE l'interruption de l'instance ;\n \n Impartit aux parties un délai de quatre mois à compter de ce jour pour effectuer les diligences nécessaires à la reprise de l'instance et dit qu'à défaut de leur accomplissement dans ce délai, la radiation de l'affaire sera prononcée ;\n \n Dit que l'affaire sera à nouveau examinée à l'audience du 17 septembre 2025 ;\n \n Réserve les dépens ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé par le président en son audience publique du vingt-sept mars deux mille vingt-cinq.",
+  "sommaire": "La notification du décès du défendeur par l'avocat au Conseil d'Etat et à la Cour de cassation constitué emporte interruption de l'instance",
+  "themes": [
+    "cassation",
+    "instance",
+    "interruption",
+    "causes",
+    "décès d'une partie",
+    "notification par l'avocat au conseil d'etat et à la cour de cassation"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1585
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1585,
+        2245
+      ]
+    ],
+    "dispositif": [
+      [
+        2245,
+        2827
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2021-10-12",
+    "title": "Cour d'appel de Bourges",
+    "jurisdiction": "Cour d'appel de Bourges",
+    "number": "21/00751"
+  }
+}

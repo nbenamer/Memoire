@@ -1,0 +1,48 @@
+{
+  "id": "6a4f384993c619cd1f95ae28",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-14.160",
+  "numeros": [
+    "26-14.160"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60899",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : D 26-14.160\n \n \n Demandeur(s)\n : la société XPO distribution Europe France\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n Défendeur(s)\n : M. [R]\n \n \n \n \n \n \n Ordonnance\n : 60899\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société XPO distribution Europe France, société par actions simplifiée, dont le siège est [Adresse 1], a formé un pourvoi\n le 10 avril 2026 contre l'arrêt rendu le 10 février 2026 par la cour d'appel d'Amiens (5e chambre prud'homale), dans le litige l'opposant à M. [C] [R], domicilié [Adresse 2] (Royaume-Uni).\n \n Par acte déposé au greffe de la Cour de cassation le 22 mai 2026, la SARL Le Prado - Gilbert, agissant au nom de la société XPO distribution Europe France, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société XPO distribution Europe France de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1115
+      ]
+    ],
+    "dispositif": [
+      [
+        1115,
+        1240
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-02-10",
+    "title": "Cour d'appel d'Amiens",
+    "jurisdiction": "Cour d'appel d'Amiens",
+    "number": "23/01464"
+  }
+}

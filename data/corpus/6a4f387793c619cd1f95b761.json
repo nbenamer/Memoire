@@ -1,0 +1,52 @@
+{
+  "id": "6a4f387793c619cd1f95b761",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": "Formation restreinte",
+  "numero_pourvoi": "26-10.712",
+  "numeros": [
+    "26-10.712"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60879",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : F 26-10.712\n \n \n Demandeur(s)\n : Mme [Q]\n \n \n Avocat(s)\n : la SCP Bauer-Violas, Feschotte-Desbois et Sebagh\n \n \n Défendeur(s)\n : M. [G] et autre\n \n \n Avocat(s)\n : la SAS Buk Lament-Robillot\n \n \n \n \n \n \n Ordonnance\n : 60879\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [Y] [Q], domiciliée [Adresse 1],\n [Localité 1], a formé un pourvoi le 19 janvier 2026 contre l'arrêt\n rendu le 20 novembre 2025 par la cour d'appel de Douai (chambre 8,\n section 4), dans le litige l'opposant :\n \n 1°/ à M. [W] [G],\n \n 2°/ à Mme [F] [G], \n \n tous deux domiciliés [Adresse 2],\n [Localité 2].\n \n Par acte déposé au greffe de la Cour de cassation le 15 mai 2026, la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, agissant au nom de Mme [Y] [Q], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à Mme [Y] [Q] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1114
+      ]
+    ],
+    "dispositif": [
+      [
+        1114,
+        1239
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-20",
+    "title": "Cour d'appel de Douai\n84",
+    "jurisdiction": "Cour d'appel de Douai",
+    "chamber": "84",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6926d36b77bf00d0f5ed760d",
+    "sourceId": "jurica:3135199",
+    "number": "24/04181"
+  }
+}

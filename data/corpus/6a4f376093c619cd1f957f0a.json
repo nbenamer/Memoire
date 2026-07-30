@@ -1,0 +1,58 @@
+{
+  "id": "6a4f376093c619cd1f957f0a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "26-60.152",
+  "numeros": [
+    "26-60.152",
+    "26-60.152"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210722",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / ELECT\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Irrecevabilité non spécialement motivée\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 10722 F\n \n Pourvoi n° V 26-60.152 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n Mme [W] [Z], domiciliée [Adresse 1], a formé le pourvoi n° V 26-60.152 contre le jugement rendu le 30 mars 2026 par le tribunal judiciaire de Montbéliard (contentieux des élections politiques),\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Salomon, conseillère, et l'avis de M. Brun, avocat général, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Salomon, conseillère rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Vu l'article R. 19-2 du code électoral : \n \n Conformément à l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur le pourvoi qui n'est pas recevable en application des textes susvisés.\n \n PAR CES MOTIFS, la Cour : \n \n DÉCLARE IRRECEVABLE le pourvoi ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article R. <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=19-2+code+electoral&page=1&init=true\" target=\"_blank\">19-2</a> du code electoral."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1169
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1169,
+        1434
+      ]
+    ],
+    "dispositif": [
+      [
+        1434,
+        1824
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-03-30",
+    "title": "Tribunal judiciaire de Montbéliard",
+    "jurisdiction": "Tribunal judiciaire de Montbéliard",
+    "number": "26/00259"
+  }
+}

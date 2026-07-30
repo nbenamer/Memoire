@@ -1,0 +1,48 @@
+{
+  "id": "6a4f38bd93c619cd1f95c5dd",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.054",
+  "numeros": [
+    "26-11.054"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60849",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : C 26-11.054\n \n \n Demandeur(s)\n : la société La Poste\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : M. [Z] et autre\n \n \n Avocat(s)\n : Me Balat\n \n \n \n \n \n \n Ordonnance\n : 60849\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société La Poste, société anonyme, dont le siège est [Adresse 1], a formé un pourvoi le 28 janvier 2026 contre l'arrêt rendu le 2 décembre 2025 par la cour d'appel de Nîmes (5e chambre sociale PH), dans le litige l'opposant :\n \n 1°/ à M. [Y] [Z], domicilié [Adresse 2],\n \n 2°/ à France travail, agence [Localité 1], dont le siège est [Adresse 3], anciennement Pôle emploi.\n \n Par acte déposé au greffe de la Cour de cassation le 7 mai 2026, la SARL Boré, Salve de Bruneton et Mégret, agissant au nom de la société La Poste, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société La Poste de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1175
+      ]
+    ],
+    "dispositif": [
+      [
+        1175,
+        1300
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-02",
+    "title": "Cour d'appel de Nîmes",
+    "jurisdiction": "Cour d'appel de Nîmes",
+    "number": "24/01892"
+  }
+}

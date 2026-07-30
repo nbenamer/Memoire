@@ -1,0 +1,52 @@
+{
+  "id": "6a4f387993c619cd1f95b7de",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.682",
+  "numeros": [
+    "26-10.682"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60878",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Y 26-10.682\n \n \n Demandeur(s)\n : l'association [Etablissement 1]\n [Etablissement 1] ([Etablissement 1])\n \n \n Avocat(s)\n : la SCP Gatineau, Fattaccini et Rebeyrol\n \n \n Défendeur(s)\n : Mme [H] et autre\n \n \n Avocat(s)\n : la SARL Thouvenin, Coudray et Grévy\n \n \n \n \n \n \n Ordonnance\n : 60878\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n L'association [Etablissement 1] ([Etablissement 1]), domiciliée [Adresse 1], a formé un pourvoi le 19 janvier 2026 contre l'arrêt rendu le 20 novembre 2025 par la cour d'appel de Bordeaux (chambre sociale, section B), dans le litige l'opposant :\n \n 1°/ à Mme [L] [H], domiciliée [Adresse 2],\n \n 2°/ à la caisse primaire d'assurance maladie (CPAM) de Gironde, dont le siège est [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 11 mai 2026, la SCP Gatineau, Fattaccini et Rebeyrol, agissant au nom de l'association [Etablissement 1] ([Etablissement 1]), a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à l'association [Etablissement 1] ([Etablissement 1]) de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1328
+      ]
+    ],
+    "dispositif": [
+      [
+        1328,
+        1453
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-20",
+    "title": "Cour d'appel de Bordeaux\n4B",
+    "jurisdiction": "Cour d'appel de Bordeaux",
+    "chamber": "4B",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6920805ac302c2b237abad8a",
+    "sourceId": "jurica:3132671",
+    "number": "23/05471"
+  }
+}

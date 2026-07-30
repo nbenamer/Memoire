@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd1bcdc6046d478a7fac",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-18.481",
+  "numeros": [
+    "24-18.481",
+    "24-18.481"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310456",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10456 F\n \n Pourvoi n° J 24-18.481 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n Le syndicat des copropriétaires de l'immeuble [Adresse 1], représenté par son syndic en exercice la société MR immobilier, dont le siège est [Adresse 2], a formé le pourvoi n° J 24-18.481 contre l'arrêt rendu le 14 décembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-7), dans le litige l'opposant :\n \n 1°/ à Mme [L] [V], veuve [C],\n \n 2°/ à Mme [G] [C], \n \n toutes deux domiciliées [Adresse 3],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Pons, conseiller référendaire, les observations écrites de la SCP Duhamel, avocat du syndicat des copropriétaires de l'immeuble [Adresse 4], après débats en l'audience publique du 12 mai 2026 où étaient présents Mme Teiller, présidente, M. Pons, conseiller référendaire rapporteur, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne le syndicat des copropriétaires de l'immeuble [Adresse 4] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par le syndicat des copropriétaires de l'immeuble [Adresse 4] ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1481
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1481,
+        1854
+      ]
+    ],
+    "dispositif": [
+      [
+        1854,
+        2469
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-12-14",
+    "title": "Cour d'appel d'Aix en Provence\nA1",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "A1",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "657bfbcb2ca93b05f20eca2b",
+    "sourceId": "jurica:2778450",
+    "number": "20/08690"
+  }
+}

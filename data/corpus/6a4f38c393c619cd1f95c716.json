@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38c393c619cd1f95c716",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-13.653",
+  "numeros": [
+    "26-13.653"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60847",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : C 26-13.653\n \n \n Demandeur(s)\n : la chambre de commerce et d'industrie métropolitaine Bretagne\n Ouest (CCIMBO)\n \n \n Avocat(s)\n : la SCP L. Poulet-Odent\n \n \n Défendeur(s)\n : Mme [H] et autres\n \n \n Avocat(s)\n : la SCP Célice, Texidor, Périer, la SCP Le Bret-Desaché\n \n \n \n \n \n \n Ordonnance\n : 60847\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La chambre de commerce et d'industrie métropolitaine Bretagne Ouest dont le siège est [Adresse 1], a formé un pourvoi le 27 mars 2026 contre l'arrêt rendu le 28 janvier 2026 par la cour d'appel de Rennes (9e chambre sécurité sociale), dans le litige l'opposant :\n \n 1°/ à Mme [Y] [H], épouse [I], domiciliée [Adresse 2], prise tant en son nom propre qu'en qualité de représentante légale de sa fille mineure [N] [I],\n \n 2°/ à Mme [C] [I], domiciliée [Adresse 3], prise tant en son nom propre qu'en qualité de représentante légale de son fils mineur [P] [I],\n \n 3°/ à Mme [K] [I], domiciliée [Adresse 4],\n [Localité 1], prise tant en son nom propre qu'en qualité de représentante légale de ses enfants mineurs, [V] [E], [R] [E], [T] [E], [L] [E] et [W] [E],\n \n 4°/ à Mme [D] [I], domiciliée [Adresse 5],\n [Localité 1], prise tant en son nom propre qu'n en qualité de représentante légale de son fils mineur [Q] [F],\n \n 5°/ à Mme [M] [I], domiciliée [Adresse 6],\n [Localité 2], prise tant en son nom propre qu'en qualité de représentante légale de son fils mineur [A] [U],\n \n 6°/ à la caisse primaire d'assurance maladie (CPAM) du Finistère, dont le siège est [Adresse 7],\n \n 7°/ à la société Adecco France, société par actions simplifiée unipersonnelle, dont le siège est [Adresse 8].\n \n Par acte déposé au greffe de la Cour de cassation le 5 mai 2026, la SCP L. Poulet-Odent, agissant au nom de la chambre de commerce et d'industrie métropolitaine Bretagne Ouest, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la chambre de commerce et d'industrie métropolitaine Bretagne Ouest de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2246
+      ]
+    ],
+    "dispositif": [
+      [
+        2246,
+        2371
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-01-28",
+    "title": "Cour d'appel de Rennes\nSS",
+    "jurisdiction": "Cour d'appel de Rennes",
+    "chamber": "SS",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6981a1becdc6046d47b77dd6",
+    "sourceId": "jurica:3170929",
+    "number": "22/07089"
+  }
+}

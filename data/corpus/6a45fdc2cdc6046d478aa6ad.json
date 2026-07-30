@@ -1,0 +1,56 @@
+{
+  "id": "6a45fdc2cdc6046d478aa6ad",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-18.079",
+  "numeros": [
+    "24-18.079",
+    "24-21.648",
+    "24-18.079",
+    "24-21.648"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210684",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EO1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10684 F\n \n \n Pourvois n°\n X 24-18.079\n B 24-21.648 JONCTION\n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société Eos France, société par actions simplifiée unipersonnelle, dont le siège est [Adresse 1], agissant en qualité de représentant-recouvreur du fonds commun de titrisation Fedinvest représenté par la société France titrisation, venant aux droits de la caisse régionale de Crédit agricole mutuel de la Réunion, a formé les pourvois n° X 24-18.079 et B 24-21.648 contre l'arrêt rendu le 24 mai 2024 par la cour d'appel de Saint-Denis de La Réunion (chambre civile TGI), dans le litige l'opposant :\n \n 1°/ à M. [U] [F], domicilié [Adresse 2],\n \n 2°/ à M. [L] [K], domicilié [Adresse 3] [Localité 1],\n \n 3°/ à M. [W] [V], domicilié [Adresse 4] [Localité 2],\n \n 4°/ à la caisse régionale de Crédit agricole mutuel de La Réunion et de Mayotte, société coopérative de crédit, dont le siège est [Adresse 5],\n \n défendeurs à la cassation.\n \n Les dossiers ont été communiqués au procureur général.\n \n Sur le rapport de Mme Hulak, conseillère référendaire, les observations écrites de la SCP Le Guerer, Bouniol-Brochier, Lassalle-Byhet, avocat de la société Eos France, de la SCP Alain Bénabent, avocat de M. [F], de la SCP Gadiou et Chevallier, avocat de M. [K], et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Hulak, conseillère référendaire rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. En raison de leur connexité, les pourvois n° X 24-18.079 et B 24-21.648 sont joints.\n \n 2. Il est donné acte à la société Eos France du désistement de son pourvoi en ce qu'il est dirigé contre M. [V].\n \n 3. Le moyen de cassation du pourvoi n° X 24-18.079 et celui du pourvoi n° B 24-21.648, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 4. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ces pourvois qui ne sont manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE les pourvois ;\n \n Condamne la société Eos France aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Eos France et la condamne à payer à M. [F] la somme de 1 500 euros et à M. [K] la somme de 1 500 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        2146
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        2146,
+        2795
+      ]
+    ],
+    "dispositif": [
+      [
+        2795,
+        3431
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-05-24",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "22/00627"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "6a4748a793c619cd1f2dacd5",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "23-23.862",
+  "numeros": [
+    "23-23.862",
+    "23-23.862"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210652",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EC3\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme RENAULT-MALIGNAC, conseillère doyenne faisant fonction de présidente\n \n \n \n Arrêt n° 10652 F\n \n Pourvoi n° N 23-23.862 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La caisse primaire centrale d'assurance maladie (CPCAM) des Bouches-du-Rhône, dont le siège est [Adresse 1] [Adresse 2], a formé le pourvoi n° N 23-23.862 contre l'arrêt rendu le 9 novembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 4-8), dans le litige l'opposant à M. [P] [C], domicilié [Adresse 3], défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Lapasset, conseillère, les observations écrites de la SCP Boutet et Hourdeaux, avocat de la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône, de la SAS Boulloche, Colin, Stoclet et Associés, avocat de M. [C], après débats en l'audience publique du 20 mai 2026 où étaient présents Mme Renault-Malignac, conseillère doyenne faisant fonction de présidente, Mme Lapasset, conseillère rapporteure, M. Leblanc, conseiller, et Mme Sara, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la caisse primaire centrale d'assurance maladie des Bouches-du-Rhône et la condamne à payer à M. [C] la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1542
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1542,
+        1915
+      ]
+    ],
+    "dispositif": [
+      [
+        1915,
+        2607
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-09",
+    "title": "Cour d'appel d'Aix en Provence\n14",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "14",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "65531cdef2bdbd8318d80813",
+    "sourceId": "jurica:2760320",
+    "number": "22/08350"
+  }
+}

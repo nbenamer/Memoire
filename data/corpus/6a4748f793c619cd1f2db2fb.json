@@ -1,0 +1,48 @@
+{
+  "id": "6a4748f793c619cd1f2db2fb",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-19.494",
+  "numeros": [
+    "25-19.494"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90627",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORejRad\n \n \n Pourvoi n° : F 25-19.494\n Demandeurs : la société Eco restauration et autres\n Défendeurs : la société Groupama Antilles-Guyane organisme mutualiste et autres\n Requête n° : 183/26\n Ordonnance n° : 90627 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n la société Groupama Antilles-Guyane organisme mutualiste, ayant la SCP Duhamel pour avocat à la Cour de cassation,\n \n ET :\n \n la société Eco restauration, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n la société Montravers Yang Ting, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n la société Ajassociés, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n \n Dans l'instance concernant en outre :\n \n la société Chubb European Group SE, ayant la SCP L. Poulet-Odent pour avocat à la Cour de cassation,\n \n la commune de [Localité 1], agissant par son maire, ayant la SARL Cabinet Rousseau et Tapie pour avocat à la Cour de cassation,\n \n la caisse des écoles de la commune de [Localité 1], ayant la SARL Cabinet Rousseau et Tapie pour avocat à la Cour de cassation,\n \n \n \n Mme Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Mme Sylvie Aubagna, greffière lors des débats du 28 Mai 2026, et de Mme Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 26 février 2026 par laquelle la société Groupama Antilles-Guyane organisme mutualiste demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi formé le 23 septembre 2025 par la société Eco restauration, la société Montravers Yang Ting et la société Ajassociés à l'encontre de l'arrêt rendu le 24 juin 2025 par la cour d'appel de Fort-de-France, dans l'instance enregistrée sous le numéro F 25-19.494 ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations présentées en défense à la requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ;\n \n Il est justifié qu'un pourvoi connexe, formé par la société Chubb European Group SE, contre le même arrêt est actuellement pendant devant la Cour sous le n° D 25-19.331.\n \n L'intérêt d'une bonne administration de la justice, qui commande l'examen simultané des deux pourvois, fait obstacle à la mesure de radiation.\n \n Dès lors, il n'y a pas lieu de radier l'affaire du rôle de la Cour.\n \n EN CONSÉQUENCE :\n \n La requête en radiation est rejetée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2566
+      ]
+    ],
+    "dispositif": [
+      [
+        2566,
+        2819
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-06-24",
+    "title": "Cour d'appel de Fort de France",
+    "jurisdiction": "Cour d'appel de Fort de France",
+    "number": "24/00040"
+  }
+}

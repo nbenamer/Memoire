@@ -1,0 +1,52 @@
+{
+  "id": "6a4f383293c619cd1f95a942",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-12.027",
+  "numeros": [
+    "25-12.027"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60909",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Q 25-12.027\n \n \n Demandeur(s)\n : Mme [M]\n \n \n Avocat(s)\n : Me Haas\n \n \n Défendeur(s)\n : l'association SOLIHA Pas-de-Calais\n \n \n Avocat(s)\n : la SCP Gatineau, Fattaccini et Rebeyrol\n \n \n \n \n \n \n Ordonnance\n : 60909\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [I] [M], domiciliée [Adresse 1], \n [Localité 1], a formé un pourvoi le 20 février 2025 contre \n l'arrêt rendu le 20 décembre 2024 par la cour d'appel de Douai (chambre sociale), dans le litige l'opposant à l'association SOLIHA Pas-de-Calais, \n domiciliée [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 18 juin 2025, Me Haas, agissant au nom de Mme [I] [M], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à Mme [I] [M] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1026
+      ]
+    ],
+    "dispositif": [
+      [
+        1026,
+        1151
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-20",
+    "title": "Cour d'appel de Douai\nE4",
+    "jurisdiction": "Cour d'appel de Douai",
+    "chamber": "E4",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "679874545b6b52f3e4a431e7",
+    "sourceId": "jurica:2978863",
+    "number": "23/01273"
+  }
+}

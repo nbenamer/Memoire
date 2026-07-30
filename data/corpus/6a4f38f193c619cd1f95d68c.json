@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38f193c619cd1f95d68c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.424",
+  "numeros": [
+    "26-10.424"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60828",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : T 26-10.424\n \n \n Demandeur(s)\n : M. [X]\n \n \n Avocat(s)\n : la SCP Lyon-Caen et Thiriez\n \n \n Défendeur(s)\n : la société Formavar\n \n \n Avocat(s)\n : la SCP Gaschignard, Loiseau et Massignon\n \n \n \n \n \n \n Ordonnance\n : 60828\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [R] [X], domicilié [Adresse 1], a formé un pourvoi le 14 janvier 2026 contre l'arrêt rendu\n le 14 novembre 2025 par la cour d'appel d'Aix-en-Provence (chambre 4-6), dans le litige l'opposant à la société Formavar, société à responsabilité limitée, dont le siège est [Adresse 2],\n [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 30 avril 2026, la SCP Lyon-Caen et Thiriez, agissant au nom de M. [R] [X], \n a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [R] [X] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1077
+      ]
+    ],
+    "dispositif": [
+      [
+        1077,
+        1202
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-14",
+    "title": "Cour d'appel d'Aix en Provence\n18",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "18",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691ae4005222181ceeb6fc98",
+    "sourceId": "jurica:3129430",
+    "number": "21/15174"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6a45fc86cdc6046d478a645a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.282",
+  "numeros": [
+    "26-11.282"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50573",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [R]\n \n \n \n Pourvoi n°\n : A 26-11.282\n \n \n Demandeur(s)\n : la société Lexeurop\n \n \n Avocat(s)\n : Me Carbonnier\n \n \n Défendeur(s)\n : M. [S] et autres\n \n \n Avocat(s)\n : la SCP Sevaux et Mathonnet\n \n \n \n \n \n \n Ordonnance\n : 50573\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Lexeurop, société d'exercice libéral à responsabilité limitée, \n dont le siège est [Adresse 1], \n société d'avocats inscrite au barreau de Mulhouse, représentée par \n Me [D] [Y], a formé un pourvoi le 4 février 2026 contre l'ordonnance rendue le 4 décembre 2025 par la première présidente de la cour d'appel \n de [Localité 1] (contestation d'honoraires d'avocat), dans le litige l'opposant :\n \n 1°/ à M. [A] [S], domicilié [Adresse 2],\n \n 2°/ à M. [H] [W],\n \n 3°/ à Mme [I] [W], \n \n tous deux domiciliés [Adresse 3].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1254
+      ]
+    ],
+    "dispositif": [
+      [
+        1254,
+        1384
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-04",
+    "title": "Cour d'appel de Colmar",
+    "jurisdiction": "Cour d'appel de Colmar",
+    "number": "25/02614"
+  }
+}

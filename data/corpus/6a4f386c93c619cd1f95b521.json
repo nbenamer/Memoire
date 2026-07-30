@@ -1,0 +1,48 @@
+{
+  "id": "6a4f386c93c619cd1f95b521",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.779",
+  "numeros": [
+    "26-10.779"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60884",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : D 26-10.779\n \n \n Demandeur(s)\n : la société Securail\n \n \n Avocat(s)\n : la SCP Gatineau, Fattaccini et Rebeyrol\n \n \n Défendeur(s)\n : M. [A]\n \n \n \n \n \n \n Ordonnance\n : 60884\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Securail, société par actions simplifiée, dont le siège est\n [Adresse 1], a formé un pourvoi le 20 janvier 2026 contre l'arrêt rendu le 4 décembre 2025 par la cour d'appel de Dijon\n (chambre sociale), dans le litige l'opposant à M. [P] [A], domicilié\n [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 19 mai 2026, la SCP Gatineau, Fattaccini et Rebeyrol, agissant au nom de la société Securail, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société Securail de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1036
+      ]
+    ],
+    "dispositif": [
+      [
+        1036,
+        1161
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-04",
+    "title": "Cour d'appel de Dijon",
+    "jurisdiction": "Cour d'appel de Dijon",
+    "number": "24/00033"
+  }
+}

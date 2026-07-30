@@ -1,0 +1,58 @@
+{
+  "id": "6a4de4c293c619cd1f84296b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-14.135",
+  "numeros": [
+    "25-14.135",
+    "25-14.135"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO00367",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement",
+  "texte": "COMM.\n \n HM\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Désistement\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 367 F-D\n \n Pourvoi n° F 25-14.135 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n La société SAS Pars, société par actions simplifiée, dont le siège est [Adresse 1], a formé le pourvoi n° F 25-14.135 contre l'arrêt rendu le 17 décembre 2024 par la cour d'appel de Versailles (chambre commerciale 3, 2), dans le litige l'opposant :\n \n 1°/ à M. [T] [H], domicilié [Adresse 2], agissant en qualité de liquidateur de la société SAS Pars,\n \n 2°/ à la procureur général près la cour d'appel de Versailles, domicilié en son parquet général [Adresse 3],\n \n 3°/ à l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) Provence-Alpes-Côte d'Azur, dont le siège est [Adresse 4],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Boutié, conseiller référendaire, les observations de Me Bardoul, avocat de la société SAS Pars, de la SCP Gatineau, Fattaccini et Rebeyrol, avocat de l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales Provence-Alpes-Côte d'Azur, de la SCP Piwnica et Molinié, avocat de M. [H], ès qualités, et l'avis de M. de Monteynard, avocat général, après débats en l'audience publique du 19 mai 2026 où étaient présents M. Vigneau, président, M. Boutié, conseiller référendaire rapporteur, Mme Schmidt, conseillère doyenne, et Mme Sezer, greffière de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Par acte déposé au greffe de la Cour de cassation le 30 juin 2026, Me Bardoul, avocat à cette Cour, a déclaré au nom de la société SAS Pars se désister du pourvoi formé par lui contre l'arrêt rendu le 17 décembre 2024 par la cour d'appel de Versailles .\n \n 2. Ce désistement est intervenu après le dépôt du rapport ; dès lors, aux termes de l'article 1026 du code de procédure civile, il doit être constaté par arrêt.\n \n PAR CES MOTIFS, la Cour :\n \n DONNE ACTE à la société SAS Pars de son désistement de pourvoi ;\n \n Condamne la société SAS Pars aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1948
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1948,
+        2375
+      ]
+    ],
+    "dispositif": [
+      [
+        2375,
+        2950
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-17",
+    "title": "Cour d'appel de Versailles\nC2",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "C2",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6763b6b19cef394eb0f5d6da",
+    "sourceId": "jurica:2961557",
+    "number": "24/03843"
+  }
+}

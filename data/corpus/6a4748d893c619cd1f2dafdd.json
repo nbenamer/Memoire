@@ -1,0 +1,52 @@
+{
+  "id": "6a4748d893c619cd1f2dafdd",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "24-11.186",
+  "numeros": [
+    "24-11.186"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90635",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de réinscription",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n OReins\n \n \n Pourvoi n° : E 24-11.186\n Demandeur : la société [1]\n Défendeur : l'union de recouvrement des cotisations de sécurité sociale et d'allocationsfamiliales (URSSAF) Centre Val de Loire et autre\n Requête n° : 174/26\n Ordonnance n° : 90635 du 2 juillet 2026\n \n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n la société [1], ayant la SCP Célice, Texidor, Périer pour avocat à la Cour de cassation,\n \n ET :\n \n l'union de recouvrement des cotisations de sécurité sociale et d'allocations familiales (URSSAF) Centre Val de Loire, ayant la SCP Gatineau, Fattaccini et Rebeyrol pour avocat à la Cour de cassation,\n \n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026, et de Intizar Shaiek, directrice de greffe lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu l'ordonnance du 28 novembre 2024 prononçant la radiation du pourvoi enregistré sous le numéro E 24-11.186 formé à l'encontre de l'arrêt rendu le 12 décembre 2023 par la cour d'appel d'Orléans ;\n \n Vu la requête du 24 février 2026 par laquelle la société [1] demande la réinscription de l'instance au rôle de la Cour et les observations développées au soutien de cette requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n Il résulte de l'examen des pièces produites que les causes de l'arrêt frappé de pourvoi ont été exécutées.\n \n Il convient donc d'autoriser la réinscription de l'affaire au rôle de la Cour.\n \n EN CONSÉQUENCE :\n \n La réinscription au rôle de la Cour du pourvoi numéro E 24-11.186 est autorisée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe pour la greffière empêchée, lors du prononcé,\n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article ordonnance du 28 novembre 2024 prononcant la radiation du pourvoi enregistre sous le numero E 24-11.186 forme a l'encontre de l'arret rendu le 12 decembre 2023 par la cour d'appel d'Orleans."
+    }
+  ],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1596
+      ]
+    ],
+    "dispositif": [
+      [
+        1596,
+        1892
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-12-12",
+    "title": "Cour d'appel d'Orléans",
+    "jurisdiction": "Cour d'appel d'Orléans",
+    "number": "22/00543"
+  }
+}

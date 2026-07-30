@@ -1,0 +1,52 @@
+{
+  "id": "6a4748fe93c619cd1f2db35f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-20.334",
+  "numeros": [
+    "25-20.334"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90615",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n \n \n \n \n Pourvoi n° : U 25-20.334\n Demandeur : M. [Q]\n Défendeurs : la compagnie d'assurance Allianz IARD et la CPAM des Bouches-du-Rhône\n Requête n° : 182/26\n Ordonnance n° : 90615 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n La compagnie d'assurance Allianz IARD, ayant la SCP Duhamel pour avocat à la Cour de cassation,\n \n ET :\n \n M. [F] [Q], ayant la SCP Gadiou et Chevallier pour avocat à la Cour de cassation,\n \n \n Et l'autre partie à l'instance :\n \n La caisse primaire d'assurance maladie des Bouches-du-Rhône,\n Mme Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Mme Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Mme Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 26 février 2026 par laquelle la compagnie d'assurance Allianz IARD demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro U 25-20.334 formé le 20 octobre 2025 par M. [F] [Q] à l'encontre de l'arrêt rendu le 21 août 2025 par la cour d'appel d'Aix-en-Provence ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ; \n \n Le demandeur au pourvoi n'ayant pas comparu ni formulé d'observations, il n'est invoqué aucune diligence manifestant une volonté de déférer à la décision des juges du fond, ni une impossibilité d'exécution ni une situation de nature à faire craindre ou présumer des conséquences manifestement excessives en cas d'exécution.\n \n Dès lors, la requête doit être accueillie.\n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro U 25-20.334 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1733
+      ]
+    ],
+    "dispositif": [
+      [
+        1733,
+        2227
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-08-21",
+    "title": "Cour d'appel d'Aix en Provence\n10",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "10",
+    "solution": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+    "id": "69abe9f4cdc6046d47d0c7a7",
+    "sourceId": "jurica:3190834",
+    "number": "23/09585"
+  }
+}

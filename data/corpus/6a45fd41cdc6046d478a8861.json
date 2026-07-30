@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd41cdc6046d478a8861",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-13.159",
+  "numeros": [
+    "25-13.159",
+    "25-13.159"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310441",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10441 F\n \n Pourvoi n° V 25-13.159 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n M. [K] [P], domicilié [Adresse 1], a formé le pourvoi n° V 25-13.159 contre l'arrêt rendu le 14 novembre 2024 par la cour d'appel d'Aix-en-Provence (chambre 1-7), dans le litige l'opposant à M. [D] [B], domicilié [Adresse 2], défendeur à la cassation,\n \n en présence de : \n la société BR associés, société civile professionnelle, dont le siège est [Adresse 3], prise en la personne de Mme [S] [A], en sa qualité de liquidateur de M. [B].\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Davoine, conseillère référendaire, les observations écrites de la SARL Cabinet François Pinet, avocat de M. [P], après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Davoine, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Il est donné acte à M. [P] de sa reprise d'instance à l'égard de la société BR associés, prise en la personne de Mme [S] [A], en sa qualité de liquidateur de M. [B].\n \n 2. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 3. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [P] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. [P] ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1462
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1462,
+        2013
+      ]
+    ],
+    "dispositif": [
+      [
+        2013,
+        2526
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-11-14",
+    "title": "Cour d'appel d'Aix en Provence\nA1",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "A1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6736f78190a6e40271010902",
+    "sourceId": "jurica:2940629",
+    "number": "23/12603"
+  }
+}

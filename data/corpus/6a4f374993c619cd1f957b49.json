@@ -1,0 +1,54 @@
+{
+  "id": "6a4f374993c619cd1f957b49",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "24-15.772",
+  "numeros": [
+    "24-15.772",
+    "24-15.772"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C300429",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Autre",
+  "solution_libelle": "Radiation",
+  "texte": "CIV. 3\n \n ND\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Radiation\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 429 F-D\n \n Pourvoi n° Q 24-15.772 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n [V] [I] [K] [R], ayant été domiciliée [Adresse 1], a formé le pourvoi n° Q 24-15.772 contre l'arrêt rendu le 27 mars 2024 par la cour d'appel de Paris (pôle 4, chambre 2), dans le litige l'opposant :\n \n 1°/ à la société Allianz IARD, société anonyme, dont le siège est [Adresse 2],\n \n 2°/ à la société Citya [Localité 1], société à responsabilité limitée, dont le siège est [Adresse 3], venant aux droits de la société Sogimco copropriétés,\n \n 3°/ à la société Griffaton et [Localité 2], société par actions simplifiée, dont le siège est [Adresse 4],\n \n défenderesses à la cassation.\n \n La demanderesse invoque, à l'appui de son pourvoi, trois moyens de cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Pons, conseiller référendaire, les observations de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de [V] [I] [K] [R], de la SARL Boré, Salve de Bruneton et Mégret, avocat de la société Griffaton et [Localité 2], de la SARL Ortscheidt, avocat de la société Allianz IARD et de la société Citya [Localité 1], après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Teiller, présidente, M. Pons, conseiller référendaire rapporteur, Mme Proust, conseillère doyenne, et Mme Sara, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Par arrêt du 10 juillet 2025 (n° 407 F-D), la troisième chambre civile de la Cour de cassation, constatant l'interruption de l'instance consécutive au décès de [V] [I] [K] [R], a imparti aux parties un délai de quatre mois pour effectuer les diligences nécessaires à la reprise de l'instance et dit qu'à défaut de leur accomplissement dans ce délai, la radiation du pourvoi serait prononcée. Un nouveau délai de même durée a été accordé par arrêt du 15 janvier 2026 (n° 93 F-D).\n \n 2. Ces diligences n'ayant pas été accomplies, il convient, en application des articles 376, 381 et 470 du code de procédure civile, de radier l'affaire. \n \n PAR CES MOTIFS, la Cour :\n \n PRONONCE la radiation du pourvoi n° Q 24-15.772 ;\n \n Réserve les dépens ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile, et signé par Mme Proust, conseillère doyenne en ayant délibéré, en remplacement de Mme Teiller, présidente empêchée, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1848
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1848,
+        2493
+      ]
+    ],
+    "dispositif": [
+      [
+        2493,
+        3125
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-03-27",
+    "title": "Cour d'appel de Paris",
+    "jurisdiction": "Cour d'appel de Paris",
+    "number": "21/09028"
+  }
+}

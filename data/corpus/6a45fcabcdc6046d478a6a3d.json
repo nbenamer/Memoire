@@ -1,0 +1,52 @@
+{
+  "id": "6a45fcabcdc6046d478a6a3d",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.267",
+  "numeros": [
+    "26-10.267"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50562",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [X]\n \n \n \n Pourvoi n°\n : X 26-10.267\n \n \n Demandeur(s)\n : la société Local.fr\n \n \n Avocat(s)\n : la SCP Le Guerer, Bouniol-Brochier, Lassalle-Byhet\n \n \n Défendeur(s)\n : Mme [C]\n \n \n \n \n \n \n Ordonnance\n : 50562\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Local.fr, société par actions simplifiée, dont le siège est \n [Adresse 1], a formé un pourvoi le 9 janvier 2026 contre l'arrêt rendu le 17 septembre 2025 par la cour d'appel de Toulouse (1re chambre, section 1), dans le litige l'opposant à \n Mme [P] [C], domiciliée [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        999
+      ]
+    ],
+    "dispositif": [
+      [
+        999,
+        1129
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-09-17",
+    "title": "Cour d'appel de Toulouse\n11",
+    "jurisdiction": "Cour d'appel de Toulouse",
+    "chamber": "11",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "68cb9358cec9e28b92f667ad",
+    "sourceId": "jurica:3098855",
+    "number": "24/01272"
+  }
+}

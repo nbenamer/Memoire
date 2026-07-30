@@ -1,0 +1,48 @@
+{
+  "id": "6a45fcd8cdc6046d478a728b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": "Formation restreinte",
+  "numero_pourvoi": "25-20.078",
+  "numeros": [
+    "25-20.078"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50542",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [T]\n \n \n \n \n Pourvoi n°\n : R 25-20.078\n \n \n Demandeur(s)\n : M. [P]\n \n \n Avocat(s)\n : la SCP Le Guerer, Bouniol-Brochier, Lassalle-Byhet\n \n \n Défendeur(s)\n : M. [R]\n \n \n Avocat(s)\n : Me [N]\n \n \n \n \n \n \n Ordonnance\n : 50542\n \n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, assisté de Mme Sylvie Dottori, greffière, a rendu la présente ordonnance.\n \n M. [A] [P], domicilié [Adresse 1], exploitant sous l'enseigne JFH isolation, immatriculée au RCS de [Localité 1] \n sous le n° 520 015 512, a formé un pourvoi le 10 octobre 2025 contre l'arrêt rendu le 13 août 2025 par la cour d'appel d'Orléans (chambre des urgences), dans le litige l'opposant à M. [M] [R], domicilié [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 13 février 2026, Me [X] [N], agissant pour M. [M] [R], défendeur au pourvoi, a conclu au constat de la déchéance et à la condamnation de \n M. [P], exerçant sous l'enseigne JFH isolation, à lui payer la somme de 1 500 euros en application des dispositions de l'article 700 du code de procédure civile.\n \n Par observations en réplique déposées le 9 juin 2026, la SCP Le Guerer, Bouniol-Brochier, Lassalle-Byhet, agissant pour M. [A] [P], \n a conclu au rejet de la demande formulée au titre de l'article 700 du code \n de procédure civile.\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer le demandeur déchu de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n \n \n \n \n \n \n \n \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Rejette la demande formée en application de l'article 700 du code de procédure civile.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1703
+      ]
+    ],
+    "dispositif": [
+      [
+        1703,
+        1923
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-08-13",
+    "title": "Cour d'appel d'Orléans",
+    "jurisdiction": "Cour d'appel d'Orléans",
+    "number": "24/02706"
+  }
+}

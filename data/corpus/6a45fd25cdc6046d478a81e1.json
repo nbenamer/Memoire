@@ -1,0 +1,58 @@
+{
+  "id": "6a45fd25cdc6046d478a81e1",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.970",
+  "numeros": [
+    "25-12.970",
+    "25-12.970"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310452",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10452 F\n \n Pourvoi n° Q 25-12.970 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n La société GSC les milles Perrin, société civile immobilière, dont le siège est [Adresse 1], a formé le pourvoi n° Q 25-12.970 contre l'arrêt rendu le 19 décembre 2024 par la cour d'appel d'Aix-en-Provence (chambre 1-2), dans le litige l'opposant à la société Villevieille auto, société à responsabilité limitée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Davoine, conseillère référendaire, les observations écrites de la SCP Lyon-Caen et Thiriez, avocat de la société civile immobilière GSC les milles Perrin, de la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, avocat de la société Villevieille auto, après débats en l'audience publique du 12 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Davoine, conseillère référendaire rapporteure, Mme Proust, conseillère doyenne, et Mme Maréville, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société civile immobilière GSC les milles Perrin aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société civile immobilière GSC les milles [Adresse 3] et la condamne à payer à la société Villevieille auto la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1532
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1532,
+        1905
+      ]
+    ],
+    "dispositif": [
+      [
+        1905,
+        2591
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-19",
+    "title": "Cour d'appel d'Aix en Provence\n1C",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "1C",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6765139d373968af32a72b4c",
+    "sourceId": "jurica:2961761",
+    "number": "24/02776"
+  }
+}

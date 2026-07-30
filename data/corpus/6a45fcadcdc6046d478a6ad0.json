@@ -1,0 +1,52 @@
+{
+  "id": "6a45fcadcdc6046d478a6ad0",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.230",
+  "numeros": [
+    "26-10.230"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50561",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [U]\n \n \n \n Pourvoi n°\n : H 26-10.230\n \n \n Demandeur(s)\n : Mme [C] et autre\n \n \n Avocat(s)\n : la SCP Claire Leduc et Solange Vigand\n \n \n Défendeur(s)\n : la SCI Coquetiers 23\n \n \n \n \n \n \n Ordonnance\n : 50561\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ Mme [Z] [C], épouse [V],\n \n 2°/ M. [D] [V], \n \n tous deux domiciliés [Adresse 1], [Localité 1] [Adresse 2] [Localité 2],\n \n ont formé un pourvoi le 8 janvier 2026 contre l'arrêt rendu le 30 septembre 2025 par la cour d'appel de Versailles (chambre civile 1-1), dans le litige les opposant à la SCI Coquetiers 23, société civile immobilière, dont le siège est [Adresse 3], 78130 [Adresse 2] Mureaux.\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer les demandeurs déchus de leur pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 3], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1109
+      ]
+    ],
+    "dispositif": [
+      [
+        1109,
+        1239
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-09-30",
+    "title": "Cour d'appel de Versailles\nA1",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "A1",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "68dce273bc55f2c6aba50237",
+    "sourceId": "jurica:3106330",
+    "number": "23/08324"
+  }
+}

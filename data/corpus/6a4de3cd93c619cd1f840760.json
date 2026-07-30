@@ -1,0 +1,56 @@
+{
+  "id": "6a4de3cd93c619cd1f840760",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre sociale",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-22.903",
+  "numeros": [
+    "24-22.903",
+    "24-22.903"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:SO10570",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "SOC.\n \n MR13\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. HUGLO, conseiller doyen \n faisant fonction de président\n \n \n \n Arrêt n° 10570 F\n \n Pourvoi n° R 24-22.903 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 8 JUILLET 2026\n \n Mme [F] [T], domiciliée [Adresse 1], a formé le pourvoi n° R 24-22.903 contre l'arrêt rendu le 26 septembre 2024 par la cour d'appel de Paris (pôle 6, chambre 10), dans le litige l'opposant à la société [N] [J] corporate finance, société par actions simplifiée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n La société [N] [J] corporate finance a formé un pourvoi incident contre le même arrêt.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Depelley, conseillère, les observations écrites de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de Mme [T], de la SARL Gury & Maitre, avocat de la société [N] [J] corporate finance, après débats en l'audience publique du 10 juin 2026 où étaient présents M. Huglo, conseiller doyen faisant fonction de président, Mme Depelley, conseillère rapporteure, Mme Ott, conseillère, et Mme Thuillier, greffière de chambre,\n \n la chambre sociale de la Cour de cassation, composée du président et des conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation du pourvoi principal et celui du pourvoi incident, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ces pourvois.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE les pourvois, tant principal qu'incident ;\n \n Condamne Mme [T] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre sociale, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1530
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1530,
+        1898
+      ]
+    ],
+    "dispositif": [
+      [
+        1898,
+        2417
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-26",
+    "title": "Cour d'appel de Paris\nL1",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "L1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "number": "20/07483"
+  }
+}

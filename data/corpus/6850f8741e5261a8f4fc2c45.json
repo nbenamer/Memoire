@@ -1,0 +1,62 @@
+{
+  "id": "6850f8741e5261a8f4fc2c45",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre criminelle",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "24-83.104",
+  "numeros": [
+    "24-83.104"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:CR00824",
+  "date_decision": "2025-06-17",
+  "type_decision": "Autre",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "N° B 24-83.104 F-B\n \n N° 00824\n \n \n SL2\n 17 JUIN 2025\n \n \n IRRECEVABILITE\n \n \n M. BONNAL président,\n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E\n ________________________________________\n \n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE, \n DU 17 JUIN 2025\n \n \n \n \n L'officier du ministère public près le tribunal de police de Marseille a formé un pourvoi contre le jugement dudit tribunal, en date du 11 avril 2024, qui a prononcé sur une requête en incident contentieux d'exécution.\n \n Un mémoire a été produit.\n \n Sur le rapport de Mme Chaline-Bellamy, conseiller, et les conclusions de M. Quintard, avocat général, après débats en l'audience publique du 20 mai 2025 où étaient présents M. Bonnal, président, Mme Chaline-Bellamy, conseiller rapporteur, Mme Labrousse, conseiller de la chambre, et Mme Lavaud, greffier de chambre,\n \n la chambre criminelle de la Cour de cassation, composée en application de l'article 567-1-1 du code de procédure pénale, des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n \n \n Faits et procédure\n \n 1. Il résulte du jugement attaqué et des pièces de procédure ce qui suit.\n \n 2. M. [D] [I] a saisi l'officier du ministère public du centre national de traitement des amendes d'une contestation relative à une contravention d'excès de vitesse commise le 21 juillet 2021 à [Localité 1], constatée par dispositif de verbalisation sans interception du conducteur. Cette contestation a été déclarée irrecevable comme tardive.\n \n 3. Son avocat a saisi le tribunal de police d'une requête en incident contentieux.\n \n Examen de la recevabilité du pourvoi\n \n 4. Le pourvoi est irrecevable dès lors que le jugement attaqué, justement rendu en premier ressort, était susceptible d'appel.\n \n 5. En effet, dans tous les cas où la loi n'a pas attribué expressément à une juridiction le pouvoir de statuer en dernier ressort, la faculté d'appel subsiste à l'égard de ses décisions et peut être utilement exercée. L'article 530-2 du code de procédure pénale qui attribue au tribunal de police la connaissance des incidents contentieux relatifs à l'exécution d'un titre exécutoire et l'article 711 du même code, auquel il renvoie, ne dérogent pas, à défaut d'une disposition contraire, à ce principe. \n \n 6. Dès lors, les jugements rendus en vertu de l'article 530-2 susvisé restent soumis aux règles du droit commun et sont, en conséquence, susceptibles d'être attaqués par la voie de l'appel.\n \n PAR CES MOTIFS, la Cour :\n \n DÉCLARE le pourvoi IRRECEVABLE ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président en son audience publique du dix-sept juin deux mille vingt-cinq.",
+  "sommaire": "Sont susceptibles d'appel les jugements du tribunal de police rendus en application de l'article 530-2 du code de procédure pénale qui attribue à cette juridiction la connaissance des incidents contentieux relatifs à l'exécution d'un titre exécutoire",
+  "themes": [
+    "appel correctionnel ou de police",
+    "appel de police",
+    "décisions susceptibles",
+    "incidents contentieux relatifs à l'exécution d'un titre exécutoire"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Article <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=530-2+code+de+proc%C3%A9dure+p%C3%A9nale&page=1&init=true\" target=\"_blank\">530-2</a> du code de procédure pénale."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1148
+      ]
+    ],
+    "expose": [
+      [
+        1148,
+        1680
+      ]
+    ],
+    "moyens": [],
+    "motivations": [
+      [
+        1680,
+        2551
+      ]
+    ],
+    "dispositif": [
+      [
+        2551,
+        2775
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

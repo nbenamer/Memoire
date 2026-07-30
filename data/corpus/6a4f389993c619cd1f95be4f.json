@@ -1,0 +1,48 @@
+{
+  "id": "6a4f389993c619cd1f95be4f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.357",
+  "numeros": [
+    "26-10.357"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60865",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : V 26-10.357\n \n \n Demandeur(s)\n : la société Maisons d'en France Champagne & Lorraine Sud \n \n \n Avocat(s)\n : Me Haas\n \n \n Défendeur(s)\n : M. [F] [A] et autre\n \n \n Avocat(s)\n : Me Balat\n \n \n \n \n \n \n Ordonnance\n : 60865\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Maisons d'en France Champagne & Lorraine Sud, dont le siège est [Adresse 1], a formé un pourvoi\n le 13 janvier 2026 contre l'arrêt rendu le 13 novembre 2025 par la cour d'appel de Nancy (chambre sociale, section 2), dans le litige l'opposant :\n \n 1°/ à M. [H] [F] [A], domicilié [Adresse 2],\n [Localité 1],\n \n 2°/ à France travail, dont le siège est [Adresse 3], anciennement Pôle emploi.\n \n Par acte déposé au greffe de la Cour de cassation le 13 mai 2026, Me Haas, agissant au nom de la société Maisons d'en France Champagne & Lorraine Sud, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la société Maisons d'en France Champagne & Lorraine Sud de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1244
+      ]
+    ],
+    "dispositif": [
+      [
+        1244,
+        1369
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-13",
+    "title": "Cour d'appel de Nancy",
+    "jurisdiction": "Cour d'appel de Nancy",
+    "number": "24/01365"
+  }
+}

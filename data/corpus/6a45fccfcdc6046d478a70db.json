@@ -1,0 +1,48 @@
+{
+  "id": "6a45fccfcdc6046d478a70db",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.910",
+  "numeros": [
+    "26-10.910"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50546",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odech\n \n \n \n Pourvoi n°\n : W 26-10.910\n \n \n Demandeur(s)\n : Mme [H]\n \n \n Avocat(s)\n : la SCP Claire Leduc et Solange Vigand\n \n \n Défendeur(s)\n : Mme [L] et autres\n \n \n \n \n \n \n Ordonnance\n : 50546\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [W] [H], domiciliée [Adresse 1], \n [Localité 1], a formé un pourvoi le 23 janvier 2026 contre l'arrêt rendu le 11 septembre 2025 par la cour d'appel de Nancy (chambre de l exécution - JEX), dans le litige l'opposant :\n \n 1°/ à Mme [M] [L], épouse [U],\n \n 2°/ à M. [X] [U], \n \n tous deux domiciliés [Adresse 2],\n \n 3°/ à la société OCMJ - [G] [F] mandataire judiciaire, société d'exercice libéral par actions simplifiée, dont le siège est [Adresse 3], \n [Localité 2], prise en la personne de M. [G] [F], en qualité de liquidateur judiciaire de la société France déco,\n \n 4°/ à la société Altan bâtiment, société par actions simplifiée, dont le siège est \n [Adresse 4], venant aux droits de la société\n Altan frères.\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à Paris, le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1415
+      ]
+    ],
+    "dispositif": [
+      [
+        1415,
+        1538
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-09-11",
+    "title": "Cour d'appel de Nancy",
+    "jurisdiction": "Cour d'appel de Nancy",
+    "number": "24/02672"
+  }
+}

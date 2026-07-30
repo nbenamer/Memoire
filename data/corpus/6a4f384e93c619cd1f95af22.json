@@ -1,0 +1,48 @@
+{
+  "id": "6a4f384e93c619cd1f95af22",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-12.756",
+  "numeros": [
+    "26-12.756"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60897",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : C 26-12.756\n \n \n Demandeur(s)\n : la Société générale\n \n \n Avocat(s)\n : la SCP Célice, Texidor, Périer\n \n \n Défendeur(s)\n : M. [F] et autre\n \n \n \n \n \n \n Ordonnance\n : 60897\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La Société générale, société anonyme, dont le siège est [Adresse 1], a formé un pourvoi le 4 mars 2026 contre l'arrêt rendu le 8 janvier 2026 par la cour d'appel de Poitiers (4e chambre civile), dans le litige l'opposant :\n \n 1°/ à M. [Z] [F], domicilié [Adresse 2],\n \n 2°/ à Mme [L] [E], domiciliée [Adresse 3].\n \n Par acte déposé au greffe de la Cour de cassation le 22 mai 2026, la SCP Célice, Texidor, Périer, agissant au nom de la Société générale,\n a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la Société générale de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1065
+      ]
+    ],
+    "dispositif": [
+      [
+        1065,
+        1190
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-01-08",
+    "title": "Cour d'appel de Poitiers",
+    "jurisdiction": "Cour d'appel de Poitiers",
+    "number": "25/00542"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6a45fc9ecdc6046d478a6822",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.280",
+  "numeros": [
+    "26-10.280"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50568",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odech\n \n \n \n Pourvoi n°\n : M 26-10.280\n \n \n Demandeur(s)\n : Mme [R], veuve [C], et autres\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n Défendeur(s)\n : la société B-squared investments, ès qualités, \n et autres\n \n \n Avocat(s)\n : la SELAS Waquet, Farge, Hazan et Féliers\n \n \n \n \n \n \n Ordonnance\n : 50568\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ Mme [G] [R], veuve [C],\n \n 2°/ Mme [G], [P] [R],\n \n 3°/ Mme [K] [C],\n \n 4°/ Mme [O] [C],\n \n 5°/ Mme [T] [C],\n \n 6°/ M. [W] [C],\n \n 7°/ Mme [L] [C], \n \n tous domiciliés chez M. [U] [Q], derrière [Adresse 1], \n [Localité 1],\n \n ont formé un pourvoi le 9 janvier 2026 contre l'arrêt rendu le 9 octobre 2025 par la cour d'appel de Papeete (chambre civile), dans le litige les \n opposant :\n \n 1°/ à la société B-squared investments, société à responsabilité limitée, \n dont le siège est [Adresse 2], [Localité 2] (Grand Duché de Luxemboug), en qualité de créancier subrogé aux droits de la société NACC,\n \n 2°/ à la société de Négociation achat de créances contentieuses (NACC), \n dont le siège est [Adresse 3], [Localité 3], \n venant aux droits de la Banque Socredo,\n \n \n \n \n \n \n 3°/ à la société B-squared investments, société à responsabilité limitée, \n dont le siège est [Adresse 4], [Localité 4], représentée par la société Veraltis Asset management, anciennement dénommée NACC,\n \n 4°/ au procureur général près la cour d'appel de Papeete, domicilié en son parquet général, [Adresse 5], [Localité 3] (Polynésie française).\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer les demandeurs déchus de leur pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à Paris, le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1949
+      ]
+    ],
+    "dispositif": [
+      [
+        1949,
+        2072
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-09",
+    "title": "Cour d'appel de Papeete",
+    "jurisdiction": "Cour d'appel de Papeete",
+    "number": "24/00085"
+  }
+}

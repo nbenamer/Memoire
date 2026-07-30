@@ -1,0 +1,67 @@
+{
+  "id": "69fc92d8cdc6046d47eca0f8",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre criminelle",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "26-81.171",
+  "numeros": [
+    "26-81.171"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CR00745",
+  "date_decision": "2026-05-06",
+  "type_decision": "Autre",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "N° S 26-81.171 F-B\n \n N° 00745\n \n \n RB5\n 6 MAI 2026\n \n \n DÉCHÉANCE\n \n \n M. BONNAL président,\n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E\n ________________________________________\n \n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE, \n DU 6 MAI 2026\n \n \n \n M. [H] [W] a formé un pourvoi contre l'ordonnance de la présidente de la chambre de l'instruction de la cour d'appel de Nouméa, en date du 22 janvier 2025, qui, dans l'information suivie contre lui des chefs de tentative de meurtre aggravé et association de malfaiteurs, en récidive, a prononcé sur sa requête portant sur les conditions de détention.\n \n Un mémoire personnel a été produit.\n \n Sur le rapport de M. de Lamy, conseiller, et les conclusions de Mme Chauvelot, avocate générale référendaire, après débats en l'audience publique du 6 mai 2026 où étaient présents M. Bonnal, président, M. de Lamy, conseiller rapporteur, M. Samuel, conseiller de la chambre, et Mme Boudalia, greffière de chambre,\n \n la chambre criminelle de la Cour de cassation, composée en application de l'article 567-1-1 du code de procédure pénale, des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n \n Faits et procédure\n \n 1. Il résulte de l'ordonnance attaquée et des pièces soumises à l'examen de la Cour de cassation ce qui suit.\n \n 2. M. [H] [W], mis en examen des chefs précités et placé en détention provisoire, a saisi le juge des libertés et de la détention d'une requête soutenant que ses conditions de détention sont contraires à la dignité de la personne humaine.\n \n 3. Le juge des libertés et de la détention a rendu, le 3 janvier 2025, une ordonnance de refus de mise en liberté de l'intéressé.\n \n 4. M. [W] a formé un recours contre cette décision.\n \n Examen de la recevabilité du mémoire personnel\n \n 5. Il résulte de l'article 584 du code de procédure pénale, auquel l'article 567-2, alinéa 2, du même code ne déroge qu'en cas de pourvoi formé contre un arrêt de la chambre de l'instruction rendu en matière de contentieux de la détention provisoire, que le demandeur en cassation, soit en faisant sa déclaration, soit dans les dix jours suivants, peut déposer, au greffe de la juridiction qui a rendu la décision attaquée, un mémoire, signé par lui, contenant ses moyens de cassation.\n \n 6. Ainsi, le mémoire personnel, adressé directement à la Cour de cassation par M. [W], qui a formé un pourvoi contre une ordonnance de la présidente de la chambre de l'instruction rendue sur le fondement de l'article 803-8 du code de procédure pénale relatif au recours visant à mettre fin à des conditions de détention indignes, est irrecevable et ne saisit pas la Cour des moyens qu'il contient.\n \n PAR CES MOTIFS, la Cour :\n \n CONSTATE la déchéance du pourvoi ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président en son audience publique du six mai deux mille vingt-six.",
+  "sommaire": "Le mémoire personnel du demandeur à un pourvoi formé contre une ordonnance rendue sur le fondement de l'article 803-8 du code de procédure pénale,  relatif au recours visant  à mettre fin  à des conditions de détention indignes, ne doit pas, à peine d'irrecevabilité, être adressé directement  à la Cour de cassation, mais peut être déposé au greffe de la juridiction qui a rendu la décision attaquée, soit lors de la déclaration de pourvoi, soit dans les dix jours suivants, en application de l'article 584 du code de procédure pénale.\nL'article 567-2, alinéa 2, du même code ne déroge à ce dernier texte qu'en cas de pourvoi formé contre un arrêt de chambre de l'instruction rendu en matière de contentieux de la détention provisoire",
+  "themes": [
+    "cassation",
+    "pourvoi",
+    "mémoire",
+    "mémoire personnel",
+    "recevabilité",
+    "dépôt",
+    "conditions",
+    "cas",
+    "recours visant à mettre fin à des conditions de détention indignes"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Articles <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=567-2+code+de+proc%C3%A9dure+p%C3%A9nale&page=1&init=true\" target=\"_blank\">567-2</a> et <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=803-8+code+de+proc%C3%A9dure+p%C3%A9nale&page=1&init=true\" target=\"_blank\">803-8</a> du code de procédure pénale."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1269
+      ]
+    ],
+    "expose": [
+      [
+        1269,
+        1362
+      ]
+    ],
+    "moyens": [],
+    "motivations": [
+      [
+        1362,
+        2779
+      ]
+    ],
+    "dispositif": [
+      [
+        2779,
+        2997
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

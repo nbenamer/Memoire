@@ -1,0 +1,52 @@
+{
+  "id": "6a4f382c93c619cd1f95a7ed",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-12.574",
+  "numeros": [
+    "25-12.574"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60912",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : J 25-12.574\n \n \n Demandeur(s)\n : le conseil départemental du Finistère (DPAPH)\n \n \n Avocat(s)\n : la SARL Gury & Maitre\n \n \n Défendeur(s)\n : M. [R] et autre\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret\n \n \n \n \n \n \n Ordonnance\n : 60912\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Le conseil départemental du Finistère (DPAPH), dont le siège est \n [Adresse 1], pris en la personne de son président en exercice, a formé un pourvoi le 10 mars 2025 \n contre l'arrêt rendu le 18 décembre 2024 par la cour d'appel de Rennes \n (9e chambre sécurité sociale), dans le litige l'opposant :\n \n 1°/ à M. [N] [R], domicilié [Adresse 2],\n \n 2°/ à l'union départementale des associations familiales du Finistère (UDAF), dont le siège est [Adresse 3], \n prise en qualité de tuteur de M. [N] [R].\n \n Par acte déposé au greffe de la Cour de cassation le 4 juin 2025, la SARL Gury & Maitre, agissant au nom du conseil départemental du Finistère (DPAPH), a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte au conseil départemental du Finistère (DPAPH) de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1364
+      ]
+    ],
+    "dispositif": [
+      [
+        1364,
+        1489
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-18",
+    "title": "Cour d'appel de Rennes\nSS",
+    "jurisdiction": "Cour d'appel de Rennes",
+    "chamber": "SS",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6763b6c49cef394eb0f5d7ae",
+    "sourceId": "jurica:2961443",
+    "number": "22/04787"
+  }
+}

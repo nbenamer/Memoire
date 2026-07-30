@@ -1,0 +1,58 @@
+{
+  "id": "6a4f378593c619cd1f95857c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-10.886",
+  "numeros": [
+    "25-10.886",
+    "25-10.886"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210707",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme ISOLA, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10707 F\n \n Pourvoi n° Z 25-10.886 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n Mme [T] [W], domiciliée [Adresse 1], agissant en qualité d'ayant droit à titre successoral et se portant fort pour la succession d'[H] [W], a formé le pourvoi n° Z 25-10.886 contre l'arrêt rendu le 28 novembre 2024 par la cour d'appel de Versailles (chambre civile 1-3), dans le litige l'opposant :\n \n 1°/ à la société Allianz IARD, société anonyme, dont le siège est [Adresse 2],\n \n 2°/ à M. [F] [E], domicilié [Adresse 3],\n \n 3°/ à la société MSA Ile-de-France, dont le siège est [Adresse 4],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Salomon, conseillère, les observations écrites de la SCP Boutet et Hourdeaux, avocat de Mme [W], agissant en qualité d'ayant droit à titre successoral et se portant fort pour la succession d'[H] [W], de la SCP Duhamel, avocat de la société Allianz IARD, et l'avis de M. Brun, avocat général, après débats en l'audience publique du 3 juin 2026 où étaient présents Mme Isola, conseillère doyenne faisant fonction de présidente, Mme Salomon, conseillère rapporteure, M. Martin, conseiller, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [W], agissant en qualité d'ayant droit à titre successoral et se portant fort pour la succession d'[H] [W], aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1776
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1776,
+        2149
+      ]
+    ],
+    "dispositif": [
+      [
+        2149,
+        2750
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-11-28",
+    "title": "Cour d'appel de Versailles\nA3",
+    "jurisdiction": "Cour d'appel de Versailles",
+    "chamber": "A3",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "674958c8bd4ac99f38232d2f",
+    "sourceId": "jurica:2950429",
+    "number": "23/05854"
+  }
+}

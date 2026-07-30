@@ -1,0 +1,48 @@
+{
+  "id": "6a4f388b93c619cd1f95bb75",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-12.384",
+  "numeros": [
+    "26-12.384"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60871",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Y 26-12.384\n \n \n Demandeur(s)\n : la caisse primaire d'assurance maladie (CPAM) de la Côte d'Opale\n \n \n Avocat(s)\n : la SELAS Froger & Zajdela\n \n \n Défendeur(s)\n : la société ADF nucléaire\n \n \n Avocat(s)\n : la SCP Célice, Texidor, Périer\n \n \n \n \n \n \n Ordonnance\n : 60871\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La caisse primaire d'assurance maladie (CPAM) de la Côte d'Opale, \n dont le siège est [Adresse 1], a formé un pourvoi\n le 17 février 2026 contre l'arrêt rendu le 5 janvier 2026 par la cour d'appel d'Amiens (2e protection sociale), dans le litige l'opposant à la société\n ADF nucléaire, société par actions simplifiée, dont le siège est \n [Adresse 2], anciennement dénommée ADF nucléaire Tarlin.\n \n Par acte déposé au greffe de la Cour de cassation le 13 mai 2026, la SELAS Froger & Zajdela, agissant au nom de la caisse primaire d'assurance maladie (CPAM) de la Côte d'Opale, a déclaré se désister \n du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu \n dès lors de donner acte à la caisse primaire d'assurance maladie (CPAM) \n de la Côte d'Opale de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1334
+      ]
+    ],
+    "dispositif": [
+      [
+        1334,
+        1459
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-01-05",
+    "title": "Cour d'appel d'Amiens",
+    "jurisdiction": "Cour d'appel d'Amiens",
+    "number": "24/03632"
+  }
+}

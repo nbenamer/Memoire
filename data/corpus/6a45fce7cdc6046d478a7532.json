@@ -1,0 +1,54 @@
+{
+  "id": "6a45fce7cdc6046d478a7532",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-10.781",
+  "numeros": [
+    "25-10.781",
+    "25-10.781"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310472",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CC\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10472 F\n \n Pourvoi n° K 25-10.781 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n M. [F] [C], domicilié [Adresse 1], a formé le pourvoi n° K 25-10.781 contre l'arrêt rendu le 21 novembre 2024 par la cour d'appel de Nîmes (2e chambre, section C), dans le litige l'opposant à M. [O] [G], domicilié [Adresse 2], défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Cassou de Saint-Mathurin, conseiller référendaire, les observations écrites de Me Balat, avocat de M. [C], de la SAS Buk Lament-Robillot, avocat de M. [G], après débats en l'audience publique du 19 mai 2026 où étaient présents Mme Teiller, présidente, M. Cassou de Saint-Mathurin, conseiller référendaire rapporteur, M. Boyer, conseiller doyen, et Mme Letourneur, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [C] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1326
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1326,
+        1699
+      ]
+    ],
+    "dispositif": [
+      [
+        1699,
+        2196
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-11-21",
+    "title": "Cour d'appel de Nîmes",
+    "jurisdiction": "Cour d'appel de Nîmes",
+    "number": "24/00909"
+  }
+}

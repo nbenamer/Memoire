@@ -1,0 +1,52 @@
+{
+  "id": "6a45fc66cdc6046d478a5f93",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.817",
+  "numeros": [
+    "26-10.817"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50587",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [D]\n \n \n \n Pourvoi n°\n : V 26-10.817\n \n \n Demandeur(s)\n : Mme [V]\n \n \n Avocat(s)\n : la SCP [X]\n \n \n Défendeur(s)\n : Mme [I]\n \n \n \n \n \n \n Ordonnance\n : 50587 \n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [E] [V], domiciliée [Adresse 1], \n 69200 Vénissieux, a formé un pourvoi le 20 janvier 2026 contre l'ordonnance rendue le 18 novembre 2025 par le premier président de la cour d'appel \n de [Localité 1], dans le litige l'opposant à Mme [C] [I], domiciliée \n [Adresse 2].\n \n Par acte du 10 février 2026, la SCP [X] a déclaré se constituer en demande aux lieu et place de son confrère, la SARL [R], Coudray et [S], pour Mme [E] [V].\n \n Par acte du 17 février 2026, la SARL [R], [Localité 2] et [S] \n a déclaré radier sa constitution en demande, au profit de la SCP [X], au nom de Mme [E] [V].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 3], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1250
+      ]
+    ],
+    "dispositif": [
+      [
+        1250,
+        1380
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-18",
+    "title": "Cour d'appel de Lyon\n11",
+    "jurisdiction": "Cour d'appel de Lyon",
+    "chamber": "11",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "691d8c0e02bad2f30af4fe87",
+    "sourceId": "jurica:3130955",
+    "number": "25/01018"
+  }
+}

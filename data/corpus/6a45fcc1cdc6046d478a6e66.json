@@ -1,0 +1,52 @@
+{
+  "id": "6a45fcc1cdc6046d478a6e66",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.109",
+  "numeros": [
+    "26-11.109"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50552",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [J]\n \n \n \n Pourvoi n°\n : N 26-11.109\n \n \n Demandeur(s)\n : M. [F]\n \n \n Avocat(s)\n : la SCP Le Guerer, Bouniol-Brochier, Lassalle-Byhet\n \n \n Défendeur(s)\n : Mme [P]\n \n \n \n \n \n \n Ordonnance\n : 50552\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [X] [F], domicilié [Adresse 1], \n a formé un pourvoi le 29 janvier 2026 contre l'arrêt rendu le 13 novembre 2025 par la cour d'appel de Bordeaux (2e chambre civile), \n dans le litige l'opposant à Mme [I] [C], épouse [F], \n domiciliée [Adresse 2].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer le demandeur déchu de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 1], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        942
+      ]
+    ],
+    "dispositif": [
+      [
+        942,
+        1072
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-13",
+    "title": "Cour d'appel de Bordeaux\n1B",
+    "jurisdiction": "Cour d'appel de Bordeaux",
+    "chamber": "1B",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "69170473e097417ee1be39f3",
+    "sourceId": "jurica:3128437",
+    "number": "25/00851"
+  }
+}

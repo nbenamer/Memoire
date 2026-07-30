@@ -1,0 +1,52 @@
+{
+  "id": "6a4f38e593c619cd1f95cfc4",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.897",
+  "numeros": [
+    "26-11.897"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60833",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : U 26-11.897\n \n \n Demandeur(s)\n : M. [R]\n \n \n Avocat(s)\n : la SAS Buk Lament-Robillot\n \n \n Défendeur(s)\n : la société Faurecia systèmes d'échappement\n \n \n Avocat(s)\n : la SCP Célice, Texidor, Périer\n \n \n \n \n \n \n Ordonnance\n : 60833\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [Q] [R], domicilié [Adresse 1], a formé un pourvoi le 11 février 2026 contre l'arrêt rendu le 2 décembre 2025 par la cour d'appel de Besançon (chambre sociale), dans le litige l'opposant à la société Faurecia systèmes d'échappement, société par actions simplifiée, dont le siège est [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 29 avril 2026, la SAS Buk Lament-Robillot, agissant au nom de M. [Q] [R],\n a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [Q] [R] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1090
+      ]
+    ],
+    "dispositif": [
+      [
+        1090,
+        1215
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-02",
+    "title": "Cour d'appel de Besançon\n03",
+    "jurisdiction": "Cour d'appel de Besançon",
+    "chamber": "03",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "6933f679406d06a9f72ec7c6",
+    "sourceId": "jurica:3142563",
+    "number": "24/00582"
+  }
+}

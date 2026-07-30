@@ -1,0 +1,52 @@
+{
+  "id": "6a4748c793c619cd1f2daeeb",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "25-21.543",
+  "numeros": [
+    "25-21.543"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90642",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORad\n \n \n \n Pourvoi n° : G 25-21.543\n Demandeurs : M. [N] et autre\n Défendeur : la société Crédit logement\n Requête n° : 185/26\n Ordonnance n° : 90642 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n la société Crédit logement, ayant la SARL Matuchansky, Poupot, Valdelièvre et Rameix pour avocat à la Cour de cassation,\n \n ET :\n \n Mme [Z] [G] épouse [N], ayant Me Isabelle Galy pour avocat à la Cour de cassation,\n \n M. [E] [N], ayant Me Isabelle Galy pour avocat à la Cour de cassation,\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Mme Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Mme Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Mme Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 27 février 2026 par laquelle la société Crédit logement demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro G 25-21.543 formé le 1er décembre 2025 par M. [E] [N] et Mme [Z] [G] épouse [N] à l'encontre de l'arrêt rendu le 7 mai 2025 par la cour d'appel de Paris ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ; \n \n Les époux [N] avaient souscrit un crédit immobilier auprès d'une banque, leurs engagements étant garantis par la caution de la société Crédit logement. \n \n Suite à des impayés, remontant pour les premiers à juillet 2015, et à la déchéance du terme du prêt, la société Crédit logement a désintéressé le créancier principal et selon l'arrêt attaqué, les époux [N] sont débiteurs à son égard d'une somme en principal de 138 862,27 euros \n \n Si les époux [N] justifient d'une situation économique ne leur permettant pas de régler cette somme en une seule fois, il n'est pas établi qu'ils sont dans l'impossibilité de consacrer la moindre somme de leur budget mensuel à l'acquisition de leur logement, dont la propriété génère par ailleurs des charges. Or, ils ne proposent nullement un règlement échelonné de leur dette, dans l'attente de la réalisation du projet de vente d'un bien immobilier situé au Pérou. \n \n Dans ces circonstances, il convient de faire droit à la requête en radiation présentée par le Crédit logement. \n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro G 25-21.543 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n \n \n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Mme Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2460
+      ]
+    ],
+    "dispositif": [
+      [
+        2460,
+        2968
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-05-07",
+    "title": "Cour d'appel de Paris\nI6",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I6",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "681c3de61ca45fa20a7396f1",
+    "sourceId": "jurica:3034932",
+    "number": "24/03034"
+  }
+}

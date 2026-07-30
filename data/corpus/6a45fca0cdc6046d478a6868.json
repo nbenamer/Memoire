@@ -1,0 +1,48 @@
+{
+  "id": "6a45fca0cdc6046d478a6868",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.147",
+  "numeros": [
+    "26-10.147"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR50567",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n [D]\n \n \n \n Pourvoi n°\n : S 26-10.147\n \n \n Demandeur(s)\n : Mme [C]\n \n \n Avocat(s)\n : la SAS [X] [R]\n \n \n Défendeur(s)\n : Mme [G]\n \n \n \n \n \n \n Ordonnance\n : 50567\n \n \n \n ORDONNANCE DE DÉCHÉANCE\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n Mme [J] [C], domiciliée [Adresse 1], \n [Localité 1], a formé un pourvoi le 6 janvier 2026 contre l'arrêt rendu \n le 6 octobre 2025 par la cour d'appel de Nouméa (chambre civile), \n dans le litige l'opposant à Mme [K] [G], domiciliée \n [Adresse 2] (Nouvelle-Calédonie).\n \n Par acte du 22 janvier 2026, le Cabinet [X] [R] a déclaré se constituer en demande pour Mme [J] [C].\n \n Par acte du 27 janvier 2026, la SAS [O], Colin, Stoclet et associés \n a déclaré radier sa constitution au nom de Mme [J] [C].\n \n Aucun mémoire contenant les moyens de droit invoqués contre la décision attaquée n'a été produit dans le délai légal.\n \n Il y a lieu, dès lors, de déclarer la demanderesse déchue de son pourvoi par application de l'article 978 alinéa 1er du code de procédure civile.\n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate la déchéance du pourvoi.\n \n Fait à [Localité 2], le 2 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1163
+      ]
+    ],
+    "dispositif": [
+      [
+        1163,
+        1293
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-06",
+    "title": "Cour d'appel de Nouméa",
+    "jurisdiction": "Cour d'appel de Nouméa",
+    "number": "24/00019"
+  }
+}

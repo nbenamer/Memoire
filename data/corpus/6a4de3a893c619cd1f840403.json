@@ -1,0 +1,58 @@
+{
+  "id": "6a4de3a893c619cd1f840403",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre sociale",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.728",
+  "numeros": [
+    "25-12.728",
+    "25-12.728"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:SO10584",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "SOC.\n \n HE1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. HUGLO, conseiller doyen\n faisant fonction de président\n \n \n \n Arrêt n° 10584 F\n \n Pourvoi n° B 25-12.728 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 8 JUILLET 2026\n \n La société Toyota motor manufacturing France, société par actions simplifiée, dont le siège est [Adresse 1], a formé le pourvoi n° B 25-12.728 contre l'arrêt rendu le 20 décembre 2024 par la cour d'appel de Douai (chambre sociale), dans le litige l'opposant à Mme [Q] [D], divorcée [G], domiciliée [Adresse 2] [Adresse 3], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Docquincourt, conseillère référendaire, les observations écrites de la SCP Gatineau, Fattaccini et Rebeyrol, avocat de la société Toyota motor manufacturing France, de la SCP Lyon-Caen et Thiriez, avocat de Mme [D], après débats en l'audience publique du 10 juin 2026 où étaient présents M. Huglo, conseiller doyen faisant fonction de président, Mme Docquincourt, conseillère référendaire rapporteure, Mme Sommé, conseillère, et Mme Pontonnier, greffière de chambre,\n \n la chambre sociale de la Cour de cassation, composée du président et des conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société Toyota motor manufacturing France aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la société Toyota motor manufacturing France et la condamne à payer à Mme [D] la somme de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre sociale, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1519
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1519,
+        1892
+      ]
+    ],
+    "dispositif": [
+      [
+        1892,
+        2529
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-20",
+    "title": "Cour d'appel de Douai\nC3",
+    "jurisdiction": "Cour d'appel de Douai",
+    "chamber": "C3",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "679875cc5d0c5ebad4c05810",
+    "sourceId": "jurica:2978802",
+    "number": "22/01287"
+  }
+}

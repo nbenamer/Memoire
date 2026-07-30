@@ -1,0 +1,54 @@
+{
+  "id": "6a45fdd1cdc6046d478aaa22",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-18.324",
+  "numeros": [
+    "25-18.324",
+    "25-18.324"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210678",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EC3\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10678 F\n \n Pourvoi n° J 25-18.324\n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n 1°/ M. [E] [P],\n \n 2°/ Mme [Y] [I], épouse [P],\n \n tous deux domiciliés [Adresse 1]\n \n ont formé le pourvoi n° J 25-18.324 contre le jugement rendu le 3 juillet 2025 par le tribunal de proximité de Nantua (surendettement des particuliers), dans le litige les opposant :\n \n 1°/ à la société [1], dont le siège est [Adresse 2],\n \n 2°/ à la société [2], dont le siège est [Adresse 3],\n \n 3°/ à la société [3], dont le siège est [Adresse 4],\n \n 4°/ au service des impôts des particuliers (SIP) de [Localité 1], dont le siège est [Adresse 5],\n \n 5°/ à la société [4], dont le siège est [Adresse 6],\n \n 6°/ à la société [5], dont le siège est tour incity, [Adresse 7],\n \n 7°/ à la société [6], dont le siège est [Adresse 8], et pour signification [Adresse 9], \n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Chevet, conseillère référendaire, les observations écrites de la SCP Boullez, avocat de M. [P] et Mme [I], et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Chevet, conseillère référendaire rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [P] et Mme [I] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1927
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1927,
+        2300
+      ]
+    ],
+    "dispositif": [
+      [
+        2300,
+        2805
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-07-03",
+    "title": "Tribunal de proximité de Nantua",
+    "jurisdiction": "Tribunal de proximité de Nantua",
+    "number": "25/000226"
+  }
+}

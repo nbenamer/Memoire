@@ -1,0 +1,48 @@
+{
+  "id": "6a4f387c93c619cd1f95b868",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-10.625",
+  "numeros": [
+    "26-10.625"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60877",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : M 26-10.625\n \n \n Demandeur(s)\n : M. [R] et autres\n \n \n Avocat(s)\n : la SARL Le Prado - Gilbert\n \n \n Défendeur(s)\n : la société Nexity IR programmes Normandie et autres\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret,\n la SCP Boutet et Hourdeaux\n \n \n \n \n \n \n Ordonnance\n : 60877\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ M. [J] [R], domicilié [Adresse 1], \n agissant tant en son nom personnel qu'en qualité de représentant légal \n de ses enfants mineurs [G] et [L] [R],\n \n 2°/ Mme [Y] [M], épouse [R], domiciliée [Adresse 1], agissant tant en son nom personnel qu'en qualité de représentante légale de ses enfants mineurs [G] et [L] [R],\n \n 3°/ la société Mutuelle assurance des instituteurs de France (MAIF),\n société d'assurance mutuelle à cotisations fixes, dont le siège est\n [Adresse 2],\n \n ont formé un pourvoi le 19 janvier 2026 contre l'arrêt rendu\n le 19 novembre 2025 par la cour d'appel de Rouen (1re chambre civile), \n dans le litige les opposant :\n \n 1°/ à la société Nexity IR programmes Normandie, société par actions simplifiée, dont le siège est [Adresse 3], venant aux droits et obligations de la SCI [Adresse 4],\n \n 2°/ à la société Nexity Normandie, société en nom collectif, dont le siège est [Adresse 5], anciennement dénommée George V,\n \n 3°/ à la société Lesueur TP, société par actions simplifiée unipersonnelle, dont le siège est [Adresse 6],\n \n \n \n \n \n 4°/ à la société Lesueur bâtiment, entreprise unipersonnelle à responsabilité limitée, dont le siège est [Adresse 6], anciennement dénommée Le Bâtiment avance,\n \n 5°/ à la société Axa France IARD, société anonyme, dont le siège est\n [Adresse 7], ès qualités d'assureur des sociétés Lesueur TP et Lesueur bâtiment.\n \n Par acte déposé au greffe de la Cour de cassation le 11 mai 2026, la SARL Le Prado - Gilbert, agissant aux noms de M. [J] [R], de Mme [Y] [M] et de la société Mutuelle assurance des instituteurs de France, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à M. [J] [R], à Mme [Y] [M] et à la société Mutuelle assurance des instituteurs de France de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2382
+      ]
+    ],
+    "dispositif": [
+      [
+        2382,
+        2507
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-19",
+    "title": "Cour d'appel de Rouen",
+    "jurisdiction": "Cour d'appel de Rouen",
+    "number": "25/00313"
+  }
+}

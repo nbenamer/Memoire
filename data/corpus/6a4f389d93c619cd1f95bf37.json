@@ -1,0 +1,52 @@
+{
+  "id": "6a4f389d93c619cd1f95bf37",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.086",
+  "numeros": [
+    "26-11.086"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60863",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : N 26-11.086\n \n \n Demandeur(s)\n : la société Distribution Casino France\n \n \n Avocat(s)\n : la SCP Gatineau, Fattaccini et Rebeyrol\n \n \n Défendeur(s)\n : M. [T]\n \n \n Avocat(s)\n : la SARL Thouvenin, Coudray et Grévy\n \n \n \n \n \n \n Ordonnance\n : 60863\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société Distribution Casino France, société par actions simplifiée, dont le siège est [Adresse 1], a formé un pourvoi le 28 janvier 2026 contre l'arrêt rendu le 28 novembre 2025 par la cour d'appel de Lyon (chambre sociale C), dans le litige l'opposant à M. [N] [T], domicilié résidence [Adresse 2] d'après l'arrêt, et domicilié [Adresse 3] d'après ses conclusions. \n \n Par acte déposé au greffe de la Cour de cassation le 21 mai 2026, la SCP Gatineau, Fattaccini et Rebeyrol, agissant au nom de la société Distribution Casino France, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la société Distribution Casino France de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1237
+      ]
+    ],
+    "dispositif": [
+      [
+        1237,
+        1362
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-11-28",
+    "title": "Cour d'appel de Lyon\nSC",
+    "jurisdiction": "Cour d'appel de Lyon",
+    "chamber": "SC",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "692ab974afcd9ba2a7388534",
+    "sourceId": "jurica:3138312",
+    "number": "23/09660"
+  }
+}

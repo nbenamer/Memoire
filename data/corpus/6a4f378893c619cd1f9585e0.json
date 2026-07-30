@@ -1,0 +1,54 @@
+{
+  "id": "6a4f378893c619cd1f9585e0",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.683",
+  "numeros": [
+    "25-12.683",
+    "25-12.683"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210706",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme ISOLA, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10706 F\n \n Pourvoi n° C 25-12.683 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n 1°/ Mme [Y] [B], domiciliée [Adresse 1],\n \n 2°/ La Mutuelle assurance des travailleurs mutualistes, société d'assurances mutuelles, dont le siège est [Adresse 2],\n \n ont formé le pourvoi n° C 25-12.683 contre l'arrêt rendu le 14 janvier 2025 par la cour d'appel d'Orléans (chambre civile), dans le litige les opposant à Mme [X] [R], domiciliée [Adresse 3], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Gervais de Lafond, conseiller, les observations écrites de la SCP Rocheteau, Uzan-Sarano et Goulet, avocat de Mme [B] et de La Mutuelle assurance des travailleurs mutualistes, de la SARL Le Prado - Gilbert, avocat de Mme [R], et l'avis de M. Brun, avocat général, après débats en l'audience publique du 3 juin 2026 où étaient présents Mme Isola, conseillère doyenne faisant fonction de présidente, M. Gervais de Lafond, conseiller rapporteur, M. Martin, conseiller, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [B] et La Mutuelle assurance des travailleurs mutualistes aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par Mme [B] et La Mutuelle assurance des travailleurs mutualistes et les condamne à payer à Mme [R] la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1615
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1615,
+        1994
+      ]
+    ],
+    "dispositif": [
+      [
+        1994,
+        2682
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-01-14",
+    "title": "Cour d'appel d'Orléans",
+    "jurisdiction": "Cour d'appel d'Orléans",
+    "number": "22/02313"
+  }
+}

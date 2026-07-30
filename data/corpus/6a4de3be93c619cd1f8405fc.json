@@ -1,0 +1,58 @@
+{
+  "id": "6a4de3be93c619cd1f8405fc",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre sociale",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-18.347",
+  "numeros": [
+    "24-18.347",
+    "24-18.347"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:SO10576",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "SOC.\n \n ZB1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. HUGLO, conseiller doyen \n faisant fonction de président\n \n \n \n Arrêt n° 10576 F\n \n Pourvoi n° P 24-18.347 \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 8 JUILLET 2026\n \n M. [L] [T], domicilié [Adresse 1], a formé le pourvoi n° [Etablissement 1] 24-18.347 contre l'arrêt rendu le 29 mai 2024 par la cour d'appel de Lyon (chambre sociale A), dans le litige l'opposant :\n \n 1°/ au syndicat CGT Manitowoc Charlieu, dont le siège est [Adresse 2],\n \n 2°/ à la société Manitowoc crane group France, société par actions simplifiée, dont le siège est [Adresse 3],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Sommé, conseillère, les observations écrites de la SCP Lyon-Caen et Thiriez, avocat de M. [T], de la SELAS Froger & Zajdela, avocat de la société Manitowoc crane group France, après débats en l'audience publique du 10 juin 2026 où étaient présents M. Huglo, conseiller doyen faisant fonction de président, Mme Sommé, conseillère rapporteure, Mme Bérard, conseillère, et Mme Pontonnier, greffière de chambre,\n \n la chambre sociale de la Cour de cassation, composée du président et des conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [T] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre sociale, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1520
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1520,
+        1893
+      ]
+    ],
+    "dispositif": [
+      [
+        1893,
+        2381
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-05-29",
+    "title": "Cour d'appel de Lyon\nSA",
+    "jurisdiction": "Cour d'appel de Lyon",
+    "chamber": "SA",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "665aba8c97d5920008107934",
+    "sourceId": "jurica:2865539",
+    "number": "20/06715"
+  }
+}

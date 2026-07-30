@@ -1,0 +1,48 @@
+{
+  "id": "6a4f383e93c619cd1f95ab97",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-13.370",
+  "numeros": [
+    "26-13.370"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60904",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : V 26-13.370\n \n \n Demandeur(s)\n : M. [Z]\n \n \n Avocat(s)\n : la SARL Matuchansky, Poupot, Valdelièvre et Rameix\n \n \n Défendeur(s)\n : la société Cabinet Valec et autres\n \n \n Avocat(s)\n : la SARL Boré, Salve de Bruneton et Mégret,\n la SARL Cabinet Rousseau et Tapie\n \n \n \n \n \n \n Ordonnance\n : 60904\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n M. [F] [Z], domicilié [Adresse 1], a formé un pourvoi le 20 mars 2026 contre l'arrêt rendu le 15 octobre 2025 par la cour d'appel de Saint-Denis de La Réunion (chambre commerciale), dans le litige l'opposant :\n \n 1°/ à la société Cabinet Valec, société par actions simplifiée, dont le siège est [Adresse 2],\n \n 2°/ à M. [T] [I], domicilié [Adresse 3],\n [Localité 1],\n \n 3°/ à la société Easynov, société par actions simplifiée, dont le siège est\n [Adresse 4],\n \n 4°/ à la société Easyworks, société par actions simplifiée, dont le siège est\n [Adresse 4],\n \n 5°/ à la société Easytopo, société par actions simplifiée, dont le siège est\n [Adresse 4],\n \n 6°/ à la société Easygreen +, société par actions simplifiée, dont le siège est [Adresse 4],\n \n 7°/ à la société Easyway, société par actions simplifiée, dont le siège est\n [Adresse 4],\n \n 8°/ à la société Razel-Bec Réunion (A3TN), société par actions simplifiée, dont le siège est [Adresse 4], anciennement dénommée société Aménagement travaux terrassement transport nettoyage (A3TN).\n \n Par acte déposé au greffe de la Cour de cassation le 18 mai 2026, la SARL Matuchansky, Poupot, Valdelièvre et Rameix, agissant au nom de M. [F] [Z], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [F] [Z] de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1913
+      ]
+    ],
+    "dispositif": [
+      [
+        1913,
+        2038
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-15",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "23/00406"
+  }
+}

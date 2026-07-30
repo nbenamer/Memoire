@@ -1,0 +1,56 @@
+{
+  "id": "6a45fde2cdc6046d478aae53",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "23-23.047",
+  "numeros": [
+    "23-23.047",
+    "23-23.047"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210671",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EC3\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10671 F\n \n Pourvoi n° B 23-23.047\n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n M. [Q] [M], domicilié [Adresse 1], a formé le pourvoi n° B 23-23.047 contre l'arrêt rendu le 14 septembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-6), dans le litige l'opposant au Fonds de garantie des victimes des actes de terrorisme et d'autres infractions (FGTI), dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Montfort, conseiller référendaire, les observations écrites de la SCP Krivine et Viaud, avocat de M. [M], de la SARL Boré, Salve de Bruneton et Mégret, avocat du Fonds de garantie des victimes des actes de terrorisme et d'autres infractions, et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, M. Montfort, conseiller référendaire rapporteur, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [M] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1615
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1615,
+        1988
+      ]
+    ],
+    "dispositif": [
+      [
+        1988,
+        2484
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-09-14",
+    "title": "Cour d'appel d'Aix en Provence\n10",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "10",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "number": "22/04792"
+  }
+}

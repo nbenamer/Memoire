@@ -1,0 +1,59 @@
+{
+  "id": "673ae62e59b44762271e1d96",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre criminelle",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "23-86.269",
+  "numeros": [
+    "23-86.269"
+  ],
+  "ecli": "ECLI:FR:CCASS:2024:CR01488",
+  "date_decision": "2024-11-13",
+  "type_decision": "Autre",
+  "sens_solution": "Irrecevabilité",
+  "solution_libelle": null,
+  "texte": "N° W 23-86.269 F-B\n \n N° 01488\n \n \n MAS2\n 13 NOVEMBRE 2024\n \n \n IRRECEVABILITE\n \n \n M. BONNAL président,\n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E\n ________________________________________\n \n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE, \n DU 13 NOVEMBRE 2024\n \n \n \n \n Mme [H] [X] a déposé, par l'intermédiaire de son avocat, une requête en récusation, parvenue à la Cour de cassation le 26 septembre 2024, de Mme [G] [N], conseillère référendaire à la chambre criminelle de ladite Cour. \n \n Des observations ont été produites par Mme la conseillère référendaire [G] [N].\n \n Sur le rapport de M. Maziau, conseiller, et les conclusions de M. Desportes, premier avocat général, après débats en l'audience publique du 13 novembre 2024 où étaient présents M. Bonnal, président, M. Maziau, conseiller rapporteur, Mme Labrousse, conseiller de la chambre, et Mme Sommier, greffier de chambre,\n \n la chambre criminelle de la Cour de cassation, composée en application de l'article 567-1-1 du code de procédure pénale, des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Examen de la recevabilité de la requête\n \n Vu l'article 674-1 du code de procédure pénale :\n \n 1. Mme [H] [X] a déposé, par l'intermédiaire de son avocat, M. François Dangléhant, une requête en récusation de Mme [N], conseillère désignée pour faire un rapport sur le pourvoi formé par la requérante contre l'arrêt de la cour d'appel de Caen, chambre correctionnelle, en date du 28 juin 2023, qui, pour diffamations publiques envers un particulier, l'a condamnée, avec Mme [K] [W], pour la première, à 2 000 euros d'amende dont 1 600 euros avec sursis, pour la seconde, à 1 000 euros d'amende, ainsi qu'à la publication de la décision de condamnation, et a prononcé sur les intérêts civils. \n \n 2. Il résulte des pièces de procédure que la requête en récusation a été introduite par une lettre du 25 septembre 2024 adressée par M. Dangléhant, avocat au barreau de Seine-Saint-Denis, au président de la chambre criminelle, signée par lui seul, comprenant, d'une part, un pouvoir de Mme [X] à son avocat pour former ladite requête, d'autre part, un écrit exposant les moyens au soutien de cette requête, également signé par lui seul. \n \n 3. Il se déduit de l'article 674-1 du code de procédure pénale que si le ministère d'un avocat n'est pas obligatoire pour former une demande en récusation d'un magistrat de la Cour de cassation, la requête, qui suit les règles de recevabilité en matière de pourvoi, ne peut être signée que par le demandeur lui-même ou présentée par un avocat au Conseil d'Etat et à la Cour de cassation s'étant constitué pour le demandeur. \n \n 4. En l'espèce, la requête en récusation ayant été signée non par la requérante elle-même, mais par un avocat au barreau de Seine-Saint-Denis, est irrecevable. \n \n PAR CES MOTIFS, la Cour : \n \n DÉCLARE la requête irrecevable ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président en son audience publique du treize novembre deux mille vingt-quatre.",
+  "sommaire": "Il se déduit de l'article 674-1 du code de procédure pénale que si le ministère d'un avocat n'est pas obligatoire pour former une demande en récusation d'un magistrat de la Cour de cassation, la requête, qui suit les règles de recevabilité en matière de pourvoi, ne peut être signée que par le demandeur lui-même ou présentée par un avocat au Conseil d'Etat et à la Cour de cassation s'étant constitué pour le demandeur.\nEst irrecevable en la forme la requête en récusation d'un conseiller à la Cour de cassation formée par un avocat inscrit auprès d'un barreau d'un tribunal judiciaire",
+  "themes": [
+    "recusation",
+    "cour de cassation",
+    "demande de récusation",
+    "conditions de forme",
+    "requête signée par le demandeur ou présentée par un avocat aux conseil d'etat et à la cour de cassation",
+    "nécessité"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Article <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=674-1+code+de+proc%C3%A9dure+p%C3%A9nale&page=1&init=true\" target=\"_blank\">674-1</a> du code de procédure pénale."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1200
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1200,
+        2930
+      ]
+    ],
+    "dispositif": [
+      [
+        2930,
+        3159
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

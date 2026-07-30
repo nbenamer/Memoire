@@ -1,0 +1,58 @@
+{
+  "id": "6a4f377a93c619cd1f958395",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-12.864",
+  "numeros": [
+    "25-12.864",
+    "25-12.864"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210711",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EO1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme ISOLA, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10711 F\n \n Pourvoi n° Z 25-12.864 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n 1°/ Mme [O] [Z], domiciliée [Adresse 1],\n \n 2°/ M. [P] [Z], domicilié [Adresse 2],\n \n ont formé le pourvoi n° Z 25-12.864 contre l'arrêt rendu le 4 décembre 2024 par la cour d'appel d'Aix-en-Provence (chambre 2-4), dans le litige les opposant :\n \n 1°/ à la Fondation pour la recherche médicale, dont le siège est [Adresse 3],\n \n 2°/ à la société Sogecap, société anonyme, dont le siège est tour [Adresse 4],\n \n 3°/ à la société Macsf épargne retraite, société anonyme, dont le siège est [Adresse 5],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Philippart, conseillère référendaire, les observations écrites de Me Carbonnier, avocat de Mme [Z] et de M. [Z], de la SCP Célice, Texidor, Périer, avocat de la société Sogecap, de la SCP Jean-Philippe Caston, avocat de la Fondation pour la recherche médicale, de la SARL Matuchansky, Poupot, Valdelièvre et Rameix, avocat de la société Macsf épargne retraite, et l'avis de M. Brun, avocat général, après débats en l'audience publique du 3 juin 2026 où étaient présents Mme Isola, conseillère doyenne faisant fonction de présidente, Mme Philippart, conseillère référendaire rapporteure, M. Martin, conseiller, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [Z] et M. [Z] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par Mme [Z] et M. [Z] et les condamne à payer à la Fondation pour la recherche médicale la somme globale de 3 000 euros, et rejette les autres demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1908
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1908,
+        2281
+      ]
+    ],
+    "dispositif": [
+      [
+        2281,
+        2945
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-12-04",
+    "title": "Cour d'appel d'Aix en Provence\n6D",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "6D",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "675146d7861e161ea86c757c",
+    "sourceId": "jurica:2952425",
+    "number": "23/03203"
+  }
+}

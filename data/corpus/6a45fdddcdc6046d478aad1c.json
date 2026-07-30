@@ -1,0 +1,58 @@
+{
+  "id": "6a45fdddcdc6046d478aad1c",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-17.138",
+  "numeros": [
+    "24-17.138",
+    "24-17.138"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210673",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EC3\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10673 F\n \n Pourvoi n° Z 24-17.138\n \n Aide juridictionnelle totale en demande\n au profit de M. [Y].\n Admission du bureau d'aide juridictionnelle\n près la Cour de cassation\n en date du 3 mai 2024.\n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n M. [J] [Y], domicilié [Adresse 1], a formé le pourvoi n° Z 24-17.138 contre l'arrêt rendu le 26 octobre 2023 par la cour d'appel de Bordeaux (chambre sociale, section B), dans le litige l'opposant à l'Agent judiciaire de l'Etat, dont le siège est direction des affaires juridiques, [Adresse 2], défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Montfort, conseiller référendaire, les observations écrites de la SCP Ohl et Vexliard, avocat de M. [Y], de la SCP Bauer-Violas, Feschotte-Desbois et Sebagh, avocat de l'Agent judiciaire de l'Etat, et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, M. Montfort, conseiller référendaire rapporteur, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne M. [Y] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1711
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1711,
+        2084
+      ]
+    ],
+    "dispositif": [
+      [
+        2084,
+        2578
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-10-26",
+    "title": "Cour d'appel de Bordeaux\n4B",
+    "jurisdiction": "Cour d'appel de Bordeaux",
+    "chamber": "4B",
+    "solution": "Déclare la demande ou le recours irrecevable",
+    "id": "653b58cd502b828318c4e2ed",
+    "sourceId": "jurica:2753845",
+    "number": "22/03381"
+  }
+}

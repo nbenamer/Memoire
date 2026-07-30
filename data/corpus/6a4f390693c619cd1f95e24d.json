@@ -1,0 +1,60 @@
+{
+  "id": "6a4f390693c619cd1f95e24d",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "26-00.002",
+  "numeros": [
+    "26-00.002",
+    "26-00.002"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C200742",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Annulation",
+  "solution_libelle": null,
+  "texte": "CIV. 2 / EXPTS\n \n LC12\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Annulation partielle\n \n \n Mme MARTINEL, présidente\n \n \n \n Arrêt n° 742 F-B\n \n Recours n° Q 26-00.002 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n Mme [O] [N], domiciliée [Adresse 1], a formé le recours n° Q 26-00.002 en annulation d'une décision rendue le 14 novembre 2025 par l'assemblée générale des magistrats du siège de la cour d'appel de Bordeaux.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Philippart, conseillère référendaire, et l'avis de Mme de Chanville avocate générale référendaire, après débats en l'audience publique du 3 juin 2026 où étaient présentes Mme Martinel, présidente, Mme Philippart, conseillère référendaire rapporteure, Mme Isola, conseillère doyenne, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n Faits et procédure \n \n 1. Mme [N] a sollicité sa réinscription sur la liste des experts judiciaires de la cour d'appel de Bordeaux dans les spécialités « Autopsie et thanatologie » (G-02.01) et « Médecine légale du vivant - victimologie » (G-02.02).\n \n 2. Par une décision du 14 novembre 2025, contre laquelle Mme [N] a formé un recours, l'assemblée générale des magistrats du siège de cette cour d'appel a rejeté sa demande.\n \n Examen du grief\n \n Exposé du grief\n \n 3. Mme [N] fait valoir qu'elle justifie d'une réelle qualification et d'une expérience importante dans les spécialités sous lesquelles sa réinscription a été sollicitée. Elle ajoute qu'à la suite de l'avis défavorable de la commission mixte de réinscription du 13 juin 2025, elle a justifié le 5 novembre 2025 de la réalisation d'une formation à l'expertise judiciaire.\n \n Réponse de la Cour\n \n Vu les articles 14, alinéa 3, et 15 du décret n° 2004-1463 du 23 décembre 2004 :\n \n 4. Il résulte de ces textes que le refus de réinscription d'un expert sur la liste des experts judiciaires d'une cour d'appel ne peut être décidé qu'après que l'intéressé a été invité à fournir ses observations, soit à la commission de réinscription, ou à l'un de ses membres, soit au magistrat rapporteur.\n \n 5. Pour rejeter la demande de réinscription de Mme [N], l'assemblée générale des magistrats du siège de la cour d'appel retient que la candidate ne justifie pas d'un exercice de son activité pendant un temps suffisant pour attester d'une réelle qualification dans les spécialités demandées.\n \n 6. En statuant ainsi, alors que si Mme [N] avait été invitée à présenter ses observations à la suite de l'avis défavorable rendu par la commission de réinscription, en ce que celle-ci avait considéré que la candidate ne justifiait d'aucune formation à l'expertise judiciaire, elle n'a pas été mise en mesure de fournir ses observations sur l'exercice de son activité et sa qualification, éléments qui ont fondé la décision de ne pas la réinscrire, l'assemblée générale a méconnu les textes susvisés.\n \n 7. La décision de l'assemblée générale doit, dès lors, être annulée en ce qui concerne Mme [N]. \n \n PAR CES MOTIFS, la Cour :\n \n ANNULE la décision de l'assemblée générale des magistrats du siège de la cour d'appel de Bordeaux du 14 novembre 2025, en ce qu'elle a refusé la réinscription de Mme [N] ;\n \n Dit que sur les diligences du procureur général près la Cour de cassation, le présent arrêt sera transmis pour être transcrit en marge ou à la suite de la décision partiellement annulée ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [
+    "expert judiciaire"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Articles 14, alinea 3, et 15 du decret n° 2004-1463 du 23 decembre 2004."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1222
+      ]
+    ],
+    "expose": [],
+    "moyens": [
+      [
+        1222,
+        2062
+      ]
+    ],
+    "motivations": [
+      [
+        2062,
+        3375
+      ]
+    ],
+    "dispositif": [
+      [
+        3375,
+        4094
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

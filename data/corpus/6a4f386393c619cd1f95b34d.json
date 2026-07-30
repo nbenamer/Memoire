@@ -1,0 +1,48 @@
+{
+  "id": "6a4f386393c619cd1f95b34d",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-13.915",
+  "numeros": [
+    "26-13.915"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60888",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : N 26-13.915\n \n \n Demandeur(s)\n : la société TK Elevator France\n \n \n Avocat(s)\n : la SCP Gatineau, Fattaccini et Rebeyrol\n \n \n Défendeur(s)\n : Mme [P]\n \n \n \n \n \n \n Ordonnance\n : 60888\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n La société TK Elevator France, société par actions simplifiée, dont le siège est [Adresse 1], a formé un pourvoi le 1er avril 2026 contre l'arrêt rendu le 22 janvier 2026 par la cour d'appel d'Angers (chambre sociale), dans le litige l'opposant à Mme [M] [P], domiciliée [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 18 mai 2026, la SCP Gatineau, Fattaccini et Rebeyrol, agissant au nom de la société TK Elevator France, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à la société TK Elevator France de son désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1075
+      ]
+    ],
+    "dispositif": [
+      [
+        1075,
+        1200
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2026-01-22",
+    "title": "Cour d'appel d'Angers",
+    "jurisdiction": "Cour d'appel d'Angers",
+    "number": "22/00460"
+  }
+}

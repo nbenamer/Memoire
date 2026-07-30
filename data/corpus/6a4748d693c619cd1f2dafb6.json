@@ -1,0 +1,56 @@
+{
+  "id": "6a4748d693c619cd1f2dafb6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "23-12.756",
+  "numeros": [
+    "23-12.756"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90636",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de réinscription",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n OReins\n \n \n Pourvoi n° : R 23-12.756\n Demandeur : M. [W]\n Défendeur : Mme [Q] et autres\n Requête n° : 225/26\n Ordonnance n° : 90636 du 2 juillet 2026\n \n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n \n ENTRE :\n \n M. [U] [W], ayant la SCP Rocheteau, Uzan-Sarano et Goulet pour avocat à la Cour de cassation,\n \n ET :\n \n Mme [X] [Q], ayant SAS Zribi et Texier pour avocat à la Cour de cassation,\n \n M. [M] [W], ayant SAS Zribi et Texier pour avocat à la Cour de cassation,\n \n M. [N] [W], ayant SAS Zribi et Texier pour avocat à la Cour de cassation,\n \n M. [J] [W], ayant SAS Zribi et Texier pour avocat à la Cour de cassation,\n \n Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Sylvie Aubagna, greffière lors des débats du 28 mai 2026, et de Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu l'ordonnance du 7 mars 2024 prononçant la radiation du pourvoi enregistré sous le numéro R 23-12.756 formé à l'encontre de l'arrêt rendu le 6 décembre 2022 par la cour d'appel de Grenoble ;\n \n Vu la requête du 11 mars 2026 par laquelle M. [U] [W] demande la réinscription de l'instance au rôle de la Cour et les observations développées au soutien de cette requête ;\n \n Vu l'avis de Samuel Aparisi, avocat général, recueilli lors des débats ;\n \n Il résulte de l'examen des pièces produites que les causes de l'arrêt frappé de pourvoi ont été exécutées.\n \n Il convient donc d'autoriser la réinscription de l'affaire au rôle de la Cour.\n \n EN CONSÉQUENCE :\n \n La réinscription au rôle de la Cour du pourvoi numéro R 23-12.756 est autorisée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [
+    {
+      "title": "Article ordonnance du 7 mars 2024 prononcant la radiation du pourvoi enregistre sous le numero R <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=23-12.756+Grenoble&page=1&init=true\" target=\"_blank\">23-12.756</a> forme a l'encontre de l'arret rendu le 6 decembre 2022 par la cour d'appel de Grenoble."
+    }
+  ],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1582
+      ]
+    ],
+    "dispositif": [
+      [
+        1582,
+        1879
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2022-12-06",
+    "title": "Cour d'appel de Grenoble\n02",
+    "jurisdiction": "Cour d'appel de Grenoble",
+    "chamber": "02",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "639431a6dbd75c05d41ff32e",
+    "sourceId": "jurica:2617707",
+    "number": "21/01860"
+  }
+}

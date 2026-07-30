@@ -1,0 +1,52 @@
+{
+  "id": "6a4f384093c619cd1f95ac2b",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.202",
+  "numeros": [
+    "26-11.202"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60903",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : P 26-11.202\n \n \n Demandeur(s)\n : M. [O] et autre\n \n \n Avocat(s)\n : la SARL Matuchansky, Poupot, Valdelièvre et Rameix\n \n \n Défendeur(s)\n : la société BNP Paribas\n \n \n Avocat(s)\n : la SCP Rocheteau, Uzan-Sarano et Goulet\n \n \n \n \n \n \n Ordonnance\n : 60903\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ M. [V] [O],\n \n 2°/ Mme [Z] [C], épouse [O], \n \n tous deux domiciliés [Adresse 1],\n \n ont formé un pourvoi le 2 février 2026 contre l'arrêt rendu le 29 octobre 2025 par la cour d'appel de Paris (pôle 5, chambre 6), dans le litige les opposant à la société BNP Paribas, société anonyme, dont le siège est\n [Adresse 2].\n \n Par acte déposé au greffe de la Cour de cassation le 22 mai 2026, la SARL Matuchansky, Poupot, Valdelièvre et Rameix, agissant aux noms de M. [V] [O] et de Mme [Z] [C], a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès\n lors de donner acte à M. [V] [O] et à Mme [Z] [C] de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1193
+      ]
+    ],
+    "dispositif": [
+      [
+        1193,
+        1318
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-10-29",
+    "title": "Cour d'appel de Paris\nI6",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "I6",
+    "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "6902ff1c1e4ff47a82fa3308",
+    "sourceId": "jurica:3121174",
+    "number": "24/07573"
+  }
+}

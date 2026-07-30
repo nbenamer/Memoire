@@ -1,0 +1,54 @@
+{
+  "id": "6a45fdefcdc6046d478ab127",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "23-23.245",
+  "numeros": [
+    "23-23.245",
+    "23-23.245"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210666",
+  "date_decision": "2026-07-02",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n TC1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 2 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme DURIN-KARSENTY, conseillère doyenne\n faisant fonction de présidente\n \n \n \n Arrêt n° 10666 F\n \n Pourvoi n° S 23-23.245 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 2 JUILLET 2026\n \n 1°/ Mme [Y] [M] épouse [H],\n \n 2°/ M. [I] [H],\n \n tous deux domiciliés [Adresse 1],\n \n ont formé le pourvoi n° S 23-23.245 contre l'arrêt rendu le 28 novembre 2023 par la cour d'appel de Saint-Denis de La Réunion (chambre civile TGI), dans le litige les opposant à la société DLC Construction, société par actions simplifiée, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Latreille, conseillère référendaire, les observations écrites de la SCP Gadiou et Chevallier, avocat de Mme [M], de M. [H], de la SARL Corlay, avocat de la société DLC Construction, et l'avis de M. Adida-Canac, avocat général, après débats en l'audience publique du 27 mai 2026 où étaient présents Mme Durin-Karsenty, conseillère doyenne faisant fonction de présidente, Mme Latreille, conseillère référendaire rapporteure, M. Delbano, conseiller, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [M], et M. [H] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par Mme [M] et M. [H] et les condamne à payer à la société DLC Construction la somme globale de 3 000 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le deux juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1606
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1606,
+        1979
+      ]
+    ],
+    "dispositif": [
+      [
+        1979,
+        2600
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-28",
+    "title": "Cour d'appel de Saint Denis de la Réunion",
+    "jurisdiction": "Cour d'appel de Saint Denis de la Réunion",
+    "number": "22/00918"
+  }
+}

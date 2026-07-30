@@ -1,0 +1,52 @@
+{
+  "id": "6a4748bd93c619cd1f2dae5f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "24-19.640",
+  "numeros": [
+    "24-19.640"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR90646",
+  "date_decision": "2026-07-02",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "1009-1 ordonnance de radiation du role",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n ORad\n \n \n \n Pourvoi n° : U 24-19.640\n Demandeur : Mme [P]\n Défendeur : Mme [A]\n Requête n° : 210/25\n Ordonnance n° : 90646 du 2 juillet 2026\n \n \n \n \n \n ORDONNANCE\n _______________\n \n \n \n ENTRE :\n \n Mme [Z] [A], ayant la SARL Boré, Salve de Bruneton et Mégret pour avocat à la Cour de cassation,\n \n ET :\n \n Mme [S] [P], ayant la SARL Delvolvé et Trichet pour avocat à la Cour de cassation,\n Mme Viviane Caullireau-Forel, conseillère déléguée par le premier président de la Cour de cassation, assistée de Mme Sylvie Aubagna, greffière lors des débats du 28 mai 2026 et de Mme Intizar Shaiek, directrice de greffe, lors du prononcé, a rendu l'ordonnance suivante :\n \n Vu la requête du 3 mars 2025 par laquelle Mme [Z] [A] demande, par application de l'article 1009-1 du code de procédure civile, la radiation du pourvoi numéro U 24-19.640 formé le 2 septembre 2024 par Mme [S] [P] à l'encontre de l'arrêt rendu le 5 juillet 2024 par la cour d'appel de Paris ;\n \n Vu les observations développées au soutien de la requête ;\n \n Vu les observations développées en défense à la requête ;\n \n Vu l'avis de M. Samuel Aparisi, avocat général référendaire, recueilli lors des débats ; \n \n L'examen de la requête en radiation, présentée le 3 mars 2025 par Mme [A], a été renvoyé à de multiples reprises, dans l'attente de la décision du juge de l'exécution du tribunal judiciaire de Grasse que Mme [P] avait saisi d'une contestation d'une saisie-attribution pratiquée par la demanderesse à la radiation et d'une demande de report ou de délais de paiement. \n \n Par jugement du 25 mars 2026, le juge de l'exécution du tribunal judiciaire de Grasse a débouté Mme [P] de toutes ses demandes. \n \n Mme [P] conclut au rejet de la demande de radiation de Mme [A] et à titre subsidiaire, au renvoi de l'examen de cette requête dans l'attente de l'arrêt à intervenir sur l'appel qu'elle a interjeté à l'encontre du jugement du 25 mars 2026.\n \n Au regard de la chronologie des événements de ce dossier et des effets non suspensifs de l'appel, il n'y a pas lieu d'ordonner une nouvelle fois le renvoi de ce dossier. \n \n Il convient d'observer que Mme [P], qui est propriétaire d'un bien au titre duquel elle a payé une taxe foncière de plus de 6 000 euros en 2024, et dont le revenu fiscal de référence était de 338 288 euros en 2023, ne justifie pas de ses revenus et charges actuels. Elle n'établit donc ni être dans l'impossibilité d'exécuter, ne serait-ce que de manière partielle et échelonnée, l'arrêt attaqué, ni que l'exécution de l'arrêt attaqué serait de nature à entraîner des conséquences manifestement excessives. \n \n Dès lors, la requête en radiation de Mme [A] doit être accueillie.\n \n EN CONSÉQUENCE :\n \n L'affaire enrôlée sous le numéro U 24-19.640 est radiée.\n \n En application de l'article 1009-3 du code de procédure civile, sauf constat de la péremption, l'affaire pourra être réinscrite au rôle de la Cour de cassation sur justification de l'exécution de la décision attaquée.\n \n \n \n Fait à Paris, le 2 juillet 2026\n \n \n La directrice de greffe, pour la greffière empêchée lors du prononcé, \n La conseillère déléguée,\n \n \n \n \n \n \n \n Intizar Shaiek\n Viviane Caullireau-Forel",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        2727
+      ]
+    ],
+    "dispositif": [
+      [
+        2727,
+        3221
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-07-05",
+    "title": "Cour d'appel de Paris\nA9",
+    "jurisdiction": "Cour d'appel de Paris",
+    "chamber": "A9",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "68cb96c76b783f114c41d8e7",
+    "sourceId": "jurica:3098654",
+    "number": "23/00526"
+  }
+}

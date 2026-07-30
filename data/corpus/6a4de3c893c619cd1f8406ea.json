@@ -1,0 +1,54 @@
+{
+  "id": "6a4de3c893c619cd1f8406ea",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre sociale",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-60.148",
+  "numeros": [
+    "25-60.148",
+    "25-60.148"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:SO10572",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "SOC. / [Y]\n \n MR13\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. HUGLO, conseiller doyen \n faisant fonction de président\n \n \n \n Arrêt n° 10572 F\n \n Pourvoi n° V 25-60.148 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE SOCIALE, DU 8 JUILLET 2026\n \n M. [B] [K], domicilié [Adresse 1], a formé le pourvoi n° V 25-60.148 contre le jugement rendu le 10 avril 2025 par le tribunal de première instance de Papeete (contentieux des élections professionnelles), dans le litige l'opposant :\n \n 1°/ à Air France, délégation régionale de Polynésie française, société anonyme, dont le siège est [Adresse 2],\n \n 2°/ à Mme [S] [M], domiciliée [Adresse 3],\n \n 3°/ à Mme [I] [J], domiciliée [Adresse 4],\n \n 4°/ à M. [X] [R], domicilié [Adresse 5],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Depelley, conseillère, les observations écrites de Me Balat, avocat de M. [K], après débats en l'audience publique du 10 juin 2026 où étaient présents M. Huglo, conseiller doyen faisant fonction de président, Mme Depelley, conseillère rapporteure, Mme Ott, conseillère, et Mme Thuillier, greffière de chambre,\n \n la chambre sociale de la Cour de cassation, composée du président et des conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par M. [K] ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre sociale, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1531
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1531,
+        1910
+      ]
+    ],
+    "dispositif": [
+      [
+        1910,
+        2382
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-04-10",
+    "title": "Tribunal de première instance de Papeete",
+    "jurisdiction": "Tribunal de première instance de Papeete",
+    "number": "24/00354"
+  }
+}

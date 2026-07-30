@@ -1,0 +1,54 @@
+{
+  "id": "6a4de44393c619cd1f8416c9",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-14.830",
+  "numeros": [
+    "25-14.830",
+    "25-14.830"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CO10340",
+  "date_decision": "2026-07-08",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CCOMM.\n \n MB\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 8 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. VIGNEAU, président\n \n \n \n Arrêt n° 10340 F\n \n Pourvoi n° M 25-14.830 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE COMMERCIALE, FINANCIÈRE ET ÉCONOMIQUE, DU 8 JUILLET 2026\n \n La société SA Soudinvest, société de droit étranger, dont le siège est [Adresse 1] (Luxembourg), a formé le pourvoi n° M 25-14.830 contre l'arrêt rendu le 13 mars 2025 par la cour d'appel de Metz (3e chambre, JEX), dans le litige l'opposant au comptable public du pôle de recouvrement spécialisé de la Moselle, domicilié [Adresse 2], ayant une entité [Adresse 3], agissant sous l'autorité du directeur départemental des finances publiques de la Moselle et de la directrice générale des finances publiques, défendeur à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Maigret, conseiller référendaire, les observations écrites de la SAS Boucard-Capron-Maman, avocat de la société SA Soudinvest, de la SELAS Froger & Zajdela, avocat du comptable public du pôle de recouvrement spécialisé de la Moselle, agissant sous l'autorité du directeur départemental des finances publiques de la Moselle et de la directrice générale des finances publiques, et l'avis de Mme Amouroux, avocate générale, après débats en l'audience publique du 27 mai 2026 où étaient présents M. Vigneau, président, M. Maigret, conseiller référendaire rapporteur, M. Ponsot, conseiller doyen, et M. Doyen, greffier de chambre,\n \n la chambre commerciale, financière et économique de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société SA Soudinvest aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette sa demande ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre commerciale, financière et économique, et prononcé publiquement le huit juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile et signé par le président, le conseiller référendaire rapporteur, et Mme Sezer, greffière de chambre, qui a assisté au prononcé de l'arrêt, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1881
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1881,
+        2254
+      ]
+    ],
+    "dispositif": [
+      [
+        2254,
+        3011
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-03-13",
+    "title": "Cour d'appel de Metz",
+    "jurisdiction": "Cour d'appel de Metz",
+    "number": "23/02130"
+  }
+}

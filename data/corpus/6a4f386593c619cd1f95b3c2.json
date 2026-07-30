@@ -1,0 +1,48 @@
+{
+  "id": "6a4f386593c619cd1f95b3c2",
+  "juridiction": "Cour de cassation",
+  "chambre": "Première présidence (Ordonnance)",
+  "formation": null,
+  "numero_pourvoi": "26-11.097",
+  "numeros": [
+    "26-11.097"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:OR60887",
+  "date_decision": "2026-07-09",
+  "type_decision": "Ordonnance",
+  "sens_solution": "Autre",
+  "solution_libelle": "Désistement par ordonnance",
+  "texte": "COUR DE CASSATION\n Première présidence\n __________\n Odesi\n \n \n \n Pourvoi n°\n : Z 26-11.097\n \n \n Demandeur(s)\n : la société SMA et autre\n \n \n Avocat(s)\n : la SCP L. Poulet-Odent\n \n \n Défendeur(s)\n : la mutuelle d'assurance des pharmaciens et autres\n \n \n Avocat(s)\n : la SARL Corlay, la SARL Delvolvé et Trichet\n \n \n \n \n \n \n Ordonnance\n : 60887\n \n \n \n ORDONNANCE DE DÉSISTEMENT\n \n \n M. Éloi Buat-Ménard, conseiller référendaire, délégué par le premier président de la Cour de cassation, a rendu la présente ordonnance.\n \n 1°/ la société SMA, société anonyme, dont le siège est [Adresse 1],\n \n 2°/ la société Temsol, société par actions simplifiée, dont le siège est\n [Adresse 2],\n \n ont formé un pourvoi le 29 janvier 2026 contre l'arrêt rendu\n le 2 décembre 2025 par la cour d'appel de Poitiers (1re chambre civile), dans le litige les opposant :\n \n 1°/ à la mutuelle d'assurance des pharmaciens, dont le siège est\n [Adresse 3], prise en sa qualité d'assureur de [Z] [O], décédée,\n \n 2°/ à Mme [C] [L], épouse [M], domiciliée [Adresse 4],\n \n 3°/ à Mme [D] [L], domiciliée [Adresse 5].\n \n Par acte déposé au greffe de la Cour de cassation le 18 mai 2026, la SCP L. Poulet-Odent, agissant aux noms de la société SMA et de la société Temsol, a déclaré se désister du pourvoi.\n \n En application de l'article 1026 du code de procédure civile, il y a lieu dès lors de donner acte à la société SMA et à la société Temsol de leur désistement. \n \n EN CONSÉQUENCE, le conseiller référendaire délégué,\n \n Constate le désistement du pourvoi.\n \n Fait à Paris, le 9 juillet 2026",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        0,
+        1438
+      ]
+    ],
+    "dispositif": [
+      [
+        1438,
+        1563
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2025-12-02",
+    "title": "Cour d'appel de Poitiers",
+    "jurisdiction": "Cour d'appel de Poitiers",
+    "number": "24/00285"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "679093af00cd7517a1e6fd1a",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre criminelle",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "24-81.201",
+  "numeros": [
+    "24-81.201"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:CR00070",
+  "date_decision": "2025-01-22",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "N° G 24-81.201 F-B\n \n N° 00070\n \n \n GM\n 22 JANVIER 2025\n \n \n REJET\n \n \n M. BONNAL président,\n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E\n ________________________________________\n \n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE, \n DU 22 JANVIER 2025\n \n \n \n M. [K] [R] a formé un pourvoi contre l'arrêt de la cour d'appel de Chambéry, chambre correctionnelle, en date du 22 novembre 2023, qui, pour violences aggravées, l'a condamné à six mois d'emprisonnement avec sursis probatoire, et a prononcé sur les intérêts civils. \n \n Un mémoire a été produit.\n \n Sur le rapport de Mme Guerrini, conseiller référendaire, les observations de Me Isabelle Galy, avocat de M. [K] [R], et les conclusions de M. Crocq, avocat général, après débats en l'audience publique du 11 décembre 2024 où étaient présents M. Bonnal, président, Mme Guerrini, conseiller rapporteur, M. de Larosière de Champfeu, conseiller de la chambre, et M. Maréville, greffier de chambre,\n \n la chambre criminelle de la Cour de cassation, composée en application de l'article 567-1-1 du code de procédure pénale, des président et conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n \n Faits et procédure\n \n 1. Il résulte de l'arrêt attaqué et des pièces de procédure ce qui suit.\n \n 2. Par jugement du 4 octobre 2021, le tribunal correctionnel a déclaré M. [K] [R] coupable de violences sans incapacité sur mineur de quinze ans par personne ayant autorité, l'a condamné à trois mois d'emprisonnement avec sursis probatoire pendant deux ans, et a prononcé sur les intérêts civils. \n \n 3. M. [R] et le ministère public ont relevé appel de cette décision.\n \n Examen du moyen \n \n Enoncé du moyen\n \n 4. Le moyen critique l'arrêt attaqué en ce qu'il a condamné M. [K] [R] à la peine de six mois d'emprisonnement avec sursis et mise à l'épreuve pour une durée de deux ans, alors « qu'en matière correctionnelle, toute peine doit être motivée en tenant compte de la gravité des faits, de la personnalité de son auteur et de sa situation matérielle, familiale et sociale ; que cette exigence s'applique à la peine d'emprisonnement avec sursis et mise à l'épreuve, seules les obligations particulières du sursis probatoire n'ayant pas à être motivées ; qu'il appartient en conséquence à la juridiction pénale de motiver le choix du délai de mise à l'épreuve en tenant compte de la gravité des faits, de la personnalité de leur auteur et de sa situation personnelle ; que l'arrêt attaqué est dépourvu de toute motivation sur ce point ; que la cour d'appel a violé les articles 132-1 du code pénal, 485, 485-1, 512 et 593 du code de procédure pénale. »\n \n Réponse de la Cour\n \n 5. L'exigence selon laquelle, en matière correctionnelle, toute peine doit être motivée, s'applique au choix de la peine et non au choix de sa modalité que constitue le délai d'épreuve prévu à l'article 132-42 du code pénal, que le juge de l'application des peines peut modifier.\n \n 6. Le demandeur ne saurait donc se faire un grief de ce que la cour d'appel n'a pas spécialement motivé la durée du délai de probation de la peine d'emprisonnement avec sursis probatoire prononcée à son encontre.\n \n 7. Ainsi, le moyen doit être écarté.\n \n 8. Par ailleurs, l'arrêt est régulier en la forme.\n \n \n \n \n \n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président en son audience publique du vingt-deux janvier deux mille vingt-cinq.",
+  "sommaire": "L'exigence selon laquelle, en matière correctionnelle, toute peine doit être motivée, s'applique au choix de la peine et non au choix de sa modalité que constitue le délai d'épreuve prévu à l'article 132-42 du code pénal, que le juge de l'application des peines peut modifier",
+  "themes": [
+    "peines",
+    "peines correctionnelles",
+    "prononcé",
+    "motivation",
+    "domaine d'application",
+    "détermination"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Article <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=132-42+code+p%C3%A9nal&page=1&init=true\" target=\"_blank\">132-42</a> du code pénal."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1265
+      ]
+    ],
+    "expose": [
+      [
+        1265,
+        1736
+      ]
+    ],
+    "moyens": [
+      [
+        1736,
+        2724
+      ]
+    ],
+    "motivations": [
+      [
+        2724,
+        3349
+      ]
+    ],
+    "dispositif": [
+      [
+        3349,
+        3566
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

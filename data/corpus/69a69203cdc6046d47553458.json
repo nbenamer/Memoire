@@ -1,0 +1,56 @@
+{
+  "id": "69a69203cdc6046d47553458",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre criminelle",
+  "formation": "Formation restreinte hors RNSM/NA",
+  "numero_pourvoi": "25-80.691",
+  "numeros": [
+    "25-80.691"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:CR00247",
+  "date_decision": "2026-03-03",
+  "type_decision": "Autre",
+  "sens_solution": "Déchéance",
+  "solution_libelle": null,
+  "texte": "N° Z 25-80.691 F-B\n \n N° 00247\n \n \n RB5\n 3 MARS 2026\n \n \n DÉCHÉANCE\n \n \n M. BONNAL président,\n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E\n ________________________________________\n \n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, CHAMBRE CRIMINELLE, \n DU 3 MARS 2026\n \n \n \n M., [C], [R] a formé un pourvoi contre l'arrêt de la chambre de l'instruction de la cour d'appel de Paris, 5e section, en date du 22 janvier 2025, qui, dans la procédure d'extradition suivie contre lui à la demande du gouvernement moldave, a émis un avis favorable.\n \n Des mémoires et des observations complémentaires ont été produits.\n \n Sur le rapport de Mme Thomas, conseillère, les observations de la SCP Célice, Texidor, Périer, avocat de M., [C], [R], et les conclusions de M. Tarabeux, avocat général, après débats en l'audience publique du 27 janvier 2026 où étaient présents M. Bonnal, président, Mme Thomas, conseillère rapporteure, Mme Labrousse, conseillère de la chambre, et Mme Boudalia, greffière de chambre,\n \n la chambre criminelle de la Cour de cassation, composée en application de l'article 567-1-1 du code de procédure pénale, des président et conseillères précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n \n Examen de la recevabilité des mémoires\n \n 1. La Cour de cassation juge que le demandeur en cassation, s'il souhaite bénéficier de l'aide juridictionnelle à l'occasion de son pourvoi, doit déposer une demande d'aide juridictionnelle dans le mois qui suit la date à laquelle il forme son pourvoi en cassation, que sa demande interrompt le délai pour constituer un avocat à la Cour de cassation et suspend ce délai jusqu'à ce qu'il soit définitivement statué sur la demande d'aide juridictionnelle, que, néanmoins, si la demande est déposée après le délai d'un mois suivant la date du pourvoi, même si l'aide juridictionnelle est accordée, le mémoire déposé par l'avocat est irrecevable. Elle juge également que cette solution ne s'applique pas lorsque, par l'effet de la loi, la Cour de cassation doit statuer dans un délai déterminé (Crim., 6 septembre 2023, pourvoi n° 22-86.049, publié au Bulletin).\n \n 2. En l'espèce, M., [C], [R] a formé, le 22 janvier 2025, un pourvoi contre l'arrêt de la chambre de l'instruction émettant un avis favorable à son extradition.\n \n 3. Le 28 février suivant, il a adressé une demande d'aide juridictionnelle au bureau d'aide juridictionnelle près la Cour de cassation, suivie d'une décision d'admission, de la constitution d'un avocat à la Cour le 8 avril 2025 et du dépôt de deux mémoires ampliatifs dans son intérêt.\n \n 4. Cependant, l'intéressé a déposé cette demande après le délai d'un mois suivant la date de son pourvoi, ce délai expirant le 24 février 2025.\n \n 5. En matière d'extradition, la loi ne prévoit pas que la Cour de cassation doive statuer sur le pourvoi dans un délai déterminé, de sorte que la règle ci-dessus rappelée s'applique.\n \n 6. Les mémoires doivent en conséquence être déclarés irrecevables, et le demandeur déchu de son pourvoi.\n \n PAR CES MOTIFS, la Cour :\n \n CONSTATE la déchéance du pourvoi ;\n \n Ainsi fait et jugé par la Cour de cassation, chambre criminelle, et prononcé par le président en son audience publique du trois mars deux mille vingt-six.",
+  "sommaire": "Encourt la déchéance de son pourvoi formé contre un arrêt rendu en matière d'extradition, le demandeur en cassation qui, souhaitant bénéficier de l'aide juridictionnelle, ne dépose pas sa demande dans le mois suivant la date à laquelle il a formé son pourvoi, le mémoire déposé par l'avocat désigné pour l'assister étant dès lors irrecevable",
+  "themes": [
+    "aide juridictionnelle",
+    "procédure d'admission",
+    "demande d'aide juridictionnelle",
+    "présentation à l'occasion d'un pourvoi",
+    "dépôt dans le délai d'un mois",
+    "défaut",
+    "effet"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1290
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1290,
+        3093
+      ]
+    ],
+    "dispositif": [
+      [
+        3093,
+        3314
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}

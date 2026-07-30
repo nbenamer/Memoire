@@ -1,0 +1,54 @@
+{
+  "id": "6a4f37a093c619cd1f958ab3",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-10.256",
+  "numeros": [
+    "25-10.256",
+    "25-10.256"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210696",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EO1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme ISOLA, conseillère doyenne \n faisant fonction de présidente\n \n \n \n Arrêt n° 10696 F\n \n Pourvoi n° Q 25-10.256 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n La société Hostellerie de Tourgéville, société par actions simplifiée, dont le siège est [Adresse 1], a formé le pourvoi n° Q 25-10.256 contre l'arrêt rendu le 14 novembre 2024 par la cour d'appel de Caen (2e chambre civile et commerciale), dans le litige l'opposant à la société Axa France IARD, société anonyme, dont le siège est [Adresse 2], défenderesse à la cassation.\n \n La société Axa France IARD a formé un pourvoi incident éventuel contre le même arrêt.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Brouzes, conseillère référendaire, les observations écrites de la SCP Melka-Prigent-Drusch, avocat de la société Hostellerie de Tourgéville, de la SCP Célice, Texidor, Périer, avocat de la société Axa France IARD, et l'avis de M. Brun, avocat général, après débats en l'audience publique du 3 juin 2026 où étaient présents Mme Isola, conseillère doyenne faisant fonction de présidente, Mme Brouzes, conseillère référendaire rapporteure, M. Martin, conseiller, et Mme Cathala, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée de la présidente et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, et sans qu'il y ait lieu de statuer sur le pourvoi incident qui n'est qu'éventuel, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la société Hostellerie de Tourgéville aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette les demandes ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1688
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1688,
+        2066
+      ]
+    ],
+    "dispositif": [
+      [
+        2066,
+        2676
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-11-14",
+    "title": "Cour d'appel de Caen",
+    "jurisdiction": "Cour d'appel de Caen",
+    "number": "23/01427"
+  }
+}

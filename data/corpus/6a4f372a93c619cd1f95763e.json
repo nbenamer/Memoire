@@ -1,0 +1,58 @@
+{
+  "id": "6a4f372a93c619cd1f95763e",
+  "juridiction": "Cour de cassation",
+  "chambre": "Troisième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "25-13.459",
+  "numeros": [
+    "25-13.459",
+    "25-13.459"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C310477",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 3\n \n CD\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n Mme TEILLER, présidente\n \n \n \n Arrêt n° 10477 F\n \n Pourvoi n° W 25-13.459 \n \n Aide juridictionnelle totale en demande\n au profit de Mme [U].\n Admission du bureau d'aide juridictionnelle\n près la Cour de cassation\n en date du 6 février 2025.\n \n Aide juridictionnelle totale en défense\n au profit de M. [Z].\n Admission du bureau d'aide juridictionnelle\n près la Cour de cassation\n en date du 18 juin 2025.\n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, TROISIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n Mme [N] [U], domiciliée [Adresse 1], a formé le pourvoi n° W 25-13.459 contre l'arrêt rendu le 26 septembre 2024 par la cour d'appel d'Aix-en-Provence (chambre1-7), dans le litige l'opposant :\n \n 1°/ à M. [Q] [Z], représenté par M. [Y] [Z] en vertu d'un jugement d'habilitation générale de représentation, domicilié [Adresse 2], \n \n 2°/ à M. [J] [O], domicilié [Adresse 3],\n \n défendeurs à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de Mme Grall, conseillère, les observations écrites de la SCP Le Griel, avocat de Mme [U], de la SCP Gaschignard, Loiseau et Massignon, avocat de M. [Z], après débats en l'audience publique du 27 mai 2026 où étaient présentes Mme Teiller, présidente, Mme Grall, conseillère rapporteure, Mme Proust, conseillère doyenne, et Mme Sara, greffière de chambre,\n \n la troisième chambre civile de la Cour de cassation, composée de la présidente et des conseillères précitées, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Les moyens de cassation, qui sont invoqués à l'encontre de la décision attaquée, ne sont manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne Mme [U] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par Mme [U] ;\n \n Ainsi fait et jugé par la Cour de cassation, troisième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile, et signé par Mme Proust, conseillère doyenne en ayant délibéré, en remplacement de Mme Teiller, présidente empêchée, conformément aux dispositions des articles 456 et 1021 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1771
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1771,
+        2150
+      ]
+    ],
+    "dispositif": [
+      [
+        2150,
+        2866
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2024-09-26",
+    "title": "Cour d'appel d'Aix en Provence\nA1",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "A1",
+    "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
+    "id": "66f64b120ff04326a7329064",
+    "sourceId": "jurica:2914025",
+    "number": "24/00435"
+  }
+}

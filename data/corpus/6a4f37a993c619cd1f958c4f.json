@@ -1,0 +1,58 @@
+{
+  "id": "6a4f37a993c619cd1f958c4f",
+  "juridiction": "Cour de cassation",
+  "chambre": "Deuxième chambre civile",
+  "formation": "Formation restreinte RNSM/NA",
+  "numero_pourvoi": "24-12.221",
+  "numeros": [
+    "24-12.221",
+    "24-12.221"
+  ],
+  "ecli": "ECLI:FR:CCASS:2026:C210692",
+  "date_decision": "2026-07-09",
+  "type_decision": "Autre",
+  "sens_solution": "Rejet",
+  "solution_libelle": null,
+  "texte": "CIV. 2\n \n EO1\n \n \n \n COUR DE CASSATION\n ______________________\n \n \n Arrêt du 9 juillet 2026\n \n \n \n \n Rejet non spécialement motivé\n \n \n M. DELBANO, conseiller faisant fonction de président\n \n \n \n Arrêt n° 10692 F\n \n Pourvoi n° E 24-12.221 \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n AU NOM DU PEUPLE FRANÇAIS\n _________________________\n \n \n ARRÊT DE LA COUR DE CASSATION, DEUXIÈME CHAMBRE CIVILE, DU 9 JUILLET 2026\n \n La communauté de communes du Golfe de Saint-Tropez, dont le siège est [Adresse 1] [Adresse 2], a formé le pourvoi n° E 24-12.221 contre l'arrêt rendu le 24 novembre 2023 par la cour d'appel d'Aix-en-Provence (chambre 1-1), dans le litige l'opposant :\n \n 1°/ à la Société civile du Rivet, dont le siège est [Adresse 3],\n \n 2°/ à la commune de [Localité 1], agissant par son maire en exercice, domicilié en cette qualité [Adresse 4],\n \n défenderesses à la cassation.\n \n Le dossier a été communiqué au procureur général.\n \n Sur le rapport de M. Becuwe, conseiller, les observations écrites de la SCP Delamarre et Jehannin, avocat de la communauté de communes du Golfe de Saint-Tropez, de la SARL Le Prado – Gilbert, avocat de la Société civile du Rivet, et l'avis de Mme Trassoudaine-Verger, avocate générale, après débats en l'audience publique du 27 mai 2026 où étaient présents M. Delbano, conseiller faisant fonction de président, M. Becuwe, conseiller rapporteur, Mme Vendryes, conseillère, et Mme Gratian, greffière de chambre,\n \n la deuxième chambre civile de la Cour de cassation, composée du président et des conseillers précités, après en avoir délibéré conformément à la loi, a rendu le présent arrêt.\n \n 1. Le moyen de cassation, qui est invoqué à l'encontre de la décision attaquée, n'est manifestement pas de nature à entraîner la cassation.\n \n 2. En application de l'article 1014, alinéa 1er, du code de procédure civile, il n'y a pas lieu de statuer par une décision spécialement motivée sur ce pourvoi qui n'est manifestement pas de nature à entraîner la cassation.\n \n PAR CES MOTIFS, la Cour :\n \n REJETTE le pourvoi ;\n \n Condamne la communauté de communes du Golfe de [Localité 2] aux dépens ;\n \n En application de l'article 700 du code de procédure civile, rejette la demande formée par la communauté de communes du Golfe de [Localité 2] et la condamne à payer à la Société civile du Rivet la somme de 1 500 euros ;\n \n Ainsi fait et jugé par la Cour de cassation, deuxième chambre civile, et prononcé publiquement le neuf juillet deux mille vingt-six par mise à disposition de l'arrêt au greffe de la Cour, les parties ayant été préalablement avisées dans les conditions prévues au deuxième alinéa de l'article 450 du code de procédure civile.",
+  "sommaire": null,
+  "themes": [],
+  "publication": [
+    "Non publié"
+  ],
+  "visa": [],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        1665
+      ]
+    ],
+    "expose": [],
+    "moyens": [],
+    "motivations": [
+      [
+        1665,
+        2038
+      ]
+    ],
+    "dispositif": [
+      [
+        2038,
+        2714
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": {
+    "date": "2023-11-24",
+    "title": "Cour d'appel d'Aix en Provence\n1A",
+    "jurisdiction": "Cour d'appel d'Aix en Provence",
+    "chamber": "1A",
+    "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+    "id": "65619d29f64b618318aec63e",
+    "sourceId": "jurica:2767718",
+    "number": "23/06214"
+  }
+}

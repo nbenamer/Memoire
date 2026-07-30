@@ -1,0 +1,60 @@
+{
+  "id": "682d68f316fd466a1ce900c6",
+  "juridiction": "Cour de cassation",
+  "chambre": "Chambre commerciale financière et économique",
+  "formation": "Formation de section",
+  "numero_pourvoi": "25-70.008",
+  "numeros": [
+    "25-70.008"
+  ],
+  "ecli": "ECLI:FR:CCASS:2025:CO15012",
+  "date_decision": "2025-05-21",
+  "type_decision": "Demande d'avis",
+  "sens_solution": "Avis",
+  "solution_libelle": null,
+  "texte": "Demande d'avis\n n°N 25-70.008\n \n Juridiction : le tribunal de commerce de Saint-Brieuc\n \n \n \n \n GS2\n \n \n \n \n \n Avis du 21 mai 2025\n \n \n \n n° 15012 P+B\n \n \n \n \n \n \n \n \n R É P U B L I Q U E F R A N Ç A I S E \n \n _________________________\n \n COUR DE CASSATION\n _________________________\n \n Chambre commerciale, financière et économique\n \n \n Vu les articles L. 441-1 et suivants du code de l'organisation judiciaire et 1031-1 et suivants du code de procédure civile ;\n \n La chambre commerciale, financière et économique de la Cour de cassation a rendu le présent avis sur le rapport de M. Boutié, conseiller référendaire, et l'avis de Mme Guinamant, avocat général référendaire\n \n Énoncé de la demande d'avis\n \n 1. La Cour de cassation a reçu, le 12 mars 2025, une demande d'avis formée le 5 mars 2025 par le juge-commissaire du tribunal aux activités économiques de Saint-Brieuc, en application des articles L. 441-1 et suivants du code de l'organisation judiciaire et 1031-1 et suivants du code de procédure civile, dans une instance concernant la procédure de liquidation judiciaire de M. [L].\n \n 2. La demande est ainsi formulée :\n \n « Comment s'articulent les dispositions de l'article L526-1 et suivants du code de commerce et celles des articles L526-22 et L681-1 et suivants du même code et donc de savoir si le liquidateur judiciaire a le pouvoir de demander la vente de la résidence principale au juge-commissaire pour le compte des créanciers ayant pour gage le patrimoine personnel ? »\n \n \n Recevabilité de la demande d'avis\n \n 3. L'objet du litige porte sur un immeuble acquis en indivision par le débiteur, avant l'ouverture de la procédure de liquidation judiciaire. La licitation de cet immeuble, qui est une opération de liquidation partage de l'indivision, échappe aux règles applicables en matière de réalisation des actifs de la procédure collective (Com., 2 juin 2015, n° 12-29.405, Bull. n° 96 ; Com., 20 sept. 2017, n° 16-14.295, Bull. n° 124, Com., 14 mars 2018, pourvoi n° 16-27.302, Bull. n° 32).\n \n 4. Dès lors, la question posée, en tant qu'elle porte sur « le pouvoir du liquidateur de demander la vente de la résidence principale au juge-commissaire pour le compte des créanciers ayant pour gage le patrimoine personnel » ne commande pas l'issue du litige et n'est pas recevable.\n \n PAR CES MOTIFS, la Cour :\n \n DIT n'y avoir lieu à avis.\n \n Fait à Paris et mis à disposition au greffe de la Cour le 21 mai 2025, après examen de la demande d'avis lors de la séance du 20 mai 2025 où étaient présents, conformément à l'article R. 431-5 du code de l'organisation judiciaire : M. Vigneau, président, M. Boutié, conseiller référendaire rapporteur, Mme Schmidt, conseiller doyen, M. Riffaud, Mme Guillou, MM. Bedouet, Calloch, Chazalette, Mme Gouarin, conseillers, Mmes Champ, Coricon, Buquant, conseillers référendaires, Mme Guinamant, avocat général référendaire et Mme. Sezer, greffier de chambre ;\n \n Le présent avis est signé par le conseiller référendaire rapporteur, le président et le greffier de chambre",
+  "sommaire": "La licitation d'un immeuble acquis en indivision par le débiteur, avant l'ouverture de la procédure de liquidation judiciaire, est une opération de liquidation partage de l'indivision qui échappe aux règles applicables en matière de réalisation des actifs de la procédure collective (Com., 2 juin 2015, pourvoi n° 12-29.405, Bull. n° 96 ; Com., 20 septembre 2017, pourvoi n° 16-14.295, Bull. n° 124 ; Com., 14 mars 2018, pourvoi n° 16-27.302, Bull. n° 32).\nDès lors, une demande d'avis portant sur « le pouvoir du liquidateur de demander la vente de la résidence principale au juge-commissaire pour le compte des créanciers ayant pour gage le patrimoine personnel », ne commande pas l'issue du litige. Elle n'est donc pas recevable",
+  "themes": [
+    "cassation",
+    "saisine pour avis",
+    "demande",
+    "domaine d'application",
+    "exclusion",
+    "cas",
+    "question de droit posée ne commandant pas l'issue du procès"
+  ],
+  "publication": [
+    "Publié au Bulletin"
+  ],
+  "visa": [
+    {
+      "title": "Articles L. <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=441-1+code+de+l'organisation+judiciaire&page=1&init=true\" target=\"_blank\">441-1</a> et suivants du code de l'organisation judiciaire et <a href=\"https://www.legifrance.gouv.fr/search/code?tab_selection=code&searchField=ALL&query=1031-1+code+de+procedure+civile&page=1&init=true\" target=\"_blank\">1031-1</a> et suivants du code de procedure civile."
+    }
+  ],
+  "zones": {
+    "introduction": [
+      [
+        0,
+        677
+      ]
+    ],
+    "expose": [],
+    "moyens": [
+      [
+        677,
+        2309
+      ]
+    ],
+    "motivations": [],
+    "dispositif": [
+      [
+        2309,
+        3033
+      ]
+    ],
+    "annexes": []
+  },
+  "partielle": false,
+  "interet_particulier": false,
+  "decision_attaquee": null
+}
