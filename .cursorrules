@@ -1,8 +1,63 @@
-Projet : generateur de fiches d'arret a partir de decisions de la Cour de cassation (Judilibre).
-Langue : code et commentaires en francais.
-Stack : Python 3.11, HuggingFace (CamemBERT/JuriBERT, BARThez), FAISS, sentence-transformers.
-Architecture : pipeline modulaire (acquisition -> segmentation -> resume -> retrieval -> evaluation).
-Contraintes :
-- Ne jamais logguer ni commiter de donnees de decisions (RGPD, pseudonymisation).
-- Privilegier des fonctions courtes, testees, documentees.
-- Toujours expliquer les choix techniques en une phrase.
+# CONTEXTE
+Prototype d'un memoire de M2 (Dev/Data/IA). Objectif : generer automatiquement des
+FICHES D'ARRET (faits, procedure, probleme de droit, solution) a partir des decisions
+de la COUR DE CASSATION, diffusees en open data via l'API JUDILIBRE.
+Deux criteres de reussite : gain de temps (productivite) et FIABILITE du resultat.
+
+# PHILOSOPHIE D'ARCHITECTURE
+Pipeline MODULAIRE, jamais de boite noire monolithique. Chaque maillon est un module
+isole, testable et remplacable independamment, dont on peut mesurer la qualite seul.
+On prefere toujours le controle et la tracabilite a la simplicite d'un modele unique.
+
+# LES MAILLONS (ordre du pipeline)
+1. acquisition/  : client API Judilibre. Recupere le texte integral + metadonnees
+   (formation, date, n de pourvoi, sens de la solution) + le SOMMAIRE OFFICIEL si present.
+2. segmentation/ : decoupe l'arret en zones (en-tete, faits et procedure, examen des
+   moyens [enonce du moyen / reponse de la Cour], dispositif). Approche HYBRIDE :
+   regles (regex sur les intitules post-2019 "1. Faits et procedure", "PAR CES MOTIFS")
+   + modele d'apprentissage pour l'etiquetage fin et les arrets anciens.
+3. summarization/ : produit les composantes. EXTRACTIF (fidele) pour faits/procedure/
+   solution ; ABSTRACTIF (BARThez) pour la reformulation et le PROBLEME DE DROIT (qui
+   n'est ecrit nulle part). Toujours ancrer l'abstractif sur des passages reels
+   (extract-then-abstract / RAG).
+4. retrieval/    : embeddings (sentence-transformers, idealement specialise droit) +
+   index vectoriel FAISS. Sert la recherche de decisions comparables ET l'ancrage RAG.
+5. evaluation/   : ROUGE + BERTScore contre le sommaire officiel, PLUS une grille
+   juridique (sens de solution correct ? principe exact ? reference non inventee ?
+   completude ?). ATTENTION : ROUGE est aveugle a l'inversion casse/rejette.
+
+# DECISIONS DE CONCEPTION (le "pourquoi")
+- Perimetre = Cour de cassation via Judilibre : donnees propres et deja pseudonymisees,
+  donc PAS d'OCR et conformite facilitee.
+- Le SOMMAIRE OFFICIEL sert de cible d'entrainement (paires arret->sommaire) ET d'etalon
+  d'evaluation.
+- Le PROBLEME DE DROIT est la sortie la plus risquee (abstractive, non ancrable) :
+  le signaler comme incertain, le formuler prudemment, le soumettre au controle humain.
+- Modeles specialises et AUTO-HEBERGES (CamemBERT/JuriBERT, BARThez), PAS d'API tierce :
+  sert la fiabilite, la souverainete et le RGPD.
+- En cas de doute, ABSTENTION plutot qu'invention.
+
+# CONTRAINTES RGPD / SECURITE (bloquantes)
+- NE JAMAIS logguer, persister en clair, ni commiter de texte de decision ou de donnee
+  personnelle. data/ est git-ignored.
+- Secrets (cles API PISTE/Judilibre) uniquement via .env, jamais en dur, jamais commite.
+- Ne pas envoyer de texte de decision vers un service cloud tiers ; traitement local.
+
+# CONVENTIONS DE CODE
+- Python 3.11 ; code et commentaires EN FRANCAIS.
+- Type hints partout, docstrings courtes, fonctions courtes a responsabilite unique.
+- PEP 8. Un test pytest pour chaque fonction non triviale.
+- Pour l'acquisition : tester avec un MOCK, aucun appel reseau reel en test.
+- Logging via le module logging (pas de print en prod), sans jamais logguer de contenu
+  de decision. Gestion d'erreurs explicite (reseau, format, donnees manquantes).
+
+# STACK
+requests, python-dotenv, transformers, torch, sentence-transformers, faiss-cpu,
+scikit-learn, rouge-score, pandas, numpy. Ne pas ajouter de dependance sans raison.
+
+# MANIERE DE TRAVAILLER
+- Avancer par petits increments verifiables ; ne pas reecrire tout le projet d'un coup.
+- Expliquer chaque choix technique en une phrase.
+- Avant un maillon structurant, proposer les signatures de fonctions/classes et attendre
+  validation.
+- Respecter l'arborescence existante ; signaler tout fichier cree hors perimetre.

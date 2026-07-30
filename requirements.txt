@@ -2,9 +2,13 @@ requests
 python-dotenv
 transformers
 torch
+datasets
+accelerate
+sentencepiece
 sentence-transformers
 faiss-cpu
 scikit-learn
 rouge-score
 pandas
 numpy
+pytest
